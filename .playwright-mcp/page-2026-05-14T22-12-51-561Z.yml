@@ -1,0 +1,2306 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/HVAC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/HVAC
+                  - img [ref=e49]
+              - textbox "Remove r/HVAC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/HVAC⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - region "Community actions" [ref=e83]:
+            - generic [ref=e84]:
+              - heading "r/HVAC" [level=1] [ref=e90]
+              - generic [ref=e91]:
+                - button "Create Post" [ref=e95] [cursor=pointer]:
+                  - generic [ref=e96]:
+                    - img [ref=e98]
+                    - generic [ref=e100]: Create Post
+                - button "Join" [ref=e105] [cursor=pointer]
+          - generic [ref=e106]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e107] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e108] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e109]:
+            - main [ref=e110]:
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - generic "Sort by" [ref=e117]:
+                    - 'button "Sort by: Top" [ref=e119] [cursor=pointer]':
+                      - generic [ref=e121]: Top
+                  - generic "Sort by" [ref=e126]:
+                    - 'button "Sort by: This Month" [ref=e128] [cursor=pointer]':
+                      - generic [ref=e130]: This Month
+                - generic "View" [ref=e136]:
+                  - 'button "View: Card" [ref=e138] [cursor=pointer]'
+              - generic [ref=e144]:
+                - button "collapse/expand community highlights" [ref=e145] [cursor=pointer]:
+                  - heading "Community highlights" [level=3] [ref=e146]:
+                    - img [ref=e147]
+                    - generic [ref=e149]: Community highlights
+                  - button "collapse/expand community highlights" [ref=e151]:
+                    - img [ref=e154]
+                - generic:
+                  - list [ref=e158]:
+                    - generic:
+                      - listitem [ref=e159]:
+                        - link "State of the Subreddit 3/31/26 Announcement" [ref=e160] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1s96k47/state_of_the_subreddit_33126/
+                          - generic [ref=e164]:
+                            - heading "State of the Subreddit 3/31/26" [level=2] [ref=e168]
+                            - generic [ref=e172]:
+                              - img [ref=e173]
+                              - generic [ref=e175]: Announcement
+                      - listitem [ref=e176]:
+                        - link "AC troubleshooting cheatsheet Megathread" [ref=e177] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1ls9go8/ac_troubleshooting_cheatsheet/
+                          - generic [ref=e183]:
+                            - heading "AC troubleshooting cheatsheet" [level=2] [ref=e187]
+                            - generic [ref=e191]:
+                              - img [ref=e192]
+                              - generic [ref=e194]: Megathread
+                      - listitem [ref=e195]:
+                        - link "Simplified Guide To Superheat and Subcool" [ref=e196] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1hgd7la/simplified_guide_to_superheat_and_subcool/
+                          - generic [ref=e200]:
+                            - heading "Simplified Guide To Superheat and Subcool" [level=2] [ref=e204]
+                            - img [ref=e213]
+                  - article "Want to post? Verify here!" [ref=e216]:
+                    - generic [ref=e217]:
+                      - link "Want to post? Verify here!" [ref=e218] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1s91h94/want_to_post_verify_here/
+                        - generic [ref=e219]:
+                          - generic: Want to post? Verify here!
+                      - heading "Want to post? Verify here! hvacbot u/hvacbot" [level=2] [ref=e222]:
+                        - link "Want to post? Verify here! hvacbot u/hvacbot" [ref=e223] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1s91h94/want_to_post_verify_here/
+                          - generic [ref=e224]: Want to post? Verify here!
+                          - generic [ref=e226]:
+                            - img "hvacbot" [ref=e229]
+                            - generic [ref=e230]: u/hvacbot
+                      - iframe [ref=e240]:
+                        - heading "You must be logged in to verify an account..." [level=1] [ref=f1e4]
+                      - button "Privacy" [ref=e245] [cursor=pointer]:
+                        - generic [ref=e246]:
+                          - img [ref=e248]
+                          - generic [ref=e250]: Privacy
+                      - generic "Actions available for this post" [ref=e252]:
+                        - generic [ref=e255]:
+                          - button "Upvote" [ref=e256] [cursor=pointer]:
+                            - img [ref=e258]
+                            - generic [ref=e260]:
+                              - generic: Upvote
+                          - generic [ref=e262]: "105"
+                          - button "Downvote" [ref=e263] [cursor=pointer]:
+                            - img [ref=e265]
+                            - generic [ref=e267]:
+                              - generic: Downvote
+                        - link "1 Go to comments" [ref=e268] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1s91h94/want_to_post_verify_here/
+                          - generic [ref=e269]:
+                            - img [ref=e271]
+                            - generic [ref=e274]: "1"
+                          - generic [ref=e275]:
+                            - generic: Go to comments
+                        - button "Share" [ref=e279] [cursor=pointer]:
+                          - generic [ref=e280]:
+                            - img [ref=e282]
+                            - generic [ref=e284]: Share
+              - generic [ref=e286]:
+                - generic "A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments."
+                - separator [ref=e287]
+                - generic [ref=e288]:
+                  - heading "Feed" [level=1] [ref=e290]
+                  - generic:
+                    - article "Can we just go back to contactors and capacitors please" [ref=e291]:
+                      - generic [ref=e292] [cursor=pointer]:
+                        - link "Can we just go back to contactors and capacitors please" [ref=e293]:
+                          - /url: /r/HVAC/comments/1t7a7nl/can_we_just_go_back_to_contactors_and_capacitors/
+                          - generic [ref=e294]:
+                            - generic: Can we just go back to contactors and capacitors please
+                        - generic [ref=e295]:
+                          - generic [ref=e296]:
+                            - 'link "Author: u/Megamazuma20" [ref=e301]':
+                              - /url: /user/Megamazuma20/
+                              - generic [ref=e302]:
+                                - img "u/Megamazuma20 avatar" [ref=e305]
+                                - generic [ref=e306]: u/Megamazuma20
+                            - generic [ref=e307]: •
+                            - time [ref=e309]: 6 days ago
+                          - button "Open user actions" [ref=e314]:
+                            - img [ref=e317]
+                        - generic [ref=e320]:
+                          - heading "Can we just go back to contactors and capacitors please" [level=2] [ref=e321]:
+                            - link "Can we just go back to contactors and capacitors please" [ref=e322]:
+                              - /url: /r/HVAC/comments/1t7a7nl/can_we_just_go_back_to_contactors_and_capacitors/
+                          - 'link "Flair: Meme/Shitpost" [ref=e325]':
+                            - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                            - 'generic "Flair: Meme/Shitpost" [ref=e327]': Meme/Shitpost
+                        - img "r/HVAC - Can we just go back to contactors and capacitors please" [ref=e333]
+                        - generic "Actions available for this post" [ref=e335]:
+                          - generic [ref=e338]:
+                            - button "Upvote" [ref=e339]:
+                              - img [ref=e341]
+                              - generic [ref=e343]:
+                                - generic: Upvote
+                            - generic [ref=e345]: 1K
+                            - button "Downvote" [ref=e346]:
+                              - img [ref=e348]
+                              - generic [ref=e350]:
+                                - generic: Downvote
+                          - link "191 Go to comments" [ref=e351]:
+                            - /url: /r/HVAC/comments/1t7a7nl/can_we_just_go_back_to_contactors_and_capacitors/
+                            - generic [ref=e352]:
+                              - img [ref=e354]
+                              - generic [ref=e357]: "191"
+                            - generic [ref=e358]:
+                              - generic: Go to comments
+                          - button "Give award" [ref=e360]:
+                            - img [ref=e363]
+                          - button "Share" [ref=e368]:
+                            - generic [ref=e369]:
+                              - img [ref=e371]
+                              - generic [ref=e373]: Share
+                    - separator [ref=e374]
+                    - generic [ref=e375]:
+                      - 'generic "Advertisement: Real talk from real sellers: Shopify is the easiest way to start. Now it''s your turn. Start your free trial." [ref=e376]':
+                        - 'link "Advertisement: Real talk from real sellers: Shopify is the easiest way to start. Now it''s your turn. Start your free trial." [ref=e377] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=R_mc7kFvNkJUDTfGlb7IL_xo5liJhK6dQxBhvjuXnQFBBtnXPbFehUela01P7Zc2B1-nrHJktrcsnd-9351LZcGKbc9i7LLBkRGWXlAYcK-BrvOcecoF1evd-RE3QTIpqIWVztb3ccFbH_wYLkfF_7nkbhiGx_mSKitGdg_D5MMHgfgo_6wMYUmyNdTzWPBC29qaVYpqHNhrMHSeuI-RTh58MHgsQt5LmQR0hOquMog_5QrDk0Sb52zHN67eKuchMULKetZBZGreJNtrJjZsjGxAPN94Ll6HT8qvGoXt8dwFymRef1LRyo5noQNfahunalHefI-yz7CoPiSDDVZkODWPpi9i7ijQxGw8J-fq2AqUPQrM15yyr2oTog18TnXIuMWCZsmTzN-3rB-vtKs50J9xALXH4p3qMrIUtJae28d7zQR1
+                      - generic [ref=e378]:
+                        - generic [ref=e379]:
+                          - link "u/shopify avatar u/shopify" [ref=e382] [cursor=pointer]:
+                            - /url: /user/shopify/
+                            - img "u/shopify avatar" [ref=e385]
+                            - generic [ref=e386]: u/shopify
+                          - generic [ref=e387]: •
+                          - link "Promoted" [ref=e389] [cursor=pointer]:
+                            - /url: /user/shopify/
+                            - generic [ref=e390]: Promoted
+                          - link [ref=e392] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=R_mc7kFvNkJUDTfGlb7IL_xo5liJhK6dQxBhvjuXnQFBBtnXPbFehUela01P7Zc2B1-nrHJktrcsnd-9351LZcGKbc9i7LLBkRGWXlAYcK-BrvOcecoF1evd-RE3QTIpqIWVztb3ccFbH_wYLkfF_7nkbhiGx_mSKitGdg_D5MMHgfgo_6wMYUmyNdTzWPBC29qaVYpqHNhrMHSeuI-RTh58MHgsQt5LmQR0hOquMog_5QrDk0Sb52zHN67eKuchMULKetZBZGreJNtrJjZsjGxAPN94Ll6HT8qvGoXt8dwFymRef1LRyo5noQNfahunalHefI-yz7CoPiSDDVZkODWPpi9i7ijQxGw8J-fq2AqUPQrM15yyr2oTog18TnXIuMWCZsmTzN-3rB-vtKs50J9xALXH4p3qMrIUtJae28d7zQR1
+                        - button "Open user actions" [ref=e397] [cursor=pointer]:
+                          - img [ref=e400]
+                      - 'heading "Real talk from real sellers: Shopify is the easiest way to start. Now it''s your turn. Start your free trial." [level=2] [ref=e404]':
+                        - 'link "Real talk from real sellers: Shopify is the easiest way to start. Now it''s your turn. Start your free trial." [ref=e407] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=R_mc7kFvNkJUDTfGlb7IL_xo5liJhK6dQxBhvjuXnQFBBtnXPbFehUela01P7Zc2B1-nrHJktrcsnd-9351LZcGKbc9i7LLBkRGWXlAYcK-BrvOcecoF1evd-RE3QTIpqIWVztb3ccFbH_wYLkfF_7nkbhiGx_mSKitGdg_D5MMHgfgo_6wMYUmyNdTzWPBC29qaVYpqHNhrMHSeuI-RTh58MHgsQt5LmQR0hOquMog_5QrDk0Sb52zHN67eKuchMULKetZBZGreJNtrJjZsjGxAPN94Ll6HT8qvGoXt8dwFymRef1LRyo5noQNfahunalHefI-yz7CoPiSDDVZkODWPpi9i7ijQxGw8J-fq2AqUPQrM15yyr2oTog18TnXIuMWCZsmTzN-3rB-vtKs50J9xALXH4p3qMrIUtJae28d7zQR1
+                          - generic: "Real talk from real sellers: Shopify is the easiest way to start. Now it's your turn. Start your free trial."
+                      - generic [ref=e408]:
+                        - generic [ref=e412]:
+                          - generic [ref=e413]:
+                            - generic [ref=e414]:
+                              - list [ref=e416]:
+                                - listitem [ref=e417]:
+                                  - link [ref=e419] [cursor=pointer]:
+                                    - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=tEQuo5E1D7GJNldQlaPwNPVvqo-URgWmVEZzUdXQOf6CMOzcaCiTFd9ULS0y4JWeXeRW1M9Tj2KEzhMvi0ByAXyPfqW1t962shspBDqGLPTKJ-Yl7rCbiUdGLjZDbD07eoKUVQ_6jp4K-SY9qDYacrO384ReqvFZZrl93lCZCHhL_vzMSk3bRffLT5SUgmgfXdK8S4GhuLKDlKuogMPWbbyaluvF80T3FuN6GJiBwhVc7vDUEv_2QDiVCwkqQQydrb-zR4PpKMAimL_zvAYmorSjtJE1avLgIb9D8Ff9s74M3oN3axZQT8RtmACUENYuPZC0ygkTJYXalEQ7r7TR0TV4ApJnQcdJ2W1O5uw4I87u4tlYfAMh23MHPGvHq_ecqSGZz8ZVHZ-lJY46ITvdiiapv6XXQljuTDGp1hjCiNS-x6oy8gjh9-NQ
+                                    - figure [ref=e420]:
+                                      - 'img "Real talk from real sellers: Shopify is the easiest way to start. Now it''s your turn. Start your free trial." [ref=e421]'
+                              - group [ref=e426]:
+                                - button "Page 1 (Current page)" [ref=e428] [cursor=pointer]:
+                                  - generic [ref=e429]:
+                                    - generic: Page 1 (Current page)
+                                - button "Page 2" [ref=e430] [cursor=pointer]:
+                                  - generic [ref=e431]:
+                                    - generic: Page 2
+                                - button [ref=e432]
+                                - button [ref=e434]
+                            - generic [ref=e437]:
+                              - button "Previous page" [disabled]:
+                                - generic:
+                                  - generic:
+                                    - img
+                            - button "Next page" [ref=e440] [cursor=pointer]:
+                              - img [ref=e443]
+                          - generic [ref=e445]:
+                            - generic: Item 1 of 4
+                        - separator [ref=e446]
+                        - generic [ref=e447]:
+                          - link [ref=e449] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=tEQuo5E1D7GJNldQlaPwNPVvqo-URgWmVEZzUdXQOf6CMOzcaCiTFd9ULS0y4JWeXeRW1M9Tj2KEzhMvi0ByAXyPfqW1t962shspBDqGLPTKJ-Yl7rCbiUdGLjZDbD07eoKUVQ_6jp4K-SY9qDYacrO384ReqvFZZrl93lCZCHhL_vzMSk3bRffLT5SUgmgfXdK8S4GhuLKDlKuogMPWbbyaluvF80T3FuN6GJiBwhVc7vDUEv_2QDiVCwkqQQydrb-zR4PpKMAimL_zvAYmorSjtJE1avLgIb9D8Ff9s74M3oN3axZQT8RtmACUENYuPZC0ygkTJYXalEQ7r7TR0TV4ApJnQcdJ2W1O5uw4I87u4tlYfAMh23MHPGvHq_ecqSGZz8ZVHZ-lJY46ITvdiiapv6XXQljuTDGp1hjCiNS-x6oy8gjh9-NQ
+                          - generic [ref=e450]:
+                            - link "shopify.com" [ref=e455] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=tEQuo5E1D7GJNldQlaPwNPVvqo-URgWmVEZzUdXQOf6CMOzcaCiTFd9ULS0y4JWeXeRW1M9Tj2KEzhMvi0ByAXyPfqW1t962shspBDqGLPTKJ-Yl7rCbiUdGLjZDbD07eoKUVQ_6jp4K-SY9qDYacrO384ReqvFZZrl93lCZCHhL_vzMSk3bRffLT5SUgmgfXdK8S4GhuLKDlKuogMPWbbyaluvF80T3FuN6GJiBwhVc7vDUEv_2QDiVCwkqQQydrb-zR4PpKMAimL_zvAYmorSjtJE1avLgIb9D8Ff9s74M3oN3axZQT8RtmACUENYuPZC0ygkTJYXalEQ7r7TR0TV4ApJnQcdJ2W1O5uw4I87u4tlYfAMh23MHPGvHq_ecqSGZz8ZVHZ-lJY46ITvdiiapv6XXQljuTDGp1hjCiNS-x6oy8gjh9-NQ
+                              - generic: shopify.com
+                            - link "Sign Up" [ref=e458] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=tEQuo5E1D7GJNldQlaPwNPVvqo-URgWmVEZzUdXQOf6CMOzcaCiTFd9ULS0y4JWeXeRW1M9Tj2KEzhMvi0ByAXyPfqW1t962shspBDqGLPTKJ-Yl7rCbiUdGLjZDbD07eoKUVQ_6jp4K-SY9qDYacrO384ReqvFZZrl93lCZCHhL_vzMSk3bRffLT5SUgmgfXdK8S4GhuLKDlKuogMPWbbyaluvF80T3FuN6GJiBwhVc7vDUEv_2QDiVCwkqQQydrb-zR4PpKMAimL_zvAYmorSjtJE1avLgIb9D8Ff9s74M3oN3axZQT8RtmACUENYuPZC0ygkTJYXalEQ7r7TR0TV4ApJnQcdJ2W1O5uw4I87u4tlYfAMh23MHPGvHq_ecqSGZz8ZVHZ-lJY46ITvdiiapv6XXQljuTDGp1hjCiNS-x6oy8gjh9-NQ
+                              - generic [ref=e460]:
+                                - generic: Sign Up
+                      - generic "Actions available for this post" [ref=e462]:
+                        - generic [ref=e465]:
+                          - button "Upvote" [ref=e466] [cursor=pointer]:
+                            - img [ref=e468]
+                            - generic [ref=e470]:
+                              - generic: Upvote
+                          - text: Vote
+                          - button "Downvote" [ref=e471] [cursor=pointer]:
+                            - img [ref=e473]
+                            - generic [ref=e475]:
+                              - generic: Downvote
+                        - link "0 Go to comments" [ref=e476] [cursor=pointer]:
+                          - /url: /user/shopify/comments/1shyjld/real_talk_from_real_sellers_shopify_is_the/?p=1&impressionid=5805739628665278563
+                          - generic [ref=e477]:
+                            - img [ref=e479]
+                            - generic [ref=e482]: "0"
+                          - generic [ref=e483]:
+                            - generic: Go to comments
+                        - button "Share" [ref=e487] [cursor=pointer]:
+                          - generic [ref=e488]:
+                            - img [ref=e490]
+                            - generic [ref=e492]: Share
+                        - link [ref=e494] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=4EJcFU6IzOsuT2yMFw-OJfuDNLJSnd688xzXvcmj4VNkLonKVUqUjwmqn_d2fvFC2B7MscBFwTN_bH_ozgJet53FULhhkG6UJArL0ohfgJ1wts0XgbPxDq2bX09cft0Uk5Tp03BBIi5VaxA7SsI-n_IqxxaYRF5Q28uPzgZ5trXDMUcVLD8ccw_BjgLofFDJReg12JIDbQy_Q3bhre5SAfboXUG-cMs-ucklwhyTaIe45JDuRr4s3g41iJyFzTtJqY3tKdgU9qiZVuw9RFTdUIitPQ0eki0T1tnpOZabnlu7YUUJjXQNNF8H4HC09O5XqBURhYqIWqYXqQf-jqTboQkBX_PWD-NgHPaTJbUOXZMPishJMKFdSlg_1Tv4On0_ety7HTkbc_khMTEJaSmf-owHm7h4ZY2j1H9E2U_3Ar_iI4OW05kH7DVh46hJAc2owYuFCQsxCP9x30X55JD652vyuGTMZx0GXF3zUyM8Ic34TCoUa81bSHWkQ4R_UEsQIyB6mU0ZKxYgDOVCui_5GOOTI4fa6lxWtDwswDBXMi0fpFbRscOxUWa4Zj3tin3SYsP1dxMQCY_BDKd7tKRZVX_YX9oeengS0uyurXQn4LS35bXLYZ52AV9GSGi3s5qH47V3jf26vTT95zA5DX8D8FidnY3-Qw-YTgbxZdOhQ8V9U1O5S6KUAc505QCzzrXcfi_T192MAAoMiqyTuEIu_2JCvekWypV4Itj1mNn58_FecQ&zp=R_mc7kFvNkJUDTfGlb7IL_xo5liJhK6dQxBhvjuXnQFBBtnXPbFehUela01P7Zc2B1-nrHJktrcsnd-9351LZcGKbc9i7LLBkRGWXlAYcK-BrvOcecoF1evd-RE3QTIpqIWVztb3ccFbH_wYLkfF_7nkbhiGx_mSKitGdg_D5MMHgfgo_6wMYUmyNdTzWPBC29qaVYpqHNhrMHSeuI-RTh58MHgsQt5LmQR0hOquMog_5QrDk0Sb52zHN67eKuchMULKetZBZGreJNtrJjZsjGxAPN94Ll6HT8qvGoXt8dwFymRef1LRyo5noQNfahunalHefI-yz7CoPiSDDVZkODWPpi9i7ijQxGw8J-fq2AqUPQrM15yyr2oTog18TnXIuMWCZsmTzN-3rB-vtKs50J9xALXH4p3qMrIUtJae28d7zQR1
+                    - separator [ref=e495]
+                    - article "This is what the customer expects you to do when you tell them their inverter board is bad" [ref=e496]:
+                      - generic [ref=e497] [cursor=pointer]:
+                        - link "This is what the customer expects you to do when you tell them their inverter board is bad" [ref=e498]:
+                          - /url: /r/HVAC/comments/1svbde1/this_is_what_the_customer_expects_you_to_do_when/
+                          - generic [ref=e499]:
+                            - generic: This is what the customer expects you to do when you tell them their inverter board is bad
+                        - generic [ref=e500]:
+                          - generic [ref=e501]:
+                            - 'link "Author: u/LittleBigBamboo" [ref=e506]':
+                              - /url: /user/LittleBigBamboo/
+                              - generic [ref=e507]:
+                                - generic [ref=e509]:
+                                  - img [ref=e511]
+                                  - img [ref=e515]
+                                  - img [ref=e518]
+                                - generic [ref=e520]: u/LittleBigBamboo
+                            - generic [ref=e521]: •
+                            - time [ref=e523]: 19 days ago
+                          - button "Open user actions" [ref=e528]:
+                            - img [ref=e531]
+                        - generic [ref=e534]:
+                          - heading "This is what the customer expects you to do when you tell them their inverter board is bad" [level=2] [ref=e535]:
+                            - link "This is what the customer expects you to do when you tell them their inverter board is bad" [ref=e536]:
+                              - /url: /r/HVAC/comments/1svbde1/this_is_what_the_customer_expects_you_to_do_when/
+                          - 'link "Flair: Meme/Shitpost" [ref=e539]':
+                            - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                            - 'generic "Flair: Meme/Shitpost" [ref=e541]': Meme/Shitpost
+                        - generic [ref=e548]:
+                          - generic "video player" [ref=e549]
+                          - button [disabled] [ref=e550]:
+                            - img [ref=e551]
+                        - generic "Actions available for this post" [ref=e554]:
+                          - generic [ref=e557]:
+                            - button "Upvote" [ref=e558]:
+                              - img [ref=e560]
+                              - generic [ref=e562]:
+                                - generic: Upvote
+                            - generic [ref=e564]: "642"
+                            - button "Downvote" [ref=e565]:
+                              - img [ref=e567]
+                              - generic [ref=e569]:
+                                - generic: Downvote
+                          - link "37 Go to comments" [ref=e570]:
+                            - /url: /r/HVAC/comments/1svbde1/this_is_what_the_customer_expects_you_to_do_when/
+                            - generic [ref=e571]:
+                              - img [ref=e573]
+                              - generic [ref=e576]: "37"
+                            - generic [ref=e577]:
+                              - generic: Go to comments
+                          - button "Give award" [ref=e579]:
+                            - img [ref=e582]
+                          - button "Share" [ref=e587]:
+                            - generic [ref=e588]:
+                              - img [ref=e590]
+                              - generic [ref=e592]: Share
+                    - separator [ref=e593]
+                    - article "Are you even a tech if you don't have a hanmock" [ref=e594]:
+                      - generic [ref=e595] [cursor=pointer]:
+                        - link "Are you even a tech if you don't have a hanmock" [ref=e596]:
+                          - /url: /r/HVAC/comments/1suyqmf/are_you_even_a_tech_if_you_dont_have_a_hanmock/
+                          - generic [ref=e597]:
+                            - generic: Are you even a tech if you don't have a hanmock
+                        - generic [ref=e598]:
+                          - generic [ref=e599]:
+                            - 'link "Author: u/pyrofox79" [ref=e604]':
+                              - /url: /user/pyrofox79/
+                              - generic [ref=e605]:
+                                - img [ref=e610]
+                                - generic [ref=e612]: u/pyrofox79
+                            - generic [ref=e613]: •
+                            - time [ref=e615]: 20 days ago
+                          - button "Open user actions" [ref=e620]:
+                            - img [ref=e623]
+                        - generic [ref=e626]:
+                          - heading "Are you even a tech if you don't have a hanmock" [level=2] [ref=e627]:
+                            - link "Are you even a tech if you don't have a hanmock" [ref=e628]:
+                              - /url: /r/HVAC/comments/1suyqmf/are_you_even_a_tech_if_you_dont_have_a_hanmock/
+                          - 'link "Flair: Meme/Shitpost" [ref=e631]':
+                            - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                            - 'generic "Flair: Meme/Shitpost" [ref=e633]': Meme/Shitpost
+                        - img "r/HVAC - Are you even a tech if you don't have a hanmock" [ref=e639]
+                        - generic "Actions available for this post" [ref=e641]:
+                          - generic [ref=e644]:
+                            - button "Upvote" [ref=e645]:
+                              - img [ref=e647]
+                              - generic [ref=e649]:
+                                - generic: Upvote
+                            - generic [ref=e651]: "589"
+                            - button "Downvote" [ref=e652]:
+                              - img [ref=e654]
+                              - generic [ref=e656]:
+                                - generic: Downvote
+                          - link "154 Go to comments" [ref=e657]:
+                            - /url: /r/HVAC/comments/1suyqmf/are_you_even_a_tech_if_you_dont_have_a_hanmock/
+                            - generic [ref=e658]:
+                              - img [ref=e660]
+                              - generic [ref=e663]: "154"
+                            - generic [ref=e664]:
+                              - generic: Go to comments
+                          - button "Give award" [ref=e666]:
+                            - img [ref=e669]
+                          - button "Share" [ref=e674]:
+                            - generic [ref=e675]:
+                              - img [ref=e677]
+                              - generic [ref=e679]: Share
+                    - separator [ref=e680]
+                    - generic [ref=e681]:
+                      - generic:
+                        - article "First time flaring, easier than i thought!" [ref=e682]:
+                          - generic [ref=e683] [cursor=pointer]:
+                            - link "First time flaring, easier than i thought!" [ref=e684]:
+                              - /url: /r/HVAC/comments/1tb5w6d/first_time_flaring_easier_than_i_thought/
+                              - generic [ref=e685]:
+                                - generic: First time flaring, easier than i thought!
+                            - generic [ref=e686]:
+                              - generic [ref=e687]:
+                                - 'link "Author: u/Megamazuma20" [ref=e692]':
+                                  - /url: /user/Megamazuma20/
+                                  - generic [ref=e693]:
+                                    - img "u/Megamazuma20 avatar" [ref=e696]
+                                    - generic [ref=e697]: u/Megamazuma20
+                                - generic [ref=e698]: •
+                                - time [ref=e700]: 2 days ago
+                              - button "Open user actions" [ref=e705]:
+                                - img [ref=e708]
+                            - generic [ref=e711]:
+                              - heading "First time flaring, easier than i thought!" [level=2] [ref=e712]:
+                                - link "First time flaring, easier than i thought!" [ref=e713]:
+                                  - /url: /r/HVAC/comments/1tb5w6d/first_time_flaring_easier_than_i_thought/
+                              - 'link "Flair: Meme/Shitpost" [ref=e716]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e718]': Meme/Shitpost
+                            - img "r/HVAC - First time flaring, easier than i thought!" [ref=e724]
+                            - generic "Actions available for this post" [ref=e726]:
+                              - generic [ref=e729]:
+                                - button "Upvote" [ref=e730]:
+                                  - img [ref=e732]
+                                  - generic [ref=e734]:
+                                    - generic: Upvote
+                                - generic [ref=e736]: "573"
+                                - button "Downvote" [ref=e737]:
+                                  - img [ref=e739]
+                                  - generic [ref=e741]:
+                                    - generic: Downvote
+                              - link "84 Go to comments" [ref=e742]:
+                                - /url: /r/HVAC/comments/1tb5w6d/first_time_flaring_easier_than_i_thought/
+                                - generic [ref=e743]:
+                                  - img [ref=e745]
+                                  - generic [ref=e748]: "84"
+                                - generic [ref=e749]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e751]:
+                                - img [ref=e754]
+                              - button "Share" [ref=e759]:
+                                - generic [ref=e760]:
+                                  - img [ref=e762]
+                                  - generic [ref=e764]: Share
+                        - separator [ref=e765]
+                        - separator [ref=e766]
+                        - article "3hrs after a pm call I have to go back" [ref=e767]:
+                          - generic [ref=e768] [cursor=pointer]:
+                            - link "3hrs after a pm call I have to go back" [ref=e769]:
+                              - /url: /r/HVAC/comments/1smlalm/3hrs_after_a_pm_call_i_have_to_go_back/
+                              - generic [ref=e770]:
+                                - generic: 3hrs after a pm call I have to go back
+                            - generic [ref=e771]:
+                              - generic [ref=e772]:
+                                - 'link "Author: u/drewnin" [ref=e777]':
+                                  - /url: /user/drewnin/
+                                  - generic [ref=e778]:
+                                    - img "u/drewnin avatar" [ref=e781]
+                                    - generic [ref=e782]: u/drewnin
+                                - generic [ref=e783]: •
+                                - time [ref=e785]: 1 mo. ago
+                              - button "Open user actions" [ref=e790]:
+                                - img [ref=e793]
+                            - generic [ref=e796]:
+                              - heading "3hrs after a pm call I have to go back" [level=2] [ref=e797]:
+                                - link "3hrs after a pm call I have to go back" [ref=e798]:
+                                  - /url: /r/HVAC/comments/1smlalm/3hrs_after_a_pm_call_i_have_to_go_back/
+                              - 'link "Flair: General" [ref=e801]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e803]': General
+                            - generic [ref=e808]:
+                              - generic [ref=e809]:
+                                - generic [ref=e810]:
+                                  - list [ref=e812]:
+                                    - listitem [ref=e813]:
+                                      - figure [ref=e814]:
+                                        - img "r/HVAC - 3hrs after a pm call I have to go back" [ref=e815]
+                                  - group [ref=e820]:
+                                    - button "Page 1 (Current page)" [ref=e822]:
+                                      - generic [ref=e823]:
+                                        - generic: Page 1 (Current page)
+                                    - button "Page 2" [ref=e824]:
+                                      - generic [ref=e825]:
+                                        - generic: Page 2
+                                    - button [ref=e826]
+                                    - button [ref=e828]
+                                - generic [ref=e831]:
+                                  - button "Previous page" [disabled]:
+                                    - generic:
+                                      - generic:
+                                        - img
+                                - button "Next page" [ref=e834]:
+                                  - img [ref=e837]
+                              - generic [ref=e839]:
+                                - generic: Item 1 of 4
+                            - generic "Actions available for this post" [ref=e841]:
+                              - generic [ref=e844]:
+                                - button "Upvote" [ref=e845]:
+                                  - img [ref=e847]
+                                  - generic [ref=e849]:
+                                    - generic: Upvote
+                                - generic [ref=e851]: "490"
+                                - button "Downvote" [ref=e852]:
+                                  - img [ref=e854]
+                                  - generic [ref=e856]:
+                                    - generic: Downvote
+                              - link "73 Go to comments" [ref=e857]:
+                                - /url: /r/HVAC/comments/1smlalm/3hrs_after_a_pm_call_i_have_to_go_back/
+                                - generic [ref=e858]:
+                                  - img [ref=e860]
+                                  - generic [ref=e863]: "73"
+                                - generic [ref=e864]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e866]:
+                                - img [ref=e869]
+                              - button "Share" [ref=e874]:
+                                - generic [ref=e875]:
+                                  - img [ref=e877]
+                                  - generic [ref=e879]: Share
+                        - separator [ref=e880]
+                        - article "The amount of strength needed to pull this out is unbelievable" [ref=e881]:
+                          - generic [ref=e882] [cursor=pointer]:
+                            - link "The amount of strength needed to pull this out is unbelievable" [ref=e883]:
+                              - /url: /r/HVAC/comments/1t0twjn/the_amount_of_strength_needed_to_pull_this_out_is/
+                              - generic [ref=e884]:
+                                - generic: The amount of strength needed to pull this out is unbelievable
+                            - generic [ref=e885]:
+                              - generic [ref=e886]:
+                                - 'link "Author: u/JoeyMarsENT" [ref=e891]':
+                                  - /url: /user/JoeyMarsENT/
+                                  - generic [ref=e892]:
+                                    - img "u/JoeyMarsENT avatar" [ref=e895]
+                                    - generic [ref=e896]: u/JoeyMarsENT
+                                - generic [ref=e897]: •
+                                - time [ref=e899]: 13 days ago
+                              - button "Open user actions" [ref=e904]:
+                                - img [ref=e907]
+                            - generic [ref=e910]:
+                              - heading "The amount of strength needed to pull this out is unbelievable" [level=2] [ref=e911]:
+                                - link "The amount of strength needed to pull this out is unbelievable" [ref=e912]:
+                                  - /url: /r/HVAC/comments/1t0twjn/the_amount_of_strength_needed_to_pull_this_out_is/
+                              - 'link "Flair: Rant" [ref=e915]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Rant%22
+                                - 'generic "Flair: Rant" [ref=e917]': Rant
+                            - img "r/HVAC - The amount of strength needed to pull this out is unbelievable" [ref=e923]
+                            - generic "Actions available for this post" [ref=e925]:
+                              - generic [ref=e928]:
+                                - button "Upvote" [ref=e929]:
+                                  - img [ref=e931]
+                                  - generic [ref=e933]:
+                                    - generic: Upvote
+                                - generic [ref=e935]: "473"
+                                - button "Downvote" [ref=e936]:
+                                  - img [ref=e938]
+                                  - generic [ref=e940]:
+                                    - generic: Downvote
+                              - link "151 Go to comments" [ref=e941]:
+                                - /url: /r/HVAC/comments/1t0twjn/the_amount_of_strength_needed_to_pull_this_out_is/
+                                - generic [ref=e942]:
+                                  - img [ref=e944]
+                                  - generic [ref=e947]: "151"
+                                - generic [ref=e948]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e950]:
+                                - img [ref=e953]
+                              - button "Share" [ref=e958]:
+                                - generic [ref=e959]:
+                                  - img [ref=e961]
+                                  - generic [ref=e963]: Share
+                        - separator [ref=e964]
+                        - generic [ref=e965]:
+                          - 'generic "Advertisement: New jingle, same Ozempic®. There’s only one Ozempic®. Only Novo Nordisk manufactures FDA-approved semaglutide medicines, like Ozempic®." [ref=e966]':
+                            - 'link "Advertisement: New jingle, same Ozempic®. There’s only one Ozempic®. Only Novo Nordisk manufactures FDA-approved semaglutide medicines, like Ozempic®." [ref=e967] [cursor=pointer]':
+                              - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                          - generic [ref=e968]:
+                            - generic [ref=e969]:
+                              - link "u/Ozempic_semaglutide avatar u/Ozempic_semaglutide" [ref=e972] [cursor=pointer]:
+                                - /url: /user/Ozempic_semaglutide/
+                                - img "u/Ozempic_semaglutide avatar" [ref=e975]
+                                - generic [ref=e976]: u/Ozempic_semaglutide
+                              - generic [ref=e977]: •
+                              - link "Promoted" [ref=e979] [cursor=pointer]:
+                                - /url: /user/Ozempic_semaglutide/
+                                - generic [ref=e980]: Promoted
+                              - link [ref=e982] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                            - button "Open user actions" [ref=e987] [cursor=pointer]:
+                              - img [ref=e990]
+                          - 'heading "New jingle, same Ozempic®. There’s only one Ozempic®. Only Novo Nordisk manufactures FDA-approved semaglutide medicines, like Ozempic®. See the following links for Boxed Warning: Medication Guide & Safety Information" [level=2] [ref=e994]':
+                            - generic [ref=e995]:
+                              - link "New jingle, same Ozempic®. There’s only one Ozempic®. Only Novo Nordisk manufactures FDA-approved semaglutide medicines, like Ozempic®." [ref=e997] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                                - generic: New jingle, same Ozempic®. There’s only one Ozempic®. Only Novo Nordisk manufactures FDA-approved semaglutide medicines, like Ozempic®.
+                              - 'link "See the following links for Boxed Warning: Medication Guide & Safety Information" [ref=e999] [cursor=pointer]':
+                                - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                                - paragraph [ref=e1001]:
+                                  - text: "See the following links for Boxed Warning:"
+                                  - link "Medication Guide" [ref=e1002]:
+                                    - /url: https://www.ozempic.com/prescribing-information.html#med-guide
+                                  - text: "&"
+                                  - link "Safety Information" [ref=e1003]:
+                                    - /url: https://www.ozempic.com/important-safety-information.html
+                          - generic [ref=e1004]:
+                            - button "Play" [ref=e1011] [cursor=pointer]:
+                              - img [ref=e1012]
+                            - separator [ref=e1014]
+                            - generic [ref=e1015]:
+                              - link [ref=e1017] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                              - generic [ref=e1018]:
+                                - link "ozempic.com" [ref=e1021] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                                  - generic: ozempic.com
+                                - link "Learn More" [ref=e1023] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                                  - generic [ref=e1025]:
+                                    - generic: Learn More
+                          - generic "Actions available for this post" [ref=e1027]:
+                            - generic [ref=e1030]:
+                              - button "Upvote" [ref=e1031] [cursor=pointer]:
+                                - img [ref=e1033]
+                                - generic [ref=e1035]:
+                                  - generic: Upvote
+                              - text: Vote
+                              - button "Downvote" [ref=e1036] [cursor=pointer]:
+                                - img [ref=e1038]
+                                - generic [ref=e1040]:
+                                  - generic: Downvote
+                            - link "0 Go to comments" [ref=e1041] [cursor=pointer]:
+                              - /url: /user/Ozempic_semaglutide/comments/1qwvj8l/new_jingle_same_ozempic_theres_only_one_ozempic/?p=1&impressionid=5373750240773939856
+                              - generic [ref=e1042]:
+                                - img [ref=e1044]
+                                - generic [ref=e1047]: "0"
+                              - generic [ref=e1048]:
+                                - generic: Go to comments
+                            - button "Share" [ref=e1052] [cursor=pointer]:
+                              - generic [ref=e1053]:
+                                - img [ref=e1055]
+                                - generic [ref=e1057]: Share
+                            - link [ref=e1059] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=LXQ9Q0ik4eQRKouRLEZt4toCHLb0YJ8GHdEmFhs-iWuUMPsVo-0kHGv3LpGhmP2V0DD-beyaYnHccRw4FZuKRsstxiGWFBnX8_Epuzcj49wWlzTdR3C3Tzref4b4FDpCmbpnQvyioYq70KOyfMU20W62wARfQOmPU-br7YIruaTiQJZ3y8jDj4pVKmOFZJPxTVrpkdKwRHgzylH1ZOrl7PzdIkJ2RGvRzQskI1FGnZoWDFigOCwgK0QzGQwWOLTqR97NgQuU27NcUMtt9jYG3i3pd6O69P5grjyzaJlqwtXknIpAbO6aiBfKTfMKJaBbFwOMaU_vT6h6haV-RH8KyURnR9N-pww7hl4VS16ceT38JarLz_SLyVUmbO4QIM00ut2y6qG9jM9X2-OXEud5_4KuqvileeJbwQDJRmz2rhRX9IgnwILlsYidzwc5znHvDHtpu4tMh2t9fnd2aej5TVw9qP4BdN_GPLBH1NMgm8ieOaUsMm1ZcUQ7aX1Hu7BrZdoA0emIxJKE1KRWgcVsPjz2ajhibjbKaZWPxXJFrSHqSFKxK6ymzEj_l5c4G-8haHNwAbZsDZq58RcBGRRHO2OAfY7n_EIB9fxJzdNuT3xu55JvZFb5p0XH3fHHCvVS2QsIPYEVa2I2yXhimBZlNkFUIOxFMMeu8McIFA0BUd0YM5ZmgYWYqch_RAlPtYMfmw9f3ndpGO4jVnRe9k_cTLVdCnslEF71tBhYo09OYk4&zp=Y87G9uQLz85QFonSx_PjN_GjpNJ0e1RhbIxS1Cmjf4i-lwDmuex1fByvATkO_ffP3uOoIguhb_lS08PwvggWQtW8JeT_WtRJvm_rUrRW1ksK3F1S4bJ35j7_Qwvrw87MBuPV1rlKKIdo1NmVtOOtdU23_PvMvTa-Lrh8e6NAp-ihMJ8BVoVfB-a-92T5rA8bs42jaPl_xh7XjLCEuYsPYRN3Y_VFbDEFAqzCMviiFhGs6Pbha6v7fUBgvvs6acvYdfA8Ge47WRKJT7NZLKHtHqEbUYWll99mDxAluV_78lXGOzmGmlK4lnhTN87IVTS4ex7MoKWqUonEsvtXMWcjfKQ0nH31Qe34b3VgzW2vLPeeT-DpPFhYU0tzlKvZ1iZhIuUbhkwaetoiYWnVtQsrs3va9DfcUNTXo-XK
+                        - separator [ref=e1060]
+                        - article "Rate my bleedout spot." [ref=e1061]:
+                          - generic [ref=e1062] [cursor=pointer]:
+                            - link "Rate my bleedout spot." [ref=e1063]:
+                              - /url: /r/HVAC/comments/1ssrcw2/rate_my_bleedout_spot/
+                              - generic [ref=e1064]:
+                                - generic: Rate my bleedout spot.
+                            - generic [ref=e1065]:
+                              - generic [ref=e1066]:
+                                - 'link "Author: u/Puzzleheaded-Fee2343" [ref=e1071]':
+                                  - /url: /user/Puzzleheaded-Fee2343/
+                                  - generic [ref=e1072]:
+                                    - img "u/Puzzleheaded-Fee2343 avatar" [ref=e1075]
+                                    - generic [ref=e1076]: u/Puzzleheaded-Fee2343
+                                - generic [ref=e1077]: •
+                                - time [ref=e1079]: 22 days ago
+                              - button "Open user actions" [ref=e1084]:
+                                - img [ref=e1087]
+                            - generic [ref=e1090]:
+                              - heading "Rate my bleedout spot." [level=2] [ref=e1091]:
+                                - link "Rate my bleedout spot." [ref=e1092]:
+                                  - /url: /r/HVAC/comments/1ssrcw2/rate_my_bleedout_spot/
+                              - 'link "Flair: Meme/Shitpost" [ref=e1095]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e1097]': Meme/Shitpost
+                            - img "r/HVAC - Rate my bleedout spot." [ref=e1103]
+                            - generic "Actions available for this post" [ref=e1105]:
+                              - generic [ref=e1108]:
+                                - button "Upvote" [ref=e1109]:
+                                  - img [ref=e1111]
+                                  - generic [ref=e1113]:
+                                    - generic: Upvote
+                                - generic [ref=e1115]: "466"
+                                - button "Downvote" [ref=e1116]:
+                                  - img [ref=e1118]
+                                  - generic [ref=e1120]:
+                                    - generic: Downvote
+                              - link "41 Go to comments" [ref=e1121]:
+                                - /url: /r/HVAC/comments/1ssrcw2/rate_my_bleedout_spot/
+                                - generic [ref=e1122]:
+                                  - img [ref=e1124]
+                                  - generic [ref=e1127]: "41"
+                                - generic [ref=e1128]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1130]:
+                                - img [ref=e1133]
+                              - button "Share" [ref=e1138]:
+                                - generic [ref=e1139]:
+                                  - img [ref=e1141]
+                                  - generic [ref=e1143]: Share
+                        - separator [ref=e1144]
+                        - article "Busy weekend setting up a new van" [ref=e1145]:
+                          - generic [ref=e1146] [cursor=pointer]:
+                            - link "Busy weekend setting up a new van" [ref=e1147]:
+                              - /url: /r/HVAC/comments/1swqinb/busy_weekend_setting_up_a_new_van/
+                              - generic [ref=e1148]:
+                                - generic: Busy weekend setting up a new van
+                            - generic [ref=e1149]:
+                              - generic [ref=e1150]:
+                                - 'link "Author: u/deejaygee11" [ref=e1155]':
+                                  - /url: /user/deejaygee11/
+                                  - generic [ref=e1156]:
+                                    - img "u/deejaygee11 avatar" [ref=e1159]
+                                    - generic [ref=e1160]: u/deejaygee11
+                                - generic [ref=e1161]: •
+                                - time [ref=e1163]: 18 days ago
+                              - button "Open user actions" [ref=e1168]:
+                                - img [ref=e1171]
+                            - generic [ref=e1174]:
+                              - heading "Busy weekend setting up a new van" [level=2] [ref=e1175]:
+                                - link "Busy weekend setting up a new van" [ref=e1176]:
+                                  - /url: /r/HVAC/comments/1swqinb/busy_weekend_setting_up_a_new_van/
+                              - 'link "Flair: General" [ref=e1179]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e1181]': General
+                            - generic [ref=e1186]:
+                              - generic [ref=e1187]:
+                                - generic [ref=e1188]:
+                                  - list [ref=e1190]:
+                                    - listitem [ref=e1191]:
+                                      - figure [ref=e1192]:
+                                        - img "r/HVAC - Busy weekend setting up a new van" [ref=e1193]
+                                  - group [ref=e1198]:
+                                    - button "Page 1 (Current page)" [ref=e1200]:
+                                      - generic [ref=e1201]:
+                                        - generic: Page 1 (Current page)
+                                    - button "Page 2" [ref=e1202]:
+                                      - generic [ref=e1203]:
+                                        - generic: Page 2
+                                    - button [ref=e1204]
+                                    - button [ref=e1206]
+                                - generic [ref=e1209]:
+                                  - button "Previous page" [disabled]:
+                                    - generic:
+                                      - generic:
+                                        - img
+                                - button "Next page" [ref=e1212]:
+                                  - img [ref=e1215]
+                              - generic [ref=e1217]:
+                                - generic: Item 1 of 4
+                            - generic "Actions available for this post" [ref=e1219]:
+                              - generic [ref=e1222]:
+                                - button "Upvote" [ref=e1223]:
+                                  - img [ref=e1225]
+                                  - generic [ref=e1227]:
+                                    - generic: Upvote
+                                - generic [ref=e1229]: "390"
+                                - button "Downvote" [ref=e1230]:
+                                  - img [ref=e1232]
+                                  - generic [ref=e1234]:
+                                    - generic: Downvote
+                              - link "50 Go to comments" [ref=e1235]:
+                                - /url: /r/HVAC/comments/1swqinb/busy_weekend_setting_up_a_new_van/
+                                - generic [ref=e1236]:
+                                  - img [ref=e1238]
+                                  - generic [ref=e1241]: "50"
+                                - generic [ref=e1242]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1244]:
+                                - img [ref=e1247]
+                              - button "Share" [ref=e1252]:
+                                - generic [ref=e1253]:
+                                  - img [ref=e1255]
+                                  - generic [ref=e1257]: Share
+                        - separator [ref=e1258]
+                        - article "Seriously Trane? How much would it cost to throw in new rubber grommets with a $6k compressor?" [ref=e1259]:
+                          - generic [ref=e1260] [cursor=pointer]:
+                            - link "Seriously Trane? How much would it cost to throw in new rubber grommets with a $6k compressor?" [ref=e1261]:
+                              - /url: /r/HVAC/comments/1t3pttl/seriously_trane_how_much_would_it_cost_to_throw/
+                              - generic [ref=e1262]:
+                                - generic: Seriously Trane? How much would it cost to throw in new rubber grommets with a $6k compressor?
+                            - generic [ref=e1263]:
+                              - generic [ref=e1264]:
+                                - 'link "Author: u/leethal99" [ref=e1269]':
+                                  - /url: /user/leethal99/
+                                  - generic [ref=e1270]:
+                                    - img [ref=e1275]
+                                    - generic [ref=e1277]: u/leethal99
+                                - generic [ref=e1278]: •
+                                - time [ref=e1280]: 10 days ago
+                              - button "Open user actions" [ref=e1285]:
+                                - img [ref=e1288]
+                            - generic [ref=e1291]:
+                              - heading "Seriously Trane? How much would it cost to throw in new rubber grommets with a $6k compressor?" [level=2] [ref=e1292]:
+                                - link "Seriously Trane? How much would it cost to throw in new rubber grommets with a $6k compressor?" [ref=e1293]:
+                                  - /url: /r/HVAC/comments/1t3pttl/seriously_trane_how_much_would_it_cost_to_throw/
+                              - 'link "Flair: Meme/Shitpost" [ref=e1296]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e1298]': Meme/Shitpost
+                            - img "r/HVAC - Seriously Trane? How much would it cost to throw in new rubber grommets with a $6k compressor?" [ref=e1304]
+                            - generic "Actions available for this post" [ref=e1306]:
+                              - generic [ref=e1309]:
+                                - button "Upvote" [ref=e1310]:
+                                  - img [ref=e1312]
+                                  - generic [ref=e1314]:
+                                    - generic: Upvote
+                                - generic [ref=e1316]: "385"
+                                - button "Downvote" [ref=e1317]:
+                                  - img [ref=e1319]
+                                  - generic [ref=e1321]:
+                                    - generic: Downvote
+                              - link "70 Go to comments" [ref=e1322]:
+                                - /url: /r/HVAC/comments/1t3pttl/seriously_trane_how_much_would_it_cost_to_throw/
+                                - generic [ref=e1323]:
+                                  - img [ref=e1325]
+                                  - generic [ref=e1328]: "70"
+                                - generic [ref=e1329]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1331]:
+                                - img [ref=e1334]
+                              - button "Share" [ref=e1339]:
+                                - generic [ref=e1340]:
+                                  - img [ref=e1342]
+                                  - generic [ref=e1344]: Share
+                        - separator [ref=e1345]
+                        - article "Dispatch is wild sometimes 🤣🤣🤣" [ref=e1346]:
+                          - generic [ref=e1347] [cursor=pointer]:
+                            - link "Dispatch is wild sometimes 🤣🤣🤣" [ref=e1348]:
+                              - /url: /r/HVAC/comments/1sro0vm/dispatch_is_wild_sometimes/
+                              - generic [ref=e1349]:
+                                - generic: Dispatch is wild sometimes 🤣🤣🤣
+                            - generic [ref=e1350]:
+                              - generic [ref=e1351]:
+                                - 'link "Author: u/MalchionMajere" [ref=e1356]':
+                                  - /url: /user/MalchionMajere/
+                                  - generic [ref=e1357]:
+                                    - img [ref=e1362]
+                                    - generic [ref=e1364]: u/MalchionMajere
+                                - generic [ref=e1365]: •
+                                - time [ref=e1367]: 23 days ago
+                              - button "Open user actions" [ref=e1372]:
+                                - img [ref=e1375]
+                            - generic [ref=e1378]:
+                              - heading "Dispatch is wild sometimes 🤣🤣🤣" [level=2] [ref=e1379]:
+                                - link "Dispatch is wild sometimes 🤣🤣🤣" [ref=e1380]:
+                                  - /url: /r/HVAC/comments/1sro0vm/dispatch_is_wild_sometimes/
+                              - 'link "Flair: Meme/Shitpost" [ref=e1383]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e1385]': Meme/Shitpost
+                            - img "r/HVAC - Dispatch is wild sometimes 🤣🤣🤣" [ref=e1391]
+                            - generic "Actions available for this post" [ref=e1393]:
+                              - generic [ref=e1396]:
+                                - button "Upvote" [ref=e1397]:
+                                  - img [ref=e1399]
+                                  - generic [ref=e1401]:
+                                    - generic: Upvote
+                                - generic [ref=e1403]: "373"
+                                - button "Downvote" [ref=e1404]:
+                                  - img [ref=e1406]
+                                  - generic [ref=e1408]:
+                                    - generic: Downvote
+                              - link "37 Go to comments" [ref=e1409]:
+                                - /url: /r/HVAC/comments/1sro0vm/dispatch_is_wild_sometimes/
+                                - generic [ref=e1410]:
+                                  - img [ref=e1412]
+                                  - generic [ref=e1415]: "37"
+                                - generic [ref=e1416]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1418]:
+                                - img [ref=e1421]
+                              - button "Share" [ref=e1426]:
+                                - generic [ref=e1427]:
+                                  - img [ref=e1429]
+                                  - generic [ref=e1431]: Share
+                        - separator [ref=e1432]
+                        - article "Gray cylinders ruin the vibe" [ref=e1433]:
+                          - generic [ref=e1434] [cursor=pointer]:
+                            - link "Gray cylinders ruin the vibe" [ref=e1435]:
+                              - /url: /r/HVAC/comments/1snfpyu/gray_cylinders_ruin_the_vibe/
+                              - generic [ref=e1436]:
+                                - generic: Gray cylinders ruin the vibe
+                            - generic [ref=e1437]:
+                              - generic [ref=e1438]:
+                                - 'link "Author: u/UseRNaME_l0St" [ref=e1443]':
+                                  - /url: /user/UseRNaME_l0St/
+                                  - generic [ref=e1444]:
+                                    - img "u/UseRNaME_l0St avatar" [ref=e1447]
+                                    - generic [ref=e1448]: u/UseRNaME_l0St
+                                - generic [ref=e1449]: •
+                                - time [ref=e1451]: 28 days ago
+                              - button "Open user actions" [ref=e1456]:
+                                - img [ref=e1459]
+                            - generic [ref=e1462]:
+                              - heading "Gray cylinders ruin the vibe" [level=2] [ref=e1463]:
+                                - link "Gray cylinders ruin the vibe" [ref=e1464]:
+                                  - /url: /r/HVAC/comments/1snfpyu/gray_cylinders_ruin_the_vibe/
+                              - 'link "Flair: General" [ref=e1467]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e1469]': General
+                            - generic [ref=e1474]:
+                              - generic [ref=e1475]:
+                                - generic [ref=e1476]:
+                                  - list [ref=e1478]:
+                                    - listitem [ref=e1479]:
+                                      - figure [ref=e1480]:
+                                        - img "r/HVAC - Gray cylinders ruin the vibe" [ref=e1481]
+                                  - group [ref=e1486]:
+                                    - button "Page 1 (Current page)" [ref=e1488]:
+                                      - generic [ref=e1489]:
+                                        - generic: Page 1 (Current page)
+                                    - button "Page 2" [ref=e1490]:
+                                      - generic [ref=e1491]:
+                                        - generic: Page 2
+                                - generic [ref=e1493]:
+                                  - button "Previous page" [disabled]:
+                                    - generic:
+                                      - generic:
+                                        - img
+                                - button "Next page" [ref=e1496]:
+                                  - img [ref=e1499]
+                              - generic [ref=e1501]:
+                                - generic: Item 1 of 2
+                            - generic "Actions available for this post" [ref=e1503]:
+                              - generic [ref=e1506]:
+                                - button "Upvote" [ref=e1507]:
+                                  - img [ref=e1509]
+                                  - generic [ref=e1511]:
+                                    - generic: Upvote
+                                - generic [ref=e1513]: "364"
+                                - button "Downvote" [ref=e1514]:
+                                  - img [ref=e1516]
+                                  - generic [ref=e1518]:
+                                    - generic: Downvote
+                              - link "67 Go to comments" [ref=e1519]:
+                                - /url: /r/HVAC/comments/1snfpyu/gray_cylinders_ruin_the_vibe/
+                                - generic [ref=e1520]:
+                                  - img [ref=e1522]
+                                  - generic [ref=e1525]: "67"
+                                - generic [ref=e1526]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1528]:
+                                - img [ref=e1531]
+                              - button "Share" [ref=e1536]:
+                                - generic [ref=e1537]:
+                                  - img [ref=e1539]
+                                  - generic [ref=e1541]: Share
+                        - separator [ref=e1542]
+                        - article "She’s an old gal!" [ref=e1543]:
+                          - generic [ref=e1544] [cursor=pointer]:
+                            - link "She’s an old gal!" [ref=e1545]:
+                              - /url: /r/HVAC/comments/1t0z5q2/shes_an_old_gal/
+                              - generic [ref=e1546]:
+                                - generic: She’s an old gal!
+                            - generic [ref=e1547]:
+                              - generic [ref=e1548]:
+                                - 'link "Author: u/Advanced_Head_806" [ref=e1553]':
+                                  - /url: /user/Advanced_Head_806/
+                                  - generic [ref=e1554]:
+                                    - img [ref=e1559]
+                                    - generic [ref=e1561]: u/Advanced_Head_806
+                                - generic [ref=e1562]: •
+                                - time [ref=e1564]: 13 days ago
+                              - button "Open user actions" [ref=e1569]:
+                                - img [ref=e1572]
+                            - generic [ref=e1575]:
+                              - heading "She’s an old gal!" [level=2] [ref=e1576]:
+                                - link "She’s an old gal!" [ref=e1577]:
+                                  - /url: /r/HVAC/comments/1t0z5q2/shes_an_old_gal/
+                              - 'link "Flair: General" [ref=e1580]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e1582]': General
+                            - img "r/HVAC - She’s an old gal!" [ref=e1588]
+                            - generic "Actions available for this post" [ref=e1590]:
+                              - generic [ref=e1593]:
+                                - button "Upvote" [ref=e1594]:
+                                  - img [ref=e1596]
+                                  - generic [ref=e1598]:
+                                    - generic: Upvote
+                                - generic [ref=e1600]: "354"
+                                - button "Downvote" [ref=e1601]:
+                                  - img [ref=e1603]
+                                  - generic [ref=e1605]:
+                                    - generic: Downvote
+                              - link "48 Go to comments" [ref=e1606]:
+                                - /url: /r/HVAC/comments/1t0z5q2/shes_an_old_gal/
+                                - generic [ref=e1607]:
+                                  - img [ref=e1609]
+                                  - generic [ref=e1612]: "48"
+                                - generic [ref=e1613]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1615]:
+                                - img [ref=e1618]
+                              - button "Share" [ref=e1623]:
+                                - generic [ref=e1624]:
+                                  - img [ref=e1626]
+                                  - generic [ref=e1628]: Share
+                        - separator [ref=e1629]
+                        - article "I found one boys…" [ref=e1630]:
+                          - generic [ref=e1631] [cursor=pointer]:
+                            - link "I found one boys…" [ref=e1632]:
+                              - /url: /r/HVAC/comments/1supkn3/i_found_one_boys/
+                              - generic [ref=e1633]:
+                                - generic: I found one boys…
+                            - generic [ref=e1634]:
+                              - generic [ref=e1635]:
+                                - 'link "Author: u/jimmerbroadband" [ref=e1640]':
+                                  - /url: /user/jimmerbroadband/
+                                  - generic [ref=e1641]:
+                                    - generic [ref=e1643]:
+                                      - img [ref=e1645]
+                                      - img [ref=e1649]
+                                      - img [ref=e1652]
+                                    - generic [ref=e1654]: u/jimmerbroadband
+                                - generic [ref=e1655]: •
+                                - time [ref=e1657]: 20 days ago
+                              - button "Open user actions" [ref=e1662]:
+                                - img [ref=e1665]
+                            - generic [ref=e1668]:
+                              - heading "I found one boys…" [level=2] [ref=e1669]:
+                                - link "I found one boys…" [ref=e1670]:
+                                  - /url: /r/HVAC/comments/1supkn3/i_found_one_boys/
+                              - 'link "Flair: General" [ref=e1673]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e1675]': General
+                            - img "r/HVAC - I found one boys…" [ref=e1681]
+                            - generic "Actions available for this post" [ref=e1683]:
+                              - generic [ref=e1686]:
+                                - button "Upvote" [ref=e1687]:
+                                  - img [ref=e1689]
+                                  - generic [ref=e1691]:
+                                    - generic: Upvote
+                                - generic [ref=e1693]: "329"
+                                - button "Downvote" [ref=e1694]:
+                                  - img [ref=e1696]
+                                  - generic [ref=e1698]:
+                                    - generic: Downvote
+                              - link "159 Go to comments" [ref=e1699]:
+                                - /url: /r/HVAC/comments/1supkn3/i_found_one_boys/
+                                - generic [ref=e1700]:
+                                  - img [ref=e1702]
+                                  - generic [ref=e1705]: "159"
+                                - generic [ref=e1706]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1708]:
+                                - img [ref=e1711]
+                              - button "Share" [ref=e1716]:
+                                - generic [ref=e1717]:
+                                  - img [ref=e1719]
+                                  - generic [ref=e1721]: Share
+                        - separator [ref=e1722]
+                        - generic [ref=e1723]:
+                          - 'generic "Advertisement: One lobby. Too many legends. Not enough ULTRA. Official Beer Sponsor of The FIFA World Cup 26™" [ref=e1724]':
+                            - 'link "Advertisement: One lobby. Too many legends. Not enough ULTRA. Official Beer Sponsor of The FIFA World Cup 26™" [ref=e1725] [cursor=pointer]':
+                              - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                          - generic [ref=e1726]:
+                            - generic [ref=e1727]:
+                              - link "u/Michelob-ULTRA avatar u/Michelob-ULTRA" [ref=e1730] [cursor=pointer]:
+                                - /url: /user/Michelob-ULTRA/
+                                - img "u/Michelob-ULTRA avatar" [ref=e1733]
+                                - generic [ref=e1734]: u/Michelob-ULTRA
+                              - generic [ref=e1735]: •
+                              - link "Promoted" [ref=e1737] [cursor=pointer]:
+                                - /url: /user/Michelob-ULTRA/
+                                - generic [ref=e1738]: Promoted
+                              - link [ref=e1740] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                            - button "Open user actions" [ref=e1745] [cursor=pointer]:
+                              - img [ref=e1748]
+                          - heading "One lobby. Too many legends. Not enough ULTRA. Official Beer Sponsor of The FIFA World Cup 26™" [level=2] [ref=e1752]:
+                            - link "One lobby. Too many legends. Not enough ULTRA. Official Beer Sponsor of The FIFA World Cup 26™" [ref=e1755] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                              - generic: One lobby. Too many legends. Not enough ULTRA. Official Beer Sponsor of The FIFA World Cup 26™
+                          - generic [ref=e1756]:
+                            - button "Play" [ref=e1763] [cursor=pointer]:
+                              - img [ref=e1764]
+                            - separator [ref=e1766]
+                            - generic [ref=e1767]:
+                              - link [ref=e1769] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                              - generic [ref=e1770]:
+                                - link "doordash.com" [ref=e1773] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                                  - generic: doordash.com
+                                - link "Order Now" [ref=e1775] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                                  - generic [ref=e1777]:
+                                    - generic: Order Now
+                          - generic "Actions available for this post" [ref=e1779]:
+                            - generic [ref=e1782]:
+                              - button "Upvote" [ref=e1783] [cursor=pointer]:
+                                - img [ref=e1785]
+                                - generic [ref=e1787]:
+                                  - generic: Upvote
+                              - text: Vote
+                              - button "Downvote" [ref=e1788] [cursor=pointer]:
+                                - img [ref=e1790]
+                                - generic [ref=e1792]:
+                                  - generic: Downvote
+                            - link "0 Go to comments" [ref=e1793] [cursor=pointer]:
+                              - /url: /user/Michelob-ULTRA/comments/1tabgne/one_lobby_too_many_legends_not_enough_ultra/?p=1&impressionid=5373750240774005392
+                              - generic [ref=e1794]:
+                                - img [ref=e1796]
+                                - generic [ref=e1799]: "0"
+                              - generic [ref=e1800]:
+                                - generic: Go to comments
+                            - button "Share" [ref=e1804] [cursor=pointer]:
+                              - generic [ref=e1805]:
+                                - img [ref=e1807]
+                                - generic [ref=e1809]: Share
+                            - link [ref=e1811] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=dWFh8S_0nwESpRFBqqzEk_3CDGQqSvAOZLrAVO0BkDZu1_gEpnEIKAju3eEzQ0ZRAt3EcbVy30tDimgZ1Bv8jHSuQRGs48VK0fHwfislIoNfYOB8Pra0papYJ2xZpGpm5ddYZqsozZYhYt4dSq36X-rAEUvCR89LWKsZ4gA8j2FLgW8HJ8DVlCajUHFtI8urb_0it8l-rQtKrlunrLfBmliCYuyHk2He0tWzeDi7WWUF_EG9EOPJzOkkqGsygIWP-bMStd4mmDNRrIoxhQ57bX2mRsWHQJo68K5h6jXSUaD2TzOgxMDMPmfCcQRQ7MWV5vGyHfsyUjK4Wl2h-lTc5lxa6OFCgAUJObtdh7MopRi4joVnyYz1VDcX38Uw_4FEW8Q65RwrL_zO3D6MsdvSM8Rd6TthvDvZikoTJgoBTxeaoenPg8_EQHmxTLMC-t8hDCfE6ihDz7eY7LiQ1G7eUinsH4y10cTtrhNRbaYceP8oYkJfNQXGbOzqdpY823MWwNlJAxoK19u74k6sLjoteWdt6Yv6kdcfCjiYJlQZZDzlYJ6yAV_AJjgfnCE_hwYIyHD1b8Vk8ULC15URytUaCDGGzDtjF_DYl3CrFPnQsy-sNA903Q78Ub8EkDZ8FwfY71VkAdjdp-JC0NDtCdscIW7EBi-MwawMkkRm1cS_L5XcSFnLkmwo1i8Pje50LoM6IM_fFb_czaatGQz3WMbccmRRG__-SpjLeSgw-_HiUtdz&zp=jmutQBuPUp1hLkYx7ZntHWpztU4Zdo8Ijvr904o4olQ1q6129Hr9xkpC62ViNvOjbaJiZp8a2z76MeYuk5-3ioj0LLGpBzrJ3d1HIXZn8m7mDt5xUNa5yp9RNUHgjEA4m0D72559z6119XmTabyJD7Y45v21DdTLB-aE5GHw64sRG47KxrE7eNgzPNy0_VMZ3a6oSLBAruQLNoMUwUUTO1mJufYeopOQTk0nsZKrEJSgXaGN57yY1ygorViUQMum9Ki9_SMWTffUuCKnWJSNk18XzXElQxKlh-nN39lgxL6rst0y-aSoytwTLP_ZfudsUeyS8OPNzg
+                        - separator [ref=e1812]
+                        - article "Felt better after this" [ref=e1813]:
+                          - generic [ref=e1814] [cursor=pointer]:
+                            - link "Felt better after this" [ref=e1815]:
+                              - /url: /r/HVAC/comments/1so9u9m/felt_better_after_this/
+                              - generic [ref=e1816]:
+                                - generic: Felt better after this
+                            - generic [ref=e1817]:
+                              - generic [ref=e1818]:
+                                - 'link "Author: u/Known_Entrepreneur60" [ref=e1823]':
+                                  - /url: /user/Known_Entrepreneur60/
+                                  - generic [ref=e1824]:
+                                    - img [ref=e1829]
+                                    - generic [ref=e1831]: u/Known_Entrepreneur60
+                                - generic [ref=e1832]: •
+                                - time [ref=e1834]: 27 days ago
+                              - button "Open user actions" [ref=e1839]:
+                                - img [ref=e1842]
+                            - generic [ref=e1845]:
+                              - heading "Felt better after this" [level=2] [ref=e1846]:
+                                - link "Felt better after this" [ref=e1847]:
+                                  - /url: /r/HVAC/comments/1so9u9m/felt_better_after_this/
+                              - 'link "Flair: Meme/Shitpost" [ref=e1850]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e1852]': Meme/Shitpost
+                            - img "r/HVAC - Felt better after this" [ref=e1858]
+                            - generic "Actions available for this post" [ref=e1860]:
+                              - generic [ref=e1863]:
+                                - button "Upvote" [ref=e1864]:
+                                  - img [ref=e1866]
+                                  - generic [ref=e1868]:
+                                    - generic: Upvote
+                                - generic [ref=e1870]: "329"
+                                - button "Downvote" [ref=e1871]:
+                                  - img [ref=e1873]
+                                  - generic [ref=e1875]:
+                                    - generic: Downvote
+                              - link "58 Go to comments" [ref=e1876]:
+                                - /url: /r/HVAC/comments/1so9u9m/felt_better_after_this/
+                                - generic [ref=e1877]:
+                                  - img [ref=e1879]
+                                  - generic [ref=e1882]: "58"
+                                - generic [ref=e1883]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1885]:
+                                - img [ref=e1888]
+                              - button "Share" [ref=e1893]:
+                                - generic [ref=e1894]:
+                                  - img [ref=e1896]
+                                  - generic [ref=e1898]: Share
+                        - separator [ref=e1899]
+                        - article "To the haters" [ref=e1900]:
+                          - generic [ref=e1901] [cursor=pointer]:
+                            - link "To the haters" [ref=e1902]:
+                              - /url: /r/HVAC/comments/1sy6bjb/to_the_haters/
+                              - generic [ref=e1903]:
+                                - generic: To the haters
+                            - generic [ref=e1904]:
+                              - generic [ref=e1905]:
+                                - 'link "Author: u/pyrofox79" [ref=e1910]':
+                                  - /url: /user/pyrofox79/
+                                  - generic [ref=e1911]:
+                                    - img [ref=e1916]
+                                    - generic [ref=e1918]: u/pyrofox79
+                                - generic [ref=e1919]: •
+                                - time [ref=e1921]: 16 days ago
+                              - button "Open user actions" [ref=e1926]:
+                                - img [ref=e1929]
+                            - generic [ref=e1932]:
+                              - heading "To the haters" [level=2] [ref=e1933]:
+                                - link "To the haters" [ref=e1934]:
+                                  - /url: /r/HVAC/comments/1sy6bjb/to_the_haters/
+                              - 'link "Flair: Meme/Shitpost" [ref=e1937]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e1939]': Meme/Shitpost
+                            - img "r/HVAC - To the haters" [ref=e1945]
+                            - generic "Actions available for this post" [ref=e1947]:
+                              - generic [ref=e1950]:
+                                - button "Upvote" [ref=e1951]:
+                                  - img [ref=e1953]
+                                  - generic [ref=e1955]:
+                                    - generic: Upvote
+                                - generic [ref=e1957]: "307"
+                                - button "Downvote" [ref=e1958]:
+                                  - img [ref=e1960]
+                                  - generic [ref=e1962]:
+                                    - generic: Downvote
+                              - link "93 Go to comments" [ref=e1963]:
+                                - /url: /r/HVAC/comments/1sy6bjb/to_the_haters/
+                                - generic [ref=e1964]:
+                                  - img [ref=e1966]
+                                  - generic [ref=e1969]: "93"
+                                - generic [ref=e1970]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e1972]:
+                                - img [ref=e1975]
+                              - button "Share" [ref=e1980]:
+                                - generic [ref=e1981]:
+                                  - img [ref=e1983]
+                                  - generic [ref=e1985]: Share
+                        - separator [ref=e1986]
+                        - article "These mfers really went off PSI after repairing a leak" [ref=e1987]:
+                          - generic [ref=e1988] [cursor=pointer]:
+                            - link "These mfers really went off PSI after repairing a leak" [ref=e1989]:
+                              - /url: /r/HVAC/comments/1t4t594/these_mfers_really_went_off_psi_after_repairing_a/
+                              - generic [ref=e1990]:
+                                - generic: These mfers really went off PSI after repairing a leak
+                            - generic [ref=e1991]:
+                              - generic [ref=e1992]:
+                                - 'link "Author: u/TheLoneCalzone" [ref=e1997]':
+                                  - /url: /user/TheLoneCalzone/
+                                  - generic [ref=e1998]:
+                                    - img "u/TheLoneCalzone avatar" [ref=e2001]
+                                    - generic [ref=e2002]: u/TheLoneCalzone
+                                - generic [ref=e2003]: •
+                                - time [ref=e2005]: 9 days ago
+                              - button "Open user actions" [ref=e2010]:
+                                - img [ref=e2013]
+                            - generic [ref=e2016]:
+                              - heading "These mfers really went off PSI after repairing a leak" [level=2] [ref=e2017]:
+                                - link "These mfers really went off PSI after repairing a leak" [ref=e2018]:
+                                  - /url: /r/HVAC/comments/1t4t594/these_mfers_really_went_off_psi_after_repairing_a/
+                              - 'link "Flair: Rant" [ref=e2021]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Rant%22
+                                - 'generic "Flair: Rant" [ref=e2023]': Rant
+                            - img "r/HVAC - These mfers really went off PSI after repairing a leak" [ref=e2029]
+                            - generic "Actions available for this post" [ref=e2031]:
+                              - generic [ref=e2034]:
+                                - button "Upvote" [ref=e2035]:
+                                  - img [ref=e2037]
+                                  - generic [ref=e2039]:
+                                    - generic: Upvote
+                                - generic [ref=e2041]: "296"
+                                - button "Downvote" [ref=e2042]:
+                                  - img [ref=e2044]
+                                  - generic [ref=e2046]:
+                                    - generic: Downvote
+                              - link "68 Go to comments" [ref=e2047]:
+                                - /url: /r/HVAC/comments/1t4t594/these_mfers_really_went_off_psi_after_repairing_a/
+                                - generic [ref=e2048]:
+                                  - img [ref=e2050]
+                                  - generic [ref=e2053]: "68"
+                                - generic [ref=e2054]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2056]:
+                                - img [ref=e2059]
+                              - button "Share" [ref=e2064]:
+                                - generic [ref=e2065]:
+                                  - img [ref=e2067]
+                                  - generic [ref=e2069]: Share
+                        - separator [ref=e2070]
+                        - article "No cool x3" [ref=e2071]:
+                          - generic [ref=e2072] [cursor=pointer]:
+                            - link "No cool x3" [ref=e2073]:
+                              - /url: /r/HVAC/comments/1sm82v8/no_cool_x3/
+                              - generic [ref=e2074]:
+                                - generic: No cool x3
+                            - generic [ref=e2075]:
+                              - generic [ref=e2076]:
+                                - 'link "Author: u/durrtyr6" [ref=e2081]':
+                                  - /url: /user/durrtyr6/
+                                  - generic [ref=e2082]:
+                                    - img "u/durrtyr6 avatar" [ref=e2085]
+                                    - generic [ref=e2086]: u/durrtyr6
+                                - generic [ref=e2087]: •
+                                - time [ref=e2089]: 1 mo. ago
+                              - button "Open user actions" [ref=e2094]:
+                                - img [ref=e2097]
+                            - generic [ref=e2100]:
+                              - heading "No cool x3" [level=2] [ref=e2101]:
+                                - link "No cool x3" [ref=e2102]:
+                                  - /url: /r/HVAC/comments/1sm82v8/no_cool_x3/
+                              - 'link "Flair: General" [ref=e2105]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e2107]': General
+                            - img "r/HVAC - No cool x3" [ref=e2113]
+                            - generic "Actions available for this post" [ref=e2115]:
+                              - generic [ref=e2118]:
+                                - button "Upvote" [ref=e2119]:
+                                  - img [ref=e2121]
+                                  - generic [ref=e2123]:
+                                    - generic: Upvote
+                                - generic [ref=e2125]: "275"
+                                - button "Downvote" [ref=e2126]:
+                                  - img [ref=e2128]
+                                  - generic [ref=e2130]:
+                                    - generic: Downvote
+                              - link "68 Go to comments" [ref=e2131]:
+                                - /url: /r/HVAC/comments/1sm82v8/no_cool_x3/
+                                - generic [ref=e2132]:
+                                  - img [ref=e2134]
+                                  - generic [ref=e2137]: "68"
+                                - generic [ref=e2138]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2140]:
+                                - img [ref=e2143]
+                              - button "Share" [ref=e2148]:
+                                - generic [ref=e2149]:
+                                  - img [ref=e2151]
+                                  - generic [ref=e2153]: Share
+                        - separator [ref=e2154]
+                        - article "Officially apart of the union!" [ref=e2155]:
+                          - generic [ref=e2156] [cursor=pointer]:
+                            - link "Officially apart of the union!" [ref=e2157]:
+                              - /url: /r/HVAC/comments/1t89p3g/officially_apart_of_the_union/
+                              - generic [ref=e2158]:
+                                - generic: Officially apart of the union!
+                            - generic [ref=e2159]:
+                              - generic [ref=e2160]:
+                                - 'link "Author: u/Acrofinity" [ref=e2165]':
+                                  - /url: /user/Acrofinity/
+                                  - generic [ref=e2166]:
+                                    - generic [ref=e2168]:
+                                      - img [ref=e2170]
+                                      - img [ref=e2174]
+                                      - img [ref=e2177]
+                                    - generic [ref=e2179]: u/Acrofinity
+                                - generic [ref=e2180]: •
+                                - time [ref=e2182]: 5 days ago
+                              - button "Open user actions" [ref=e2187]:
+                                - img [ref=e2190]
+                            - generic [ref=e2193]:
+                              - heading "Officially apart of the union!" [level=2] [ref=e2194]:
+                                - link "Officially apart of the union!" [ref=e2195]:
+                                  - /url: /r/HVAC/comments/1t89p3g/officially_apart_of_the_union/
+                              - 'link "Flair: General" [ref=e2198]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e2200]': General
+                            - img "r/HVAC - Officially apart of the union!" [ref=e2206]
+                            - generic "Actions available for this post" [ref=e2208]:
+                              - generic [ref=e2211]:
+                                - button "Upvote" [ref=e2212]:
+                                  - img [ref=e2214]
+                                  - generic [ref=e2216]:
+                                    - generic: Upvote
+                                - generic [ref=e2218]: "274"
+                                - button "Downvote" [ref=e2219]:
+                                  - img [ref=e2221]
+                                  - generic [ref=e2223]:
+                                    - generic: Downvote
+                              - link "53 Go to comments" [ref=e2224]:
+                                - /url: /r/HVAC/comments/1t89p3g/officially_apart_of_the_union/
+                                - generic [ref=e2225]:
+                                  - img [ref=e2227]
+                                  - generic [ref=e2230]: "53"
+                                - generic [ref=e2231]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2233]:
+                                - img [ref=e2236]
+                              - button "Share" [ref=e2241]:
+                                - generic [ref=e2242]:
+                                  - img [ref=e2244]
+                                  - generic [ref=e2246]: Share
+                        - separator [ref=e2247]
+                        - article "Both of these products are guaranteed to stop." [ref=e2248]:
+                          - generic [ref=e2249] [cursor=pointer]:
+                            - link "Both of these products are guaranteed to stop." [ref=e2250]:
+                              - /url: /r/HVAC/comments/1sm1n17/both_of_these_products_are_guaranteed_to_stop/
+                              - generic [ref=e2251]:
+                                - generic: Both of these products are guaranteed to stop.
+                            - generic [ref=e2252]:
+                              - generic [ref=e2253]:
+                                - 'link "Author: u/MyMomSaysIAmCool" [ref=e2258]':
+                                  - /url: /user/MyMomSaysIAmCool/
+                                  - generic [ref=e2259]:
+                                    - img "u/MyMomSaysIAmCool avatar" [ref=e2262]
+                                    - generic [ref=e2263]: u/MyMomSaysIAmCool
+                                - generic [ref=e2264]: •
+                                - time [ref=e2266]: 1 mo. ago
+                              - button "Open user actions" [ref=e2271]:
+                                - img [ref=e2274]
+                            - generic [ref=e2277]:
+                              - heading "Both of these products are guaranteed to stop." [level=2] [ref=e2278]:
+                                - link "Both of these products are guaranteed to stop." [ref=e2279]:
+                                  - /url: /r/HVAC/comments/1sm1n17/both_of_these_products_are_guaranteed_to_stop/
+                              - 'link "Flair: Meme/Shitpost" [ref=e2282]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e2284]': Meme/Shitpost
+                            - img "r/HVAC - Both of these products are guaranteed to stop." [ref=e2290]
+                            - generic "Actions available for this post" [ref=e2292]:
+                              - generic [ref=e2295]:
+                                - button "Upvote" [ref=e2296]:
+                                  - img [ref=e2298]
+                                  - generic [ref=e2300]:
+                                    - generic: Upvote
+                                - generic [ref=e2302]: "257"
+                                - button "Downvote" [ref=e2303]:
+                                  - img [ref=e2305]
+                                  - generic [ref=e2307]:
+                                    - generic: Downvote
+                              - link "68 Go to comments" [ref=e2308]:
+                                - /url: /r/HVAC/comments/1sm1n17/both_of_these_products_are_guaranteed_to_stop/
+                                - generic [ref=e2309]:
+                                  - img [ref=e2311]
+                                  - generic [ref=e2314]: "68"
+                                - generic [ref=e2315]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2317]:
+                                - img [ref=e2320]
+                              - button "Share" [ref=e2325]:
+                                - generic [ref=e2326]:
+                                  - img [ref=e2328]
+                                  - generic [ref=e2330]: Share
+                        - separator [ref=e2331]
+                        - article "Little Refrigerant Piping Job" [ref=e2332]:
+                          - generic [ref=e2333] [cursor=pointer]:
+                            - link "Little Refrigerant Piping Job" [ref=e2334]:
+                              - /url: /r/HVAC/comments/1ssk3lg/little_refrigerant_piping_job/
+                              - generic [ref=e2335]:
+                                - generic: Little Refrigerant Piping Job
+                            - generic [ref=e2336]:
+                              - generic [ref=e2337]:
+                                - 'link "Author: u/Cali_Colt" [ref=e2342]':
+                                  - /url: /user/Cali_Colt/
+                                  - generic [ref=e2343]:
+                                    - generic [ref=e2345]:
+                                      - img [ref=e2347]
+                                      - img [ref=e2351]
+                                      - img [ref=e2354]
+                                    - generic [ref=e2356]: u/Cali_Colt
+                                - generic [ref=e2357]: •
+                                - time [ref=e2359]: 22 days ago
+                              - button "Open user actions" [ref=e2364]:
+                                - img [ref=e2367]
+                            - generic [ref=e2370]:
+                              - heading "Little Refrigerant Piping Job" [level=2] [ref=e2371]:
+                                - link "Little Refrigerant Piping Job" [ref=e2372]:
+                                  - /url: /r/HVAC/comments/1ssk3lg/little_refrigerant_piping_job/
+                              - 'link "Flair: General" [ref=e2375]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e2377]': General
+                            - generic [ref=e2385]:
+                              - generic [ref=e2386]:
+                                - button "Toggle playback" [ref=e2387]:
+                                  - img [ref=e2388]
+                                - generic "Media time" [ref=e2390]
+                                - generic [ref=e2396]:
+                                  - generic [ref=e2397]: 0:00
+                                  - generic [ref=e2398]: / 0:00
+                                - button "Toggle captions" [ref=e2399]:
+                                  - img [ref=e2400]
+                                - generic [ref=e2403]:
+                                  - button "Settings" [ref=e2404]:
+                                    - img [ref=e2405]
+                                  - generic:
+                                    - button:
+                                      - generic:
+                                        - img
+                                      - generic: Auto
+                                - button "Toggle fullscreen" [ref=e2407]:
+                                  - img [ref=e2408]
+                              - button "Toggle volume" [ref=e2413]:
+                                - img [ref=e2414]
+                            - generic "Actions available for this post" [ref=e2418]:
+                              - generic [ref=e2421]:
+                                - button "Upvote" [ref=e2422]:
+                                  - img [ref=e2424]
+                                  - generic [ref=e2426]:
+                                    - generic: Upvote
+                                - generic [ref=e2428]: "254"
+                                - button "Downvote" [ref=e2429]:
+                                  - img [ref=e2431]
+                                  - generic [ref=e2433]:
+                                    - generic: Downvote
+                              - link "50 Go to comments" [ref=e2434]:
+                                - /url: /r/HVAC/comments/1ssk3lg/little_refrigerant_piping_job/
+                                - generic [ref=e2435]:
+                                  - img [ref=e2437]
+                                  - generic [ref=e2440]: "50"
+                                - generic [ref=e2441]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2443]:
+                                - img [ref=e2446]
+                              - button "Share" [ref=e2451]:
+                                - generic [ref=e2452]:
+                                  - img [ref=e2454]
+                                  - generic [ref=e2456]: Share
+                        - separator [ref=e2457]
+                        - article "We hired a new guy and I’m pumped!" [ref=e2458]:
+                          - generic [ref=e2459] [cursor=pointer]:
+                            - link "We hired a new guy and I’m pumped!" [ref=e2460]:
+                              - /url: /r/HVAC/comments/1tcjdff/we_hired_a_new_guy_and_im_pumped/
+                              - generic [ref=e2461]:
+                                - generic: We hired a new guy and I’m pumped!
+                            - generic [ref=e2462]:
+                              - generic [ref=e2463]:
+                                - 'link "Author: u/gingerbread3199" [ref=e2468]':
+                                  - /url: /user/gingerbread3199/
+                                  - generic [ref=e2469]:
+                                    - img "u/gingerbread3199 avatar" [ref=e2472]
+                                    - generic [ref=e2473]: u/gingerbread3199
+                                - generic [ref=e2474]: •
+                                - time [ref=e2476]: 21 hr. ago
+                              - button "Open user actions" [ref=e2481]:
+                                - img [ref=e2484]
+                            - generic [ref=e2487]:
+                              - heading "We hired a new guy and I’m pumped!" [level=2] [ref=e2488]:
+                                - link "We hired a new guy and I’m pumped!" [ref=e2489]:
+                                  - /url: /r/HVAC/comments/1tcjdff/we_hired_a_new_guy_and_im_pumped/
+                              - 'link "Flair: Supervisor Showcase" [ref=e2492]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Supervisor%20Showcase%22
+                                - 'generic "Flair: Supervisor Showcase" [ref=e2494]': Supervisor Showcase
+                            - generic [ref=e2499]:
+                              - generic [ref=e2500]:
+                                - generic [ref=e2501]:
+                                  - list [ref=e2503]:
+                                    - listitem [ref=e2504]:
+                                      - figure [ref=e2505]:
+                                        - img "r/HVAC - We hired a new guy and I’m pumped!" [ref=e2506]
+                                  - group [ref=e2511]:
+                                    - button "Page 1 (Current page)" [ref=e2513]:
+                                      - generic [ref=e2514]:
+                                        - generic: Page 1 (Current page)
+                                    - button "Page 2" [ref=e2515]:
+                                      - generic [ref=e2516]:
+                                        - generic: Page 2
+                                    - button [ref=e2517]
+                                    - button [ref=e2519]
+                                - generic [ref=e2522]:
+                                  - button "Previous page" [disabled]:
+                                    - generic:
+                                      - generic:
+                                        - img
+                                - button "Next page" [ref=e2525]:
+                                  - img [ref=e2528]
+                              - generic [ref=e2530]:
+                                - generic: Item 1 of 4
+                            - generic "Actions available for this post" [ref=e2532]:
+                              - generic [ref=e2535]:
+                                - button "Upvote" [ref=e2536]:
+                                  - img [ref=e2538]
+                                  - generic [ref=e2540]:
+                                    - generic: Upvote
+                                - generic [ref=e2542]: "251"
+                                - button "Downvote" [ref=e2543]:
+                                  - img [ref=e2545]
+                                  - generic [ref=e2547]:
+                                    - generic: Downvote
+                              - link "93 Go to comments" [ref=e2548]:
+                                - /url: /r/HVAC/comments/1tcjdff/we_hired_a_new_guy_and_im_pumped/
+                                - generic [ref=e2549]:
+                                  - img [ref=e2551]
+                                  - generic [ref=e2554]: "93"
+                                - generic [ref=e2555]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2557]:
+                                - img [ref=e2560]
+                              - button "Share" [ref=e2565]:
+                                - generic [ref=e2566]:
+                                  - img [ref=e2568]
+                                  - generic [ref=e2570]: Share
+                        - separator [ref=e2571]
+                        - generic [ref=e2572]:
+                          - 'generic "Advertisement: We''re investing in tomorrow''s possibilities. And that includes you." [ref=e2573]':
+                            - 'link "Advertisement: We''re investing in tomorrow''s possibilities. And that includes you." [ref=e2574] [cursor=pointer]':
+                              - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                          - generic [ref=e2575]:
+                            - generic [ref=e2576]:
+                              - link "u/Trane-Careers avatar u/Trane-Careers" [ref=e2579] [cursor=pointer]:
+                                - /url: /user/Trane-Careers/
+                                - img "u/Trane-Careers avatar" [ref=e2582]
+                                - generic [ref=e2583]: u/Trane-Careers
+                              - generic [ref=e2584]: •
+                              - link "Promoted" [ref=e2586] [cursor=pointer]:
+                                - /url: /user/Trane-Careers/
+                                - generic [ref=e2587]: Promoted
+                              - link [ref=e2589] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                            - button "Open user actions" [ref=e2594] [cursor=pointer]:
+                              - img [ref=e2597]
+                          - heading "We're investing in tomorrow's possibilities. And that includes you." [level=2] [ref=e2601]:
+                            - link "We're investing in tomorrow's possibilities. And that includes you." [ref=e2604] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                              - generic: We're investing in tomorrow's possibilities. And that includes you.
+                          - generic [ref=e2605]:
+                            - link "We're investing in tomorrow's possibilities. And that includes you." [ref=e2609] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                              - img "We're investing in tomorrow's possibilities. And that includes you." [ref=e2611]
+                            - separator [ref=e2612]
+                            - generic [ref=e2613]:
+                              - link [ref=e2615] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                              - generic [ref=e2616]:
+                                - link "careers.tranetechnologies.com" [ref=e2619] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                                  - generic: careers.tranetechnologies.com
+                                - link "Apply Now" [ref=e2621] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                                  - generic [ref=e2623]:
+                                    - generic: Apply Now
+                          - generic "Actions available for this post" [ref=e2625]:
+                            - generic [ref=e2628]:
+                              - button "Upvote" [ref=e2629] [cursor=pointer]:
+                                - img [ref=e2631]
+                                - generic [ref=e2633]:
+                                  - generic: Upvote
+                              - text: Vote
+                              - button "Downvote" [ref=e2634] [cursor=pointer]:
+                                - img [ref=e2636]
+                                - generic [ref=e2638]:
+                                  - generic: Downvote
+                            - link "0 Go to comments" [ref=e2639] [cursor=pointer]:
+                              - /url: /user/Trane-Careers/comments/1sy3y1b/were_investing_in_tomorrows_possibilities_and/?p=1&impressionid=5373750240774070928
+                              - generic [ref=e2640]:
+                                - img [ref=e2642]
+                                - generic [ref=e2645]: "0"
+                              - generic [ref=e2646]:
+                                - generic: Go to comments
+                            - button "Share" [ref=e2650] [cursor=pointer]:
+                              - generic [ref=e2651]:
+                                - img [ref=e2653]
+                                - generic [ref=e2655]: Share
+                            - link [ref=e2657] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=pV5t4QLj7SWGjxbo4P4Li9BPLRcV8L6kLrE4gstuwJsZn3lTlEe6MZfMnwg5TcJorhxKz-RLbxPvLrzxcuEZBANFMN2Bsnc3Ql2mhr4ZvViumcReI8BmW9yxKFZUIIM1xjcKrr83STtm7KbLfkcxyDiQvxGj3Us9NYa88271sdrwDZzLYrTibU7x15Lc0KRWTk3bb7qYcQWlcFpxnUSvLo07MfHNwFJ75CNTm0_Oh5t1DnEyBn9tGL_4DAH_VgZQNA6BZpj-T_Tq1JWWG_Ket39ADLcQabZnDaMeGitkTSzmhou4oYCT3Pggy30-cXTOkoH8lVuME7aNYrh0nMnCb5rfoqU0zYUh4QOlmO6D-n5Bma5EpdtTGMf-WFWYPKjzXGsQd1YKlTtKQYHPXzOyqFo_UPyCsDPQ_P0psj4JVe9I5ECXPtfWeQj_GOABIXanCrPNauzSSa85dq1yepGeSoJQTzZLuXZiVTfA3JUlcOPaa6xXQbauTzHfLvTXGumJT9ADrftrXWAeN46JSyMCgZafQBprxjiFXGTDrr_AjhA-NNA3RS2si-_2wIZY4Lk6EIDDNVkT4k_5-2u6RMeBXLLE-4kzdKjTaFzdNq_8xvleWDWYOOi8avDu3NvuzuqVo5j-nBBKQ7_sPVuimKctW_EIm3yVHyO-UWmewfUGMOGS9M7x81cz0oBmBE8v_s5lyM_8I1l7JrGr7DysAybggUPsZCKUe61Zoomc24X_2tySjUMC4g&zp=xuzoVuPi4amw1cJifyqKTobbyQ--gb9aXVWtyMV1j6eAabZAwjMQBsX9fxfU23kozQNWiNomxHBHLiXKz_Kg2ol_R3pTmPgYKOWcM8b5tMGx6hMr3-WvU18vVZgpH5TYikJ9i1fLlJQ8KvWfgELhnQ6CK1E8chuWBriTALgaXxpxHsP3olO-ggiSexZDvsuP7Zm5TQuois9KRr0VaCpw0UcGrGHQ3ByBd0p7i734LviUjeqqpzdCVgz2cojx4O30D3zlN9i6IWFQ2CrnMffGloBKm5WZjZp-_HS48F7XxJSLrI5KSxcFfIec4qb4GSEkVI7g8qPXQPUrUt9gFvRsk8aUelmUSGPwWnafzN3arl5QwhU0Xzd7KEtI2brMIb2vA1W4MKIDuJgn
+                        - separator [ref=e2658]
+                        - article "Needed the big one today" [ref=e2659]:
+                          - generic [ref=e2660] [cursor=pointer]:
+                            - link "Needed the big one today" [ref=e2661]:
+                              - /url: /r/HVAC/comments/1svu5yp/needed_the_big_one_today/
+                              - generic [ref=e2662]:
+                                - generic: Needed the big one today
+                            - generic [ref=e2663]:
+                              - generic [ref=e2664]:
+                                - 'link "Author: u/goldwing50812" [ref=e2669]':
+                                  - /url: /user/goldwing50812/
+                                  - generic [ref=e2670]:
+                                    - generic [ref=e2672]:
+                                      - img [ref=e2674]
+                                      - img [ref=e2678]
+                                      - img [ref=e2681]
+                                    - generic [ref=e2683]: u/goldwing50812
+                                - generic [ref=e2684]: •
+                                - time [ref=e2686]: 19 days ago
+                              - button "Open user actions" [ref=e2691]:
+                                - img [ref=e2694]
+                            - generic [ref=e2697]:
+                              - heading "Needed the big one today" [level=2] [ref=e2698]:
+                                - link "Needed the big one today" [ref=e2699]:
+                                  - /url: /r/HVAC/comments/1svu5yp/needed_the_big_one_today/
+                              - 'link "Flair: General" [ref=e2702]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e2704]': General
+                            - img "r/HVAC - Needed the big one today" [ref=e2710]
+                            - generic "Actions available for this post" [ref=e2712]:
+                              - generic [ref=e2715]:
+                                - button "Upvote" [ref=e2716]:
+                                  - img [ref=e2718]
+                                  - generic [ref=e2720]:
+                                    - generic: Upvote
+                                - generic [ref=e2722]: "249"
+                                - button "Downvote" [ref=e2723]:
+                                  - img [ref=e2725]
+                                  - generic [ref=e2727]:
+                                    - generic: Downvote
+                              - link "40 Go to comments" [ref=e2728]:
+                                - /url: /r/HVAC/comments/1svu5yp/needed_the_big_one_today/
+                                - generic [ref=e2729]:
+                                  - img [ref=e2731]
+                                  - generic [ref=e2734]: "40"
+                                - generic [ref=e2735]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2737]:
+                                - img [ref=e2740]
+                              - button "Share" [ref=e2745]:
+                                - generic [ref=e2746]:
+                                  - img [ref=e2748]
+                                  - generic [ref=e2750]: Share
+                        - separator [ref=e2751]
+                        - article "First no cool of the day. Gotta love being on call" [ref=e2752]:
+                          - generic [ref=e2753] [cursor=pointer]:
+                            - link "First no cool of the day. Gotta love being on call" [ref=e2754]:
+                              - /url: /r/HVAC/comments/1svc4ej/first_no_cool_of_the_day_gotta_love_being_on_call/
+                              - generic [ref=e2755]:
+                                - generic: First no cool of the day. Gotta love being on call
+                            - generic [ref=e2756]:
+                              - generic [ref=e2757]:
+                                - 'link "Author: u/Impressive-Grocery50" [ref=e2762]':
+                                  - /url: /user/Impressive-Grocery50/
+                                  - generic [ref=e2763]:
+                                    - img [ref=e2768]
+                                    - generic [ref=e2770]: u/Impressive-Grocery50
+                                - generic [ref=e2771]: •
+                                - time [ref=e2773]: 19 days ago
+                              - button "Open user actions" [ref=e2778]:
+                                - img [ref=e2781]
+                            - generic [ref=e2784]:
+                              - heading "First no cool of the day. Gotta love being on call" [level=2] [ref=e2785]:
+                                - link "First no cool of the day. Gotta love being on call" [ref=e2786]:
+                                  - /url: /r/HVAC/comments/1svc4ej/first_no_cool_of_the_day_gotta_love_being_on_call/
+                              - 'link "Flair: Meme/Shitpost" [ref=e2789]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e2791]': Meme/Shitpost
+                            - img "r/HVAC - First no cool of the day. Gotta love being on call" [ref=e2797]
+                            - generic "Actions available for this post" [ref=e2799]:
+                              - generic [ref=e2802]:
+                                - button "Upvote" [ref=e2803]:
+                                  - img [ref=e2805]
+                                  - generic [ref=e2807]:
+                                    - generic: Upvote
+                                - generic [ref=e2809]: "248"
+                                - button "Downvote" [ref=e2810]:
+                                  - img [ref=e2812]
+                                  - generic [ref=e2814]:
+                                    - generic: Downvote
+                              - link "72 Go to comments" [ref=e2815]:
+                                - /url: /r/HVAC/comments/1svc4ej/first_no_cool_of_the_day_gotta_love_being_on_call/
+                                - generic [ref=e2816]:
+                                  - img [ref=e2818]
+                                  - generic [ref=e2821]: "72"
+                                - generic [ref=e2822]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2824]:
+                                - img [ref=e2827]
+                              - button "Share" [ref=e2832]:
+                                - generic [ref=e2833]:
+                                  - img [ref=e2835]
+                                  - generic [ref=e2837]: Share
+                        - separator [ref=e2838]
+                        - article "First helo lift." [ref=e2839]:
+                          - generic [ref=e2840] [cursor=pointer]:
+                            - link "First helo lift." [ref=e2841]:
+                              - /url: /r/HVAC/comments/1st4g08/first_helo_lift/
+                              - generic [ref=e2842]:
+                                - generic: First helo lift.
+                            - generic [ref=e2843]:
+                              - generic [ref=e2844]:
+                                - 'link "Author: u/hvactech420" [ref=e2849]':
+                                  - /url: /user/hvactech420/
+                                  - generic [ref=e2850]:
+                                    - img [ref=e2855]
+                                    - generic [ref=e2857]: u/hvactech420
+                                - generic [ref=e2858]: •
+                                - time [ref=e2860]: 22 days ago
+                              - button "Open user actions" [ref=e2865]:
+                                - img [ref=e2868]
+                            - generic [ref=e2871]:
+                              - heading "First helo lift." [level=2] [ref=e2872]:
+                                - link "First helo lift." [ref=e2873]:
+                                  - /url: /r/HVAC/comments/1st4g08/first_helo_lift/
+                              - 'link "Flair: General" [ref=e2876]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e2878]': General
+                            - generic [ref=e2886]:
+                              - generic [ref=e2887]:
+                                - button "Toggle playback" [ref=e2888]:
+                                  - img [ref=e2889]
+                                - generic "Media time" [ref=e2891]
+                                - generic [ref=e2897]:
+                                  - generic [ref=e2898]: 0:00
+                                  - generic [ref=e2899]: / 0:00
+                                - button "Toggle captions" [ref=e2900]:
+                                  - img [ref=e2901]
+                                - generic [ref=e2904]:
+                                  - button "Settings" [ref=e2905]:
+                                    - img [ref=e2906]
+                                  - generic:
+                                    - button:
+                                      - generic:
+                                        - img
+                                      - generic: Auto
+                                - button "Toggle fullscreen" [ref=e2908]:
+                                  - img [ref=e2909]
+                              - button "Toggle volume" [ref=e2914]:
+                                - img [ref=e2915]
+                            - generic "Actions available for this post" [ref=e2919]:
+                              - generic [ref=e2922]:
+                                - button "Upvote" [ref=e2923]:
+                                  - img [ref=e2925]
+                                  - generic [ref=e2927]:
+                                    - generic: Upvote
+                                - generic [ref=e2929]: "246"
+                                - button "Downvote" [ref=e2930]:
+                                  - img [ref=e2932]
+                                  - generic [ref=e2934]:
+                                    - generic: Downvote
+                              - link "44 Go to comments" [ref=e2935]:
+                                - /url: /r/HVAC/comments/1st4g08/first_helo_lift/
+                                - generic [ref=e2936]:
+                                  - img [ref=e2938]
+                                  - generic [ref=e2941]: "44"
+                                - generic [ref=e2942]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e2944]:
+                                - img [ref=e2947]
+                              - button "Share" [ref=e2952]:
+                                - generic [ref=e2953]:
+                                  - img [ref=e2955]
+                                  - generic [ref=e2957]: Share
+                        - separator [ref=e2958]
+                        - article "Sometimes mini splits on a Friday aren’t so bad" [ref=e2959]:
+                          - generic [ref=e2960] [cursor=pointer]:
+                            - link "Sometimes mini splits on a Friday aren’t so bad" [ref=e2961]:
+                              - /url: /r/HVAC/comments/1t7qwwl/sometimes_mini_splits_on_a_friday_arent_so_bad/
+                              - generic [ref=e2962]:
+                                - generic: Sometimes mini splits on a Friday aren’t so bad
+                            - generic [ref=e2963]:
+                              - generic [ref=e2964]:
+                                - 'link "Author: u/MonkandBeer" [ref=e2969]':
+                                  - /url: /user/MonkandBeer/
+                                  - generic [ref=e2970]:
+                                    - img [ref=e2975]
+                                    - generic [ref=e2977]: u/MonkandBeer
+                                - generic [ref=e2978]: •
+                                - time [ref=e2980]: 6 days ago
+                              - button "Open user actions" [ref=e2985]:
+                                - img [ref=e2988]
+                            - generic [ref=e2991]:
+                              - heading "Sometimes mini splits on a Friday aren’t so bad" [level=2] [ref=e2992]:
+                                - link "Sometimes mini splits on a Friday aren’t so bad" [ref=e2993]:
+                                  - /url: /r/HVAC/comments/1t7qwwl/sometimes_mini_splits_on_a_friday_arent_so_bad/
+                              - 'link "Flair: General" [ref=e2996]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e2998]': General
+                            - generic [ref=e3006]:
+                              - generic [ref=e3007]:
+                                - button "Toggle playback" [ref=e3008]:
+                                  - img [ref=e3009]
+                                - generic "Media time" [ref=e3011]
+                                - generic [ref=e3017]:
+                                  - generic [ref=e3018]: 0:00
+                                  - generic [ref=e3019]: / 0:00
+                                - button "Toggle captions" [ref=e3020]:
+                                  - img [ref=e3021]
+                                - generic [ref=e3024]:
+                                  - button "Settings" [ref=e3025]:
+                                    - img [ref=e3026]
+                                  - generic:
+                                    - button:
+                                      - generic:
+                                        - img
+                                      - generic: Auto
+                                - button "Toggle fullscreen" [ref=e3028]:
+                                  - img [ref=e3029]
+                              - button "Toggle volume" [ref=e3034]:
+                                - img [ref=e3035]
+                            - generic "Actions available for this post" [ref=e3039]:
+                              - generic [ref=e3042]:
+                                - button "Upvote" [ref=e3043]:
+                                  - img [ref=e3045]
+                                  - generic [ref=e3047]:
+                                    - generic: Upvote
+                                - generic [ref=e3049]: "245"
+                                - button "Downvote" [ref=e3050]:
+                                  - img [ref=e3052]
+                                  - generic [ref=e3054]:
+                                    - generic: Downvote
+                              - link "18 Go to comments" [ref=e3055]:
+                                - /url: /r/HVAC/comments/1t7qwwl/sometimes_mini_splits_on_a_friday_arent_so_bad/
+                                - generic [ref=e3056]:
+                                  - img [ref=e3058]
+                                  - generic [ref=e3061]: "18"
+                                - generic [ref=e3062]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e3064]:
+                                - img [ref=e3067]
+                              - button "Share" [ref=e3072]:
+                                - generic [ref=e3073]:
+                                  - img [ref=e3075]
+                                  - generic [ref=e3077]: Share
+                        - separator [ref=e3078]
+                        - article "Guess what’s missing" [ref=e3079]:
+                          - generic [ref=e3080] [cursor=pointer]:
+                            - link "Guess what’s missing" [ref=e3081]:
+                              - /url: /r/HVAC/comments/1t7ld5r/guess_whats_missing/
+                              - generic [ref=e3082]:
+                                - generic: Guess what’s missing
+                            - generic [ref=e3083]:
+                              - generic [ref=e3084]:
+                                - 'link "Author: u/Ok-Pension-1832" [ref=e3089]':
+                                  - /url: /user/Ok-Pension-1832/
+                                  - generic [ref=e3090]:
+                                    - img "u/Ok-Pension-1832 avatar" [ref=e3093]
+                                    - generic [ref=e3094]: u/Ok-Pension-1832
+                                - generic [ref=e3095]: •
+                                - time [ref=e3097]: 6 days ago
+                              - button "Open user actions" [ref=e3102]:
+                                - img [ref=e3105]
+                            - generic [ref=e3108]:
+                              - heading "Guess what’s missing" [level=2] [ref=e3109]:
+                                - link "Guess what’s missing" [ref=e3110]:
+                                  - /url: /r/HVAC/comments/1t7ld5r/guess_whats_missing/
+                              - 'link "Flair: General" [ref=e3113]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22General%22
+                                - 'generic "Flair: General" [ref=e3115]': General
+                            - img "r/HVAC - Guess what’s missing" [ref=e3121]
+                            - generic "Actions available for this post" [ref=e3123]:
+                              - generic [ref=e3126]:
+                                - button "Upvote" [ref=e3127]:
+                                  - img [ref=e3129]
+                                  - generic [ref=e3131]:
+                                    - generic: Upvote
+                                - generic [ref=e3133]: "243"
+                                - button "Downvote" [ref=e3134]:
+                                  - img [ref=e3136]
+                                  - generic [ref=e3138]:
+                                    - generic: Downvote
+                              - link "64 Go to comments" [ref=e3139]:
+                                - /url: /r/HVAC/comments/1t7ld5r/guess_whats_missing/
+                                - generic [ref=e3140]:
+                                  - img [ref=e3142]
+                                  - generic [ref=e3145]: "64"
+                                - generic [ref=e3146]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e3148]:
+                                - img [ref=e3151]
+                              - button "Share" [ref=e3156]:
+                                - generic [ref=e3157]:
+                                  - img [ref=e3159]
+                                  - generic [ref=e3161]: Share
+                        - separator [ref=e3162]
+                        - article "Figured out why this can is always empty" [ref=e3163]:
+                          - generic [ref=e3164] [cursor=pointer]:
+                            - link "Figured out why this can is always empty" [ref=e3165]:
+                              - /url: /r/HVAC/comments/1t0vott/figured_out_why_this_can_is_always_empty/
+                              - generic [ref=e3166]:
+                                - generic: Figured out why this can is always empty
+                            - generic [ref=e3167]:
+                              - generic [ref=e3168]:
+                                - 'link "Author: u/heldoglykke" [ref=e3173]':
+                                  - /url: /user/heldoglykke/
+                                  - generic [ref=e3174]:
+                                    - img "u/heldoglykke avatar" [ref=e3177]
+                                    - generic [ref=e3178]: u/heldoglykke
+                                - generic [ref=e3179]: •
+                                - time [ref=e3181]: 13 days ago
+                              - button "Open user actions" [ref=e3186]:
+                                - img [ref=e3189]
+                            - generic [ref=e3192]:
+                              - heading "Figured out why this can is always empty" [level=2] [ref=e3193]:
+                                - link "Figured out why this can is always empty" [ref=e3194]:
+                                  - /url: /r/HVAC/comments/1t0vott/figured_out_why_this_can_is_always_empty/
+                              - 'link "Flair: Meme/Shitpost" [ref=e3197]':
+                                - /url: /r/HVAC/?f=flair_name%3A%22Meme%2FShitpost%22
+                                - 'generic "Flair: Meme/Shitpost" [ref=e3199]': Meme/Shitpost
+                            - generic [ref=e3207]:
+                              - generic [ref=e3208]:
+                                - button "Toggle playback" [ref=e3209]:
+                                  - img [ref=e3210]
+                                - generic "Media time" [ref=e3212]
+                                - generic [ref=e3218]:
+                                  - generic [ref=e3219]: 0:00
+                                  - generic [ref=e3220]: / 0:00
+                                - button "Toggle captions" [ref=e3221]:
+                                  - img [ref=e3222]
+                                - generic [ref=e3225]:
+                                  - button "Settings" [ref=e3226]:
+                                    - img [ref=e3227]
+                                  - generic:
+                                    - button:
+                                      - generic:
+                                        - img
+                                      - generic: Auto
+                                - button "Toggle fullscreen" [ref=e3229]:
+                                  - img [ref=e3230]
+                              - button "Toggle volume" [ref=e3235]:
+                                - img [ref=e3236]
+                            - generic "Actions available for this post" [ref=e3240]:
+                              - generic [ref=e3243]:
+                                - button "Upvote" [ref=e3244]:
+                                  - img [ref=e3246]
+                                  - generic [ref=e3248]:
+                                    - generic: Upvote
+                                - generic [ref=e3250]: "234"
+                                - button "Downvote" [ref=e3251]:
+                                  - img [ref=e3253]
+                                  - generic [ref=e3255]:
+                                    - generic: Downvote
+                              - link "44 Go to comments" [ref=e3256]:
+                                - /url: /r/HVAC/comments/1t0vott/figured_out_why_this_can_is_always_empty/
+                                - generic [ref=e3257]:
+                                  - img [ref=e3259]
+                                  - generic [ref=e3262]: "44"
+                                - generic [ref=e3263]:
+                                  - generic: Go to comments
+                              - button "Give award" [ref=e3265]:
+                                - img [ref=e3268]
+                              - button "Share" [ref=e3273]:
+                                - generic [ref=e3274]:
+                                  - img [ref=e3276]
+                                  - generic [ref=e3278]: Share
+                        - separator [ref=e3279]
+                  - img [ref=e3285]
+            - generic [ref=e3298]:
+              - complementary "Community information" [ref=e3302]:
+                - generic [ref=e3303]:
+                  - generic [ref=e3305]:
+                    - heading "Community Info Section" [level=1] [ref=e3306]
+                    - generic [ref=e3307]:
+                      - generic [ref=e3308]: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+                      - generic [ref=e3309]: A subreddit for Heating, Ventilation, & Air Conditioning Technicians. If you are not a member of the trade, please post in r/hvacadvice.
+                      - generic [ref=e3310]:
+                        - generic [ref=e3312]:
+                          - img [ref=e3313]
+                          - text: Created Dec 22, 2010
+                        - generic [ref=e3316]:
+                          - img [ref=e3317]
+                          - text: Public
+                    - generic [ref=e3319]:
+                      - generic [ref=e3320]:
+                        - strong [ref=e3322]:
+                          - generic: 179K
+                        - generic [ref=e3323]: Technicians
+                      - generic [ref=e3324]:
+                        - strong [ref=e3326]:
+                          - generic: 3.4K
+                        - generic [ref=e3327]: On Call
+                  - separator [ref=e3328]
+                  - generic [ref=e3329]:
+                    - heading "Community Bookmarks" [level=2] [ref=e3331]:
+                      - generic [ref=e3332]: Community Bookmarks
+                    - link "Wiki" [ref=e3335] [cursor=pointer]:
+                      - /url: /r/HVAC/wiki/index/
+                      - generic [ref=e3338]: Wiki
+                  - separator [ref=e3339]
+                  - generic [ref=e3340]:
+                    - heading "About r/HVAC" [level=2] [ref=e3342]:
+                      - generic [ref=e3343]: About r/HVAC
+                    - generic [ref=e3345]:
+                      - paragraph [ref=e3346]: If you are experiencing issues with your HVAC system PLEASE call a professional.
+                      - paragraph [ref=e3347]: This subreddit's spam filter requires an account older than 24 hours and positive combined karma in order to participate. We will not manually approve posts that don't fit this criteria.
+                      - paragraph [ref=e3348]:
+                        - strong [ref=e3349]: This is not a question and answer subreddit.
+                        - text: Full stop. Any and
+                        - strong [ref=e3350]: all
+                        - text: questions from outside the trade go in
+                        - link "r/hvacadvice" [ref=e3351] [cursor=pointer]:
+                          - /url: /r/hvacadvice
+                        - text: .
+                      - paragraph [ref=e3352]:
+                        - strong [ref=e3353]:
+                          - text: This
+                          - emphasis [ref=e3354]: is
+                          - text: a subreddit for hvac professionals
+                        - text: to discuss tips, tricks and information - including humor, memes and our favorite jobsite supervisors.
+                      - paragraph [ref=e3355]:
+                        - text: There's also
+                        - link "The mods are forever on-call here instead - discord." [ref=e3356] [cursor=pointer]:
+                          - /url: https://discord.gg/WhHUKzBTx7
+                      - paragraph [ref=e3357]:
+                        - strong [ref=e3358]: Message the mods with picture proof of industry involvement and your username for "Pro Flair"
+                      - paragraph [ref=e3359]:
+                        - emphasis [ref=e3360]: Ads and offers/requests for work are prohibited.
+                      - paragraph [ref=e3361]:
+                        - strong [ref=e3362]: "Spam:"
+                        - emphasis [ref=e3363]:
+                          - text: If you think your submission was unfairly caught in the spam filter, message us right away using the "
+                          - link "message the moderators" [ref=e3364] [cursor=pointer]:
+                            - /url: http://www.reddit.com/message/compose?to=%23HVAC
+                          - text: "\" option below so we can quickly remedy it. Thanks!"
+                  - separator [ref=e3365]
+                  - generic [ref=e3366]:
+                    - heading "r/HVAC Rules" [level=2] [ref=e3368]:
+                      - generic [ref=e3369]: r/HVAC Rules
+                    - generic [ref=e3370]:
+                      - group [ref=e3372]:
+                        - generic "1 Posts from outside the trade are prohibited" [ref=e3373] [cursor=pointer]:
+                          - generic [ref=e3375]:
+                            - generic [ref=e3376]:
+                              - generic [ref=e3378]: "1"
+                              - heading "Posts from outside the trade are prohibited" [level=2] [ref=e3382]
+                            - img [ref=e3385]
+                        - generic [ref=e3390]:
+                          - paragraph [ref=e3391]:
+                            - text: Any and
+                            - strong [ref=e3392]: all
+                            - text: posts from outside the trade go in
+                            - link "r/hvacadvice" [ref=e3393] [cursor=pointer]:
+                              - /url: /r/hvacadvice/
+                            - text: . If you aren't in the trade you may not make posts, but comment replies may be moderated . Violators will be banned at mod's discretion.
+                          - paragraph [ref=e3394]: 2025. We are requiring all members to be approved in the trade via some kind of license in the trade. EPA alone is not accepted. We need something like a mechanical license, non-USA equivalent, union card, trade/college certificate, etc. Photos of you in the field is not proof.
+                      - group [ref=e3396]:
+                        - generic "2 Politics" [ref=e3397] [cursor=pointer]:
+                          - generic [ref=e3399]:
+                            - generic [ref=e3400]:
+                              - generic [ref=e3402]: "2"
+                              - heading "Politics" [level=2] [ref=e3406]
+                            - img [ref=e3409]
+                        - generic [ref=e3414]:
+                          - paragraph [ref=e3415]: "No Politics: a joke/meme here or there is fine but don't get out of hand. Posts or comments will be removed at a moderator's discretion. Political posts or comments may lead to a permanent ban."
+                          - paragraph [ref=e3416]: Posts that pertain to hot button political topics will be removed.
+                      - group [ref=e3418]:
+                        - generic "3 Ads/Market Research" [ref=e3419] [cursor=pointer]:
+                          - generic [ref=e3421]:
+                            - generic [ref=e3422]:
+                              - generic [ref=e3424]: "3"
+                              - heading "Ads/Market Research" [level=2] [ref=e3428]
+                            - img [ref=e3431]
+                        - generic [ref=e3436]:
+                          - paragraph [ref=e3437]: No links to specific products, blogs, youtube channels or anything of the like.
+                          - paragraph [ref=e3438]: Ads and offers/requests for work are prohibited.
+                          - paragraph [ref=e3439]: This is not a subreddit for promoting anything. No surveys, or anything similar.
+                      - group [ref=e3441]:
+                        - generic "4 Bullshit" [ref=e3442] [cursor=pointer]:
+                          - generic [ref=e3444]:
+                            - generic [ref=e3445]:
+                              - generic [ref=e3447]: "4"
+                              - heading "Bullshit" [level=2] [ref=e3451]
+                            - img [ref=e3454]
+                        - paragraph [ref=e3460]: Racist, sexist, abusive, etc commentary is strictly prohibited. If you aren't sure if it is, then don't say it.
+                      - group [ref=e3462]:
+                        - generic "5 Not an HVAC Tech" [ref=e3463] [cursor=pointer]:
+                          - generic [ref=e3465]:
+                            - generic [ref=e3466]:
+                              - generic [ref=e3468]: "5"
+                              - heading "Not an HVAC Tech" [level=2] [ref=e3472]
+                            - img [ref=e3475]
+                        - paragraph [ref=e3481]:
+                          - text: Sorry,
+                          - link "r/HVAC" [ref=e3482] [cursor=pointer]:
+                            - /url: /r/HVAC/
+                          - text: is for those in the field only. If you have homeowner questions, please post to
+                          - link "r/hvacadvice" [ref=e3483] [cursor=pointer]:
+                            - /url: /r/hvacadvice/
+                          - text: .
+                      - group [ref=e3485]:
+                        - generic "6 Karma" [ref=e3486] [cursor=pointer]:
+                          - generic [ref=e3488]:
+                            - generic [ref=e3489]:
+                              - generic [ref=e3491]: "6"
+                              - heading "Karma" [level=2] [ref=e3495]
+                            - img [ref=e3498]
+                        - paragraph [ref=e3504]: You do not have enough karma to post or comment.
+                      - generic [ref=e3506]:
+                        - generic [ref=e3508]: "7"
+                        - heading "Ban evasion" [level=2] [ref=e3512]
+                  - separator [ref=e3513]
+                  - generic [ref=e3514]:
+                    - heading "Related Subreddits" [level=2] [ref=e3516]:
+                      - generic [ref=e3517]: Related Subreddits
+                    - generic [ref=e3524]:
+                      - link "r/hvacadvice" [ref=e3527] [cursor=pointer]:
+                        - /url: /r/hvacadvice
+                      - generic [ref=e3528]: 231,288 members
+                    - generic [ref=e3535]:
+                      - link "r/ProHVACR" [ref=e3538] [cursor=pointer]:
+                        - /url: /r/ProHVACR
+                      - generic [ref=e3539]: 8,946 members
+                    - generic [ref=e3546]:
+                      - link "r/refrigeration" [ref=e3549] [cursor=pointer]:
+                        - /url: /r/refrigeration
+                      - generic [ref=e3550]: 28,989 members
+                    - generic [ref=e3557]:
+                      - link "r/Construction" [ref=e3560] [cursor=pointer]:
+                        - /url: /r/Construction
+                      - generic [ref=e3561]: 566,637 members
+                    - generic [ref=e3568]:
+                      - link "r/AirConditioners" [ref=e3571] [cursor=pointer]:
+                        - /url: /r/AirConditioners
+                      - generic [ref=e3572]: 36,708 members
+                  - separator [ref=e3573]
+                  - generic [ref=e3574]:
+                    - heading "Union Related Subreddits" [level=2] [ref=e3576]:
+                      - generic [ref=e3577]: Union Related Subreddits
+                    - generic [ref=e3584]:
+                      - link "r/UnitedAssociation" [ref=e3587] [cursor=pointer]:
+                        - /url: /r/UnitedAssociation
+                      - generic [ref=e3588]: 16,240 members
+                  - separator [ref=e3589]
+                  - generic [ref=e3590]:
+                    - heading "Moderators" [level=2] [ref=e3592]:
+                      - generic [ref=e3593]: Moderators
+                    - generic [ref=e3594]:
+                      - text: Moderator list hidden.
+                      - link "Learn More" [ref=e3595] [cursor=pointer]:
+                        - /url: https://support.reddithelp.com/hc/articles/360049499032
+                    - link "View all moderators" [ref=e3596] [cursor=pointer]:
+                      - /url: /mod/HVAC/moderators/
+                      - generic [ref=e3598]: View all moderators
+                  - separator [ref=e3599]
+                  - generic [ref=e3600]:
+                    - heading "Installed Apps" [level=2] [ref=e3602]:
+                      - generic [ref=e3603]: Installed Apps
+                    - link "Bot Bouncer" [ref=e3604] [cursor=pointer]:
+                      - /url: https://developers.reddit.com/apps/bot-bouncer
+                      - generic [ref=e3607]: Bot Bouncer
+                      - img [ref=e3610]
+                    - link "Comment Mop" [ref=e3612] [cursor=pointer]:
+                      - /url: https://developers.reddit.com/apps/comment-nuke
+                      - generic [ref=e3615]: Comment Mop
+                      - img [ref=e3618]
+                    - link "Modmail Automator" [ref=e3620] [cursor=pointer]:
+                      - /url: https://developers.reddit.com/apps/auto-modmail
+                      - generic [ref=e3623]: Modmail Automator
+                      - img [ref=e3626]
+                    - link "HVACBot" [ref=e3628] [cursor=pointer]:
+                      - /url: https://developers.reddit.com/apps/hvacbot
+                      - generic [ref=e3631]: HVACBot
+                      - img [ref=e3634]
+              - generic [ref=e3637]:
+                - link "Reddit Rules" [ref=e3640] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e3643] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e3646] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e3649] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e3652] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e3654] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e3656]:
+          - button "Collapse Navigation" [ref=e3659] [cursor=pointer]:
+            - img [ref=e3662]
+            - generic [ref=e3664]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e3669]:
+            - generic [ref=e3671]:
+              - link "Home" [ref=e3673] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e3674]:
+                  - img [ref=e3676]
+                  - generic [ref=e3679]: Home
+              - link "Popular" [ref=e3681] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e3682]:
+                  - img [ref=e3684]
+                  - generic [ref=e3687]: Popular
+              - link "News" [ref=e3688] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e3689]:
+                  - img [ref=e3691]
+                  - generic [ref=e3695]: News
+              - link "Explore" [ref=e3697] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e3698]:
+                  - img [ref=e3700]
+                  - generic [ref=e3703]: Explore
+            - separator [ref=e3704]
+            - navigation "Reddit resources" [ref=e3705]:
+              - group [ref=e3707]:
+                - generic "RESOURCES" [ref=e3708] [cursor=pointer]:
+                  - generic [ref=e3710]:
+                    - generic [ref=e3713]: RESOURCES
+                    - img [ref=e3716]
+                - generic [ref=e3719]:
+                  - link "About Reddit" [ref=e3721] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e3722]:
+                      - img [ref=e3724]
+                      - generic [ref=e3728]: About Reddit
+                  - link "Advertise" [ref=e3730] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e3731]:
+                      - img [ref=e3733]
+                      - generic [ref=e3737]: Advertise
+                  - link "Developer Platform" [ref=e3739] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e3740]:
+                      - img [ref=e3742]
+                      - generic [ref=e3746]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e3748] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e3749]:
+                      - img [ref=e3751]
+                      - generic [ref=e3755]:
+                        - generic [ref=e3756]: Reddit Pro
+                        - generic [ref=e3757]: BETA
+                  - link "Help" [ref=e3759] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e3760]:
+                      - img [ref=e3762]
+                      - generic [ref=e3766]: Help
+                  - link "Blog" [ref=e3768] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e3769]:
+                      - img [ref=e3771]
+                      - generic [ref=e3775]: Blog
+                  - link "Careers" [ref=e3777] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e3778]:
+                      - img [ref=e3780]
+                      - generic [ref=e3784]: Careers
+                  - link "Press" [ref=e3786] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e3787]:
+                      - img [ref=e3789]
+                      - generic [ref=e3793]: Press
+                  - separator [ref=e3794]
+                  - link "Best of Reddit" [ref=e3796] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e3797]:
+                      - img [ref=e3799]
+                      - generic [ref=e3804]: Best of Reddit
+                  - separator [ref=e3805]
+                  - link "Reddit Rules" [ref=e3807] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e3808]:
+                      - img [ref=e3810]
+                      - generic [ref=e3814]: Reddit Rules
+                  - link "Privacy Policy" [ref=e3816] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e3817]:
+                      - img [ref=e3819]
+                      - generic [ref=e3823]: Privacy Policy
+                  - link "User Agreement" [ref=e3825] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e3826]:
+                      - img [ref=e3828]
+                      - generic [ref=e3832]: User Agreement
+                  - link "Your Privacy Choices" [ref=e3834] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e3835]:
+                      - img [ref=e3837]
+                      - generic [ref=e3841]: Your Privacy Choices
+                  - link "Accessibility" [ref=e3843] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e3844]:
+                      - img [ref=e3846]
+                      - generic [ref=e3851]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e3853] [cursor=pointer]:
+              - /url: https://redditinc.com

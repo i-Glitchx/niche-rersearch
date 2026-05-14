@@ -1,0 +1,884 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Profitable jobs on paper keep turning into break-even or worse when I look at the actual numbers after : r/sweatystartup"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/sweatystartup filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/sweatystartup
+                  - img [ref=e49]
+              - textbox "Remove r/sweatystartup filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/sweatystartup⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e81] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e82] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e83]:
+            - main [ref=e84]:
+              - 'generic "Profitable jobs on paper keep turning into break-even or worse when I look at the actual numbers after : r/sweatystartup"'
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - button "Back" [ref=e89] [cursor=pointer]:
+                      - img [ref=e92]
+                      - generic [ref=e94]:
+                        - generic: Back
+                    - link "Go to sweatystartup" [ref=e97] [cursor=pointer]:
+                      - /url: /r/sweatystartup/
+                      - generic [ref=e101]:
+                        - generic: Go to sweatystartup
+                    - group [ref=e102]:
+                      - generic [ref=e103]:
+                        - link "r/sweatystartup" [ref=e106] [cursor=pointer]:
+                          - /url: /r/sweatystartup/
+                        - generic [ref=e107]: •
+                        - time [ref=e108]: 3mo ago
+                      - 'link "Author: blanssius_56" [ref=e113] [cursor=pointer]':
+                        - /url: /user/blanssius_56/
+                        - generic [ref=e114]: blanssius_56
+                  - button "Open user actions" [ref=e118] [cursor=pointer]:
+                    - img [ref=e121]
+                - 'heading "Post Title: Profitable jobs on paper keep turning into break-even or worse when I look at the actual numbers after" [level=1] [ref=e125]': Profitable jobs on paper keep turning into break-even or worse when I look at the actual numbers after
+                - paragraph [ref=e130]: Running an HVAC company, 18 techs, been at this about 8 years. We're busy as hell, booking out two weeks most of the year, but when I sit down and actually look at job profitability after everything's done I keep getting surprised by how thin the margins are or how jobs I thought would be winners barely made any money. Recent example, quoted a commercial HVAC replacement at what I thought was a good margin, job took three days like we estimated, no major issues, customer paid on time. Then I'm looking at it a month later and somehow we barely cleared 8% after accounting for the warranty callback we had to do, the extra refrigerant we didn't price in, drive time that ate more hours than I budgeted, and the rental equipment we needed for a day that I just forgot to include in the estimate. This keeps happening and I can't figure out if I'm bad at estimating or bad at tracking costs or if everyone in this industry just operates on razor thin margins. My techs are efficient, we're not wasting time or materials in obvious ways, the profit just keeps leaking out somewhere between the quote and the final invoice and I don't know where to plug the holes.
+                - generic [ref=e131]:
+                  - img [ref=e132]
+                  - generic [ref=e134]: "38"
+                  - img [ref=e135]
+                  - generic [ref=e137]: ·
+                  - img [ref=e138]
+                  - generic [ref=e140]: "38"
+              - separator [ref=e141]
+              - region "Comments" [ref=e145]:
+                - heading "Comments Section" [level=1] [ref=e146]
+                - generic:
+                  - article "Comment from Convergecult15 3 months ago" [ref=e148]:
+                    - generic "Metadata for Convergecult15's comment" [ref=e149]:
+                      - link "Convergecult15's profile --- avatar" [ref=e154] [cursor=pointer]:
+                        - /url: /user/Convergecult15/
+                        - img "u/Convergecult15 avatar" [ref=e157]
+                      - generic [ref=e162]:
+                        - link "Convergecult15's profile" [ref=e165] [cursor=pointer]:
+                          - /url: /user/Convergecult15/
+                          - text: Convergecult15
+                        - generic [ref=e166]: •
+                        - link "3mo ago" [ref=e167] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7o6nxh/
+                          - time [ref=e168]: 3mo ago
+                    - generic [ref=e169]:
+                      - paragraph [ref=e178]: I mean you are telling us what you did wrong, not including the rental, drive time or refrigerant are kind of rookie moves. You ate both costs and still cleared 8% which is surprising, properly quoted what would you have cleared?
+                      - generic [ref=e179]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e181] [cursor=pointer]:
+                          - img [ref=e184]
+                        - generic [ref=e187]:
+                          - img [ref=e188]
+                          - generic [ref=e190]: "38"
+                          - img [ref=e191]
+                      - 'article "Comment thread level 1: Reply from Hitchit25 2 months ago" [ref=e197]':
+                        - generic "Metadata for Hitchit25's comment" [ref=e198]:
+                          - link "Hitchit25's profile --- avatar" [ref=e203] [cursor=pointer]:
+                            - /url: /user/Hitchit25/
+                            - img [ref=e208]
+                          - generic [ref=e214]:
+                            - link "Hitchit25's profile" [ref=e217] [cursor=pointer]:
+                              - /url: /user/Hitchit25/
+                              - text: Hitchit25
+                            - generic [ref=e218]: •
+                            - link "2mo ago" [ref=e219] [cursor=pointer]:
+                              - /url: /r/sweatystartup/comments/1rg0rml/comment/o81tow9/
+                              - time [ref=e220]: 2mo ago
+                        - generic [ref=e221]:
+                          - paragraph [ref=e228]: This. If you had bid that job with all of those overlooked cots, what would the margin have been? Also, you may have to think about change orders do things that are client specific. Sounds like you need a quoting checklist of things you need and/or all the things you likely use and build that into your process.
+                          - generic [ref=e232]:
+                            - img [ref=e233]
+                            - generic [ref=e235]: "5"
+                            - img [ref=e236]
+                  - article "Comment from bilgro 3 months ago" [ref=e239]:
+                    - generic "Metadata for bilgro's comment" [ref=e240]:
+                      - link "bilgro's profile --- avatar" [ref=e245] [cursor=pointer]:
+                        - /url: /user/bilgro/
+                        - img "u/bilgro avatar" [ref=e248]
+                      - generic [ref=e253]:
+                        - link "bilgro's profile" [ref=e256] [cursor=pointer]:
+                          - /url: /user/bilgro/
+                          - text: bilgro
+                        - generic [ref=e257]: •
+                        - link "3mo ago" [ref=e258] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7o80v5/
+                          - time [ref=e259]: 3mo ago
+                    - generic [ref=e260]:
+                      - generic [ref=e266]:
+                        - paragraph [ref=e267]: "The margin leakage you’re describing is almost always a quoting problem, not an efficiency problem. A few things to consider:"
+                        - paragraph [ref=e268]: Warranty callbacks aren’t surprises, they’re a cost of doing business. If you have any historical data, pull your average warranty cost as a percentage of labor and just build it into every estimate as a line item. It’s a real cost, price it like one. Same idea for drive time. If your techs are logging 8 hours on site but you’re only billing the 8, you’re eating the windshield time. A simple multiplier on your hour budget (something like 1.1x or 1.15x depending on geography) gets you closer to what a job actually costs.
+                        - paragraph [ref=e269]: For the one-offs like refrigerant overages and that day of rental equipment, a small job contingency factor (even 2-3% of job cost) won’t kill your competitiveness on the quote but it absorbs those small bleeds that add up. Some jobs you use it, some jobs it’s upside.
+                        - paragraph [ref=e270]: Another consideration though - what does a site bring you after the warranty period is done? A commercial customer who calls you for service over the next five years changes the math on what you’re willing to accept on the installation margin. Not saying eat bad job margins, but the install is sometimes the starting point to years of higher margin service work.
+                      - generic [ref=e274]:
+                        - img [ref=e275]
+                        - generic [ref=e277]: "28"
+                        - img [ref=e278]
+                  - article "Comment from Saslu03 3 months ago" [ref=e281]:
+                    - generic "Metadata for Saslu03's comment" [ref=e282]:
+                      - link "Saslu03's profile --- avatar" [ref=e287] [cursor=pointer]:
+                        - /url: /user/Saslu03/
+                        - img [ref=e292]
+                      - generic [ref=e298]:
+                        - link "Saslu03's profile" [ref=e301] [cursor=pointer]:
+                          - /url: /user/Saslu03/
+                          - text: Saslu03
+                        - generic [ref=e302]: •
+                        - link "3mo ago" [ref=e303] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7pcygt/
+                          - time [ref=e304]: 3mo ago
+                    - generic [ref=e305]:
+                      - generic [ref=e311]:
+                        - paragraph [ref=e312]: Eight years and 18 techs means you've got hundreds of jobs worth of data - the question is whether you're using it.
+                        - paragraph [ref=e313]: The items you listed (callbacks, refrigerant, drive time, rental) aren't surprises in isolation. The problem is they keep hitting you as individual surprises instead of cost categories you've already priced for.
+                        - paragraph [ref=e314]: "A couple things that usually help: • Do a post-job review on your last 30-40 jobs. Pull actual vs. estimated for each cost category. Most shops find 1-2 categories that account for 80% of the leakage - once you see it in the data, you fix it at the template level instead of the judgment level. • Callbacks: track which job types trigger them most. If commercial installs callback at 2x the rate of residential, your commercial margin target needs to reflect that. You cleared 8% after a callback ate into it - meaning you can't afford to not price for them upfront. • Drive time: add a 10-15% buffer on labor hours for every commercial estimate. Commercial almost always has more windshield time, parts waiting, customer coordination. Stop only billing site hours. • One-offs like refrigerant and rental - these aren't random, they're patterns. Build a quote checklist per job type that forces the question before the estimate goes out. Catches the stuff you forget under pressure."
+                        - paragraph [ref=e315]: "On the margin question: commercial HVAC installs are legitimately thinner than residential at the job level - 15-25% gross is normal when quoted right. Landing at 8% after a callback compounding on top of missed items isn't the industry being thin, it's a few things stacking at once. Your service and maintenance work is probably healthier, which is the more important long-term margin anyway."
+                      - generic [ref=e319]:
+                        - img [ref=e320]
+                        - generic [ref=e322]: "8"
+                        - img [ref=e323]
+                  - article "Comment from BobSacramanto 3 months ago" [ref=e326]:
+                    - generic "Metadata for BobSacramanto's comment" [ref=e327]:
+                      - link "BobSacramanto's profile --- avatar" [ref=e332] [cursor=pointer]:
+                        - /url: /user/BobSacramanto/
+                        - img [ref=e337]
+                      - generic [ref=e343]:
+                        - link "BobSacramanto's profile" [ref=e346] [cursor=pointer]:
+                          - /url: /user/BobSacramanto/
+                          - text: BobSacramanto
+                        - generic [ref=e347]: •
+                        - link "3mo ago" [ref=e348] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7pwetv/
+                          - time [ref=e349]: 3mo ago
+                    - generic [ref=e350]:
+                      - paragraph [ref=e357]: So once you complete the quote, add 10% on to top cover “incidentals” (I.e. the things you probably forgot to include).
+                      - generic [ref=e361]:
+                        - img [ref=e362]
+                        - generic [ref=e364]: "4"
+                        - img [ref=e365]
+                  - article "Comment from Jaded-Suggestion-827 3 months ago" [ref=e368]:
+                    - generic "Metadata for Jaded-Suggestion-827's comment" [ref=e369]:
+                      - link "Jaded-Suggestion-827's profile --- avatar" [ref=e374] [cursor=pointer]:
+                        - /url: /user/Jaded-Suggestion-827/
+                        - img "u/Jaded-Suggestion-827 avatar" [ref=e377]
+                      - generic [ref=e382]:
+                        - link "Jaded-Suggestion-827's profile" [ref=e385] [cursor=pointer]:
+                          - /url: /user/Jaded-Suggestion-827/
+                          - text: Jaded-Suggestion-827
+                        - generic [ref=e386]: •
+                        - link "3mo ago" [ref=e387] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7opb8z/
+                          - time [ref=e388]: 3mo ago
+                    - generic [ref=e389]:
+                      - paragraph [ref=e398]: it'qs easier to forget that a technician who drives 45 minutes each way is essentially gone for half a day, even if the job only takes two hours. That's why I find the hidden costs to be particularly annoying. It turns out that I was underpricing by a significant amount because I wasn't accounting for half of this shit. I'm currently working with a business advisor (cultivate advisors) to break down all of this stuff and figure out what our actual cost per hour is when you include everything, truck maintenance, insurance, tools, etc.
+                      - generic [ref=e399]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e401] [cursor=pointer]:
+                          - img [ref=e404]
+                        - generic [ref=e407]:
+                          - img [ref=e408]
+                          - generic [ref=e410]: "6"
+                          - img [ref=e411]
+                      - 'article "Comment thread level 1: Reply from Jumpy-Teaching-3118 3 months ago" [ref=e417]':
+                        - generic "Metadata for Jumpy-Teaching-3118's comment" [ref=e418]:
+                          - link "Jumpy-Teaching-3118's profile --- avatar" [ref=e423] [cursor=pointer]:
+                            - /url: /user/Jumpy-Teaching-3118/
+                            - img [ref=e428]
+                          - generic [ref=e434]:
+                            - link "Jumpy-Teaching-3118's profile" [ref=e437] [cursor=pointer]:
+                              - /url: /user/Jumpy-Teaching-3118/
+                              - text: Jumpy-Teaching-3118
+                            - generic [ref=e438]: •
+                            - link "3mo ago" [ref=e439] [cursor=pointer]:
+                              - /url: /r/sweatystartup/comments/1rg0rml/comment/o7p28h5/
+                              - time [ref=e440]: 3mo ago
+                        - generic [ref=e441]:
+                          - paragraph [ref=e450]: How'd you find them?
+                          - generic [ref=e451]:
+                            - button "Toggle Comment Thread" [expanded] [ref=e453] [cursor=pointer]:
+                              - img [ref=e456]
+                            - generic [ref=e459]:
+                              - img [ref=e460]
+                              - generic [ref=e462]: "1"
+                              - img [ref=e463]
+                          - 'article "Comment thread level 2: Reply from Jaded-Suggestion-827 3 months ago" [ref=e469]':
+                            - generic "Metadata for Jaded-Suggestion-827's comment" [ref=e470]:
+                              - link "Jaded-Suggestion-827's profile --- avatar" [ref=e475] [cursor=pointer]:
+                                - /url: /user/Jaded-Suggestion-827/
+                                - img "u/Jaded-Suggestion-827 avatar" [ref=e478]
+                              - generic [ref=e483]:
+                                - link "Jaded-Suggestion-827's profile" [ref=e486] [cursor=pointer]:
+                                  - /url: /user/Jaded-Suggestion-827/
+                                  - text: Jaded-Suggestion-827
+                                - generic [ref=e487]: •
+                                - link "3mo ago" [ref=e488] [cursor=pointer]:
+                                  - /url: /r/sweatystartup/comments/1rg0rml/comment/o7p3las/
+                                  - time [ref=e489]: 3mo ago
+                            - generic [ref=e490]:
+                              - paragraph [ref=e497]: Referral from another HVAC guy I know, he used them to get his pricing sorted out when he was having the same issue
+                              - generic [ref=e501]:
+                                - img [ref=e502]
+                                - generic [ref=e504]: "3"
+                                - img [ref=e505]
+                  - article "Comment from Sideways-Sid 3 months ago" [ref=e508]:
+                    - generic "Metadata for Sideways-Sid's comment" [ref=e509]:
+                      - link "Sideways-Sid's profile --- avatar" [ref=e514] [cursor=pointer]:
+                        - /url: /user/Sideways-Sid/
+                        - img [ref=e519]
+                      - generic [ref=e525]:
+                        - link "Sideways-Sid's profile" [ref=e528] [cursor=pointer]:
+                          - /url: /user/Sideways-Sid/
+                          - text: Sideways-Sid
+                        - generic [ref=e529]: •
+                        - link "3mo ago" [ref=e530] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7oovle/
+                          - time [ref=e531]: 3mo ago
+                    - generic [ref=e532]:
+                      - generic [ref=e538]:
+                        - paragraph [ref=e539]: I would use a spreadsheet to capture all those missing costs at quote stage.
+                        - paragraph [ref=e540]: But perhaps somebody else should be generating quotes or at least checking OP quotes prior to sending to customers.
+                        - paragraph [ref=e541]: No surprise you're so busy if you're subsiding the installation for customers instead of fully charging them for it!
+                      - generic [ref=e545]:
+                        - img [ref=e546]
+                        - generic [ref=e548]: "3"
+                        - img [ref=e549]
+                  - article "Comment from aussiesarecrazy 3 months ago" [ref=e552]:
+                    - generic "Metadata for aussiesarecrazy's comment" [ref=e553]:
+                      - link "aussiesarecrazy's profile --- avatar" [ref=e558] [cursor=pointer]:
+                        - /url: /user/aussiesarecrazy/
+                        - img "u/aussiesarecrazy avatar" [ref=e561]
+                      - generic [ref=e566]:
+                        - link "aussiesarecrazy's profile" [ref=e569] [cursor=pointer]:
+                          - /url: /user/aussiesarecrazy/
+                          - text: aussiesarecrazy
+                        - generic [ref=e570]: •
+                        - link "3mo ago" [ref=e571] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7or5kj/
+                          - time [ref=e572]: 3mo ago
+                    - generic [ref=e573]:
+                      - generic [ref=e579]:
+                        - paragraph [ref=e580]: Do you not get paid for warranty work? I’m a GC and my hvac contractor is a good friend and he gets paid by the manufacturer a set rate for whatever goes wrong with the unit during the warranty period. He definitely doesn’t lose money doing callbacks due to the manufacturer.
+                        - paragraph [ref=e581]: 18 man hvac company, you should clearing an ungodly amount if you have any techs worth a shit.
+                      - generic [ref=e585]:
+                        - img [ref=e586]
+                        - generic [ref=e588]: "3"
+                        - img [ref=e589]
+                  - article "Comment from SilentIndication3095 3 months ago" [ref=e592]:
+                    - generic "Metadata for SilentIndication3095's comment" [ref=e593]:
+                      - link "SilentIndication3095's profile --- avatar" [ref=e598] [cursor=pointer]:
+                        - /url: /user/SilentIndication3095/
+                        - img [ref=e603]
+                      - generic [ref=e609]:
+                        - link "SilentIndication3095's profile" [ref=e612] [cursor=pointer]:
+                          - /url: /user/SilentIndication3095/
+                          - text: SilentIndication3095
+                        - generic [ref=e613]: •
+                        - link "3mo ago" [ref=e614] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7oxunw/
+                          - time [ref=e615]: 3mo ago
+                    - generic [ref=e616]:
+                      - paragraph [ref=e623]: You just listed ways that you estimated wrong, so you know the problem is the quote. If you're not interested in hiring someone to do it, maybe you could go back through all your jobs for the last few years, figure out how much you're off on average, and start making your quotes that % higher.
+                      - generic [ref=e627]:
+                        - img [ref=e628]
+                        - generic [ref=e630]: "1"
+                        - img [ref=e631]
+                  - article "Comment from dublindown21 3 months ago" [ref=e634]:
+                    - generic "Metadata for dublindown21's comment" [ref=e635]:
+                      - link "dublindown21's profile --- avatar" [ref=e640] [cursor=pointer]:
+                        - /url: /user/dublindown21/
+                        - img "u/dublindown21 avatar" [ref=e643]
+                      - generic [ref=e648]:
+                        - link "dublindown21's profile" [ref=e651] [cursor=pointer]:
+                          - /url: /user/dublindown21/
+                          - text: dublindown21
+                        - generic [ref=e652]: •
+                        - link "3mo ago" [ref=e653] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7q6cu9/
+                          - time [ref=e654]: 3mo ago
+                    - generic [ref=e655]:
+                      - paragraph [ref=e662]: You priced a job and still Made 8% after forgetting or omitting to charge for items that were required to do the job. Imp thing is you made money. You didn’t loose. What’s your profit margin ? What would you try and achieve? Learn from it. Price your jobs better. Know how much each tech is costing you. Break it down per hour how much it costs to run your company your vans. Is it that your too busy to price work accurately? What’s your time management like or are you been distracted by admin etc. lot to break down but have to analyse how it happened and not to let it happen again.
+                      - generic [ref=e666]:
+                        - img [ref=e667]
+                        - generic [ref=e669]: "1"
+                        - img [ref=e670]
+                  - article "Comment from Brilliant_Call_421 3 months ago" [ref=e673]:
+                    - generic "Metadata for Brilliant_Call_421's comment" [ref=e674]:
+                      - link "Brilliant_Call_421's profile --- avatar" [ref=e679] [cursor=pointer]:
+                        - /url: /user/Brilliant_Call_421/
+                        - img "u/Brilliant_Call_421 avatar" [ref=e682]
+                      - generic [ref=e687]:
+                        - link "Brilliant_Call_421's profile" [ref=e690] [cursor=pointer]:
+                          - /url: /user/Brilliant_Call_421/
+                          - text: Brilliant_Call_421
+                        - generic [ref=e691]: •
+                        - link "3mo ago" [ref=e692] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7qbf2q/
+                          - time [ref=e693]: 3mo ago
+                    - generic [ref=e694]:
+                      - paragraph [ref=e701]: sounds like you need better tracking systems. we had similar issues until we built automated cost tracking that caught every small expense in real time
+                      - generic [ref=e705]:
+                        - img [ref=e706]
+                        - generic [ref=e708]: "1"
+                        - img [ref=e709]
+                  - article "Comment from Winning__ 3 months ago" [ref=e712]:
+                    - generic "Metadata for Winning__'s comment" [ref=e713]:
+                      - link "Winning__'s profile --- avatar" [ref=e718] [cursor=pointer]:
+                        - /url: /user/Winning__/
+                        - img "u/Winning__ avatar" [ref=e721]
+                      - generic [ref=e726]:
+                        - link "Winning__'s profile" [ref=e729] [cursor=pointer]:
+                          - /url: /user/Winning__/
+                          - text: Winning__
+                        - generic [ref=e730]: •
+                        - link "3mo ago" [ref=e731] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7qtny2/
+                          - time [ref=e732]: 3mo ago
+                    - generic [ref=e733]:
+                      - paragraph [ref=e740]: Have you tried using a checklist? Might solve all your issues mentioned
+                      - generic [ref=e744]:
+                        - img [ref=e745]
+                        - generic [ref=e747]: "1"
+                        - img [ref=e748]
+                  - article "Comment from Hot-Debate7034 3 months ago" [ref=e751]:
+                    - generic "Metadata for Hot-Debate7034's comment" [ref=e752]:
+                      - link "Hot-Debate7034's profile --- avatar" [ref=e757] [cursor=pointer]:
+                        - /url: /user/Hot-Debate7034/
+                        - img [ref=e762]
+                      - generic [ref=e768]:
+                        - link "Hot-Debate7034's profile" [ref=e771] [cursor=pointer]:
+                          - /url: /user/Hot-Debate7034/
+                          - text: Hot-Debate7034
+                        - generic [ref=e772]: •
+                        - link "3mo ago" [ref=e773] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7qvsn7/
+                          - time [ref=e774]: 3mo ago
+                    - generic [ref=e775]:
+                      - generic [ref=e781]:
+                        - paragraph [ref=e782]: Create quote templates per job type (PM, RTU swap, no-cool, controls).
+                        - paragraph [ref=e783]: "Each template should include the easy-to-miss repeatables: drive time, rentals, refrigerant recovery, disposal, after-hours rates, consumables, required fees, and commissioning/docs. Then you just adjust quantities and add job-specific parts."
+                      - generic [ref=e787]:
+                        - img [ref=e788]
+                        - generic [ref=e790]: "1"
+                        - img [ref=e791]
+                  - article "Comment from onecharteroak 3 months ago" [ref=e794]:
+                    - generic "Metadata for onecharteroak's comment" [ref=e795]:
+                      - link "onecharteroak's profile --- avatar" [ref=e800] [cursor=pointer]:
+                        - /url: /user/onecharteroak/
+                        - img "u/onecharteroak avatar" [ref=e803]
+                      - generic [ref=e808]:
+                        - link "onecharteroak's profile" [ref=e811] [cursor=pointer]:
+                          - /url: /user/onecharteroak/
+                          - text: onecharteroak
+                        - generic [ref=e812]: •
+                        - link "3mo ago" [ref=e813] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7v718f/
+                          - time [ref=e814]: 3mo ago
+                    - generic [ref=e815]:
+                      - generic [ref=e821]:
+                        - paragraph [ref=e822]: The top comment about building contingency into estimates is solid, but there's a timing problem nobody's mentioning. If you're only catching these margin leaks a month after the job closes, every quote you write in the meantime has the same holes in it. The same mistakes compound across dozens of jobs before you ever see the data.
+                        - paragraph [ref=e823]: "What worked for one of our clients was a 10 minute end-of-job debrief. Not a meeting. Just the lead tech texting or filling out a three-question form before they leave the site: anything we used that wasn't on the estimate? Any callbacks likely? Actual hours vs. budgeted? That info goes to whoever writes the next quote, same day."
+                        - paragraph [ref=e824]: "The other thing: you mentioned \"forgot to include rental equipment.\" That's a checklist problem. If you have a standard quote template with every possible line item already on it (even stuff you delete 90% of the time), you're scanning a list instead of trying to remember everything from scratch. Forgetting goes away when the system remembers for you."
+                        - paragraph [ref=e825]: At 18 techs you're big enough that a 2% margin improvement across all jobs is probably six figures annually. Worth building that feedback loop.
+                      - generic [ref=e829]:
+                        - img [ref=e830]
+                        - generic [ref=e832]: "1"
+                        - img [ref=e833]
+                  - article "Comment from richersoul 3 months ago" [ref=e836]:
+                    - generic "Metadata for richersoul's comment" [ref=e837]:
+                      - link "richersoul's profile --- avatar" [ref=e842] [cursor=pointer]:
+                        - /url: /user/richersoul/
+                        - img "u/richersoul avatar" [ref=e845]
+                      - generic [ref=e850]:
+                        - link "richersoul's profile" [ref=e853] [cursor=pointer]:
+                          - /url: /user/richersoul/
+                          - text: richersoul
+                        - generic [ref=e854]: •
+                        - link "3mo ago" [ref=e855] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7vasyq/
+                          - time [ref=e856]: 3mo ago
+                    - generic [ref=e857]:
+                      - paragraph [ref=e864]: Congrats on actually looking at this. You are not properly covering for the overhead. All those little things that add up. Just increase your prices a few percentage points over your final estimate to cover it.
+                      - generic [ref=e868]:
+                        - img [ref=e869]
+                        - generic [ref=e871]: "1"
+                        - img [ref=e872]
+                  - article "Comment from leonme21 3 months ago" [ref=e875]:
+                    - generic "Metadata for leonme21's comment" [ref=e876]:
+                      - link "leonme21's profile --- avatar" [ref=e881] [cursor=pointer]:
+                        - /url: /user/leonme21/
+                        - img "u/leonme21 avatar" [ref=e884]
+                      - generic [ref=e889]:
+                        - link "leonme21's profile" [ref=e892] [cursor=pointer]:
+                          - /url: /user/leonme21/
+                          - text: leonme21
+                        - generic [ref=e893]: •
+                        - link "3mo ago" [ref=e894] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7w0oxn/
+                          - time [ref=e895]: 3mo ago
+                    - generic [ref=e896]:
+                      - paragraph [ref=e903]: „My quote was shit and we still made money, please help!!“
+                      - generic [ref=e907]:
+                        - img [ref=e908]
+                        - generic [ref=e910]: "1"
+                        - img [ref=e911]
+                  - article "Comment from dentman-dadman 3 months ago" [ref=e914]:
+                    - generic "Metadata for dentman-dadman's comment" [ref=e915]:
+                      - link "dentman-dadman's profile --- avatar" [ref=e920] [cursor=pointer]:
+                        - /url: /user/dentman-dadman/
+                        - img [ref=e925]
+                      - generic [ref=e931]:
+                        - link "dentman-dadman's profile" [ref=e934] [cursor=pointer]:
+                          - /url: /user/dentman-dadman/
+                          - text: dentman-dadman
+                        - generic [ref=e935]: •
+                        - link "3mo ago" [ref=e936] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o7w4vvn/
+                          - time [ref=e937]: 3mo ago
+                    - generic [ref=e938]:
+                      - generic [ref=e944]:
+                        - paragraph [ref=e945]: Fire yourself and hire an estimator! Always sub out what you're not good at or just hate!
+                        - paragraph [ref=e946]: Are you sure you were above 30% on the bid? Are you marking up your employees labor rate to profit 30% or more?
+                        - paragraph [ref=e947]: Don't feel too bad I know a guy who sold a unicorn and lost money! He sold a huge apartment complex windows! 100's of them! He should have made enough to take the rest of the year off! He didn't. Same as you the alligators ate him. He said it was a great learning experience?
+                      - generic [ref=e951]:
+                        - img [ref=e952]
+                        - generic [ref=e954]: "1"
+                        - img [ref=e955]
+                  - article "Comment from 4444444vr 2 months ago" [ref=e958]:
+                    - generic "Metadata for 4444444vr's comment" [ref=e959]:
+                      - link "4444444vr's profile --- avatar" [ref=e964] [cursor=pointer]:
+                        - /url: /user/4444444vr/
+                        - img [ref=e969]
+                      - generic [ref=e975]:
+                        - link "4444444vr's profile" [ref=e978] [cursor=pointer]:
+                          - /url: /user/4444444vr/
+                          - text: 4444444vr
+                        - generic [ref=e979]: •
+                        - link "2mo ago" [ref=e980] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o81tcml/
+                          - time [ref=e981]: 2mo ago
+                    - generic [ref=e982]:
+                      - generic [ref=e988]:
+                        - paragraph [ref=e989]: You can leverage ai here, even in a very simplistic manner.
+                        - paragraph [ref=e990]: "Organize your quote with all of the relevant info and drop it into a prompt with something like:"
+                        - paragraph [ref=e991]: "“I’m making a quote for a HVAC project, please provide any feedback/advice/recommendations: “"
+                        - paragraph [ref=e992]: Then you can argue with it some
+                        - paragraph [ref=e993]: Keep in mind, you are the expert, but this kind of discussion can be helpful and only costs you a couple minutes
+                        - paragraph [ref=e994]: Second approach would be to compile historical info on quotes (whether in a spreadsheet or some other format) and drop that in
+                        - paragraph [ref=e995]: There’s a lot that could be done here to simplify/automate your quoting process.
+                      - generic [ref=e999]:
+                        - img [ref=e1000]
+                        - generic [ref=e1002]: "1"
+                        - img [ref=e1003]
+                  - article "Comment from Betterthanbefore5 2 months ago" [ref=e1006]:
+                    - generic "Metadata for Betterthanbefore5's comment" [ref=e1007]:
+                      - link "Betterthanbefore5's profile --- avatar" [ref=e1012] [cursor=pointer]:
+                        - /url: /user/Betterthanbefore5/
+                        - img [ref=e1017]
+                      - generic [ref=e1023]:
+                        - link "Betterthanbefore5's profile" [ref=e1026] [cursor=pointer]:
+                          - /url: /user/Betterthanbefore5/
+                          - text: Betterthanbefore5
+                        - generic [ref=e1027]: •
+                        - link "2mo ago" [ref=e1028] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o82b780/
+                          - time [ref=e1029]: 2mo ago
+                    - generic [ref=e1030]:
+                      - paragraph [ref=e1037]: Hire some one to do that part of the job. Clearly you’re doing very well at it.
+                      - generic [ref=e1041]:
+                        - img [ref=e1042]
+                        - generic [ref=e1044]: "1"
+                        - img [ref=e1045]
+                  - article "Comment from RaymondtheCFO 2 months ago" [ref=e1048]:
+                    - generic "Metadata for RaymondtheCFO's comment" [ref=e1049]:
+                      - link "RaymondtheCFO's profile --- avatar" [ref=e1054] [cursor=pointer]:
+                        - /url: /user/RaymondtheCFO/
+                        - img "u/RaymondtheCFO avatar" [ref=e1057]
+                      - generic [ref=e1062]:
+                        - link "RaymondtheCFO's profile" [ref=e1065] [cursor=pointer]:
+                          - /url: /user/RaymondtheCFO/
+                          - text: RaymondtheCFO
+                        - generic [ref=e1066]: •
+                        - link "2mo ago" [ref=e1067] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o8342za/
+                          - time [ref=e1068]: 2mo ago
+                    - generic [ref=e1069]:
+                      - generic [ref=e1075]:
+                        - paragraph [ref=e1076]: This is a job costing problem, not a pricing problem — and the distinction matters because the fix is different.
+                        - paragraph [ref=e1077]: "You already identified the four margin killers on that commercial job: warranty callback, unpriced refrigerant, drive time, rental equipment. Those aren't random one-offs. Every HVAC company I've worked with has the same recurring cost categories that leak margin: callbacks, consumables not on the estimate, travel, and equipment/rentals."
+                        - paragraph [ref=e1078]: "The fix is building those into your estimating template as line items that you price every single time, not as things you remember to add sometimes. Specifically:"
+                        - paragraph [ref=e1079]: "- **Warranty reserve**: Pull your callback rate for the last 12 months. Most shops are running 8-15% callback rates. If your average callback costs you $400 in labor, and you're running 10% callbacks, that's $40/job you should be baking into every estimate as a line item."
+                        - paragraph [ref=e1080]: "- **Consumables buffer**: Refrigerant, brazing rods, misc fittings — add a 3-5% materials buffer on every job. Your purchasing data will tell you the exact number if you track it."
+                        - paragraph [ref=e1081]: "- **Drive time**: This one's the silent killer. If your techs are averaging 45 min of drive time per job at a loaded labor cost of $45/hr, that's $34/job you're eating if it's not in the estimate. Loaded labor rate (wages + benefits + truck + insurance + workers comp) is what matters here, not just the hourly wage."
+                        - paragraph [ref=e1082]: "- **Equipment/rentals**: Keep a running list of jobs that needed rental equipment in the last year. If 15% of your commercial jobs need a lift or specialty tool, price it into every commercial estimate as a contingency line."
+                        - paragraph [ref=e1083]: At 18 techs you have enough volume to calculate real averages for all of these. The data is sitting in your books — it just needs to be pulled into your estimating process. The guys running 18-25% net on install work aren't smarter estimators, they just have templates that force them to price the stuff everyone else forgets. The last item is most home services business owners honestly don't calculate fully loaded cost correctly on their PNLs and everyone's looks different from what I have seen working in this industry. If you have any qs - I'm an open book since this is specifically what I focus my time on.
+                      - generic [ref=e1087]:
+                        - img [ref=e1088]
+                        - generic [ref=e1090]: "1"
+                        - img [ref=e1091]
+                  - article "Comment from Disastrous_Yak6176 2 months ago" [ref=e1094]:
+                    - generic "Metadata for Disastrous_Yak6176's comment" [ref=e1095]:
+                      - button [ref=e1097] [cursor=pointer]:
+                        - img [ref=e1100]
+                      - generic [ref=e1106]:
+                        - link "Disastrous_Yak6176's profile" [ref=e1109] [cursor=pointer]:
+                          - /url: /user/Disastrous_Yak6176/
+                          - text: Disastrous_Yak6176
+                        - generic [ref=e1110]: •
+                        - link "2mo ago" [ref=e1111] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o86c1hi/
+                          - time [ref=e1112]: 2mo ago
+                  - article "Comment from Ejinto 2 months ago" [ref=e1114]:
+                    - generic "Metadata for Ejinto's comment" [ref=e1115]:
+                      - link "Ejinto's profile --- avatar" [ref=e1120] [cursor=pointer]:
+                        - /url: /user/Ejinto/
+                        - img "u/Ejinto avatar" [ref=e1123]
+                      - generic [ref=e1128]:
+                        - link "Ejinto's profile" [ref=e1131] [cursor=pointer]:
+                          - /url: /user/Ejinto/
+                          - text: Ejinto
+                        - generic [ref=e1132]: •
+                        - link "2mo ago" [ref=e1133] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o88oz3v/
+                          - time [ref=e1134]: 2mo ago
+                    - generic [ref=e1135]:
+                      - generic [ref=e1141]:
+                        - paragraph [ref=e1142]: This is an estimating system problem more than an execution problem. The leaks, forgotten rental equipment, unpriced refrigerant, drive time, and warranty callbacks are all predictable costs that need a home in your estimate template, not something you remember job by job.
+                        - paragraph [ref=e1143]: The fix is building a post-job review process on your last 10 jobs and listing every cost that appeared but wasn't in the original quote.
+                      - generic [ref=e1147]:
+                        - img [ref=e1148]
+                        - generic [ref=e1150]: "1"
+                        - img [ref=e1151]
+                  - article "Comment from ia2ai_official 2 months ago" [ref=e1154]:
+                    - generic "Metadata for ia2ai_official's comment" [ref=e1155]:
+                      - button [ref=e1157] [cursor=pointer]:
+                        - img [ref=e1160]
+                      - generic [ref=e1166]:
+                        - link "ia2ai_official's profile" [ref=e1169] [cursor=pointer]:
+                          - /url: /user/ia2ai_official/
+                          - text: ia2ai_official
+                        - generic [ref=e1170]: •
+                        - link "2mo ago" [ref=e1171] [cursor=pointer]:
+                          - /url: /r/sweatystartup/comments/1rg0rml/comment/o8wgkh2/
+                          - time [ref=e1172]: 2mo ago
+            - generic [ref=e1176]:
+              - generic [ref=e1177]:
+                - complementary [ref=e1180]:
+                  - generic [ref=e1181]:
+                    - generic [ref=e1182]: New to Reddit?
+                    - paragraph [ref=e1183]: Create your account and connect with a world of communities.
+                  - generic [ref=e1184]:
+                    - generic [ref=e1192]:
+                      - button "Continue with Google. Opens in new tab" [ref=e1194] [cursor=pointer]:
+                        - generic [ref=e1196]:
+                          - img [ref=e1198]
+                          - generic [ref=e1205]: Continue with Google
+                      - iframe
+                    - link "Continue with Email" [ref=e1207] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e1210]:
+                        - img [ref=e1211]
+                        - generic [ref=e1213]: Continue with Email
+                  - link "Continue with Phone Number" [ref=e1216] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e1219]:
+                      - img [ref=e1220]
+                      - generic [ref=e1223]: Continue with Phone Number
+                  - generic [ref=e1224]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e1225] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e1226] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Answers Section" [ref=e1228]:
+                  - heading "Related Answers Section" [level=1] [ref=e1229]
+                  - generic [ref=e1230]:
+                    - img [ref=e1232]
+                    - generic [ref=e1234]: Related Answers
+                  - generic [ref=e1235]:
+                    - generic [ref=e1237]:
+                      - generic [ref=e1238]:
+                        - generic [ref=e1239]: Best resources for aspiring entrepreneurs
+                        - generic [ref=e1240]:
+                          - paragraph [ref=e1241]:
+                            - text: To become a successful entrepreneur,
+                            - strong [ref=e1242]: prioritize action over endless planning
+                            - text: ","
+                            - strong [ref=e1243]: learn continuously from real-world problems
+                            - text: ", and"
+                            - strong [ref=e1244]: build a strong network
+                            - text: . While guides and books offer foundational knowledge, direct experience and adaptability are crucial for navigating the unpredictable journey of entrepreneurship.
+                          - heading "Embrace Learning by Doing" [level=3] [ref=e1245]
+                          - list [ref=e1246]:
+                            - listitem [ref=e1247]:
+                              - paragraph [ref=e1248]:
+                                - strong [ref=e1249]: Start small and execute quickly
+                                - text: ": Don't get caught in endless planning; build a minimum viable product (MVP) and test it."
+                                - link "\"I learned more in my first 6 months of actually running a business than I did from any course or book.\"" [ref=e1250] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o60ubax/
+                                  - text: "\"I learned more in my first 6 months of actually running a business than I did from any course or book.\""
+                                  - img [ref=e1252]
+                            - listitem [ref=e1254]:
+                              - paragraph [ref=e1255]:
+                                - strong [ref=e1256]: Solve real problems
+                                - text: ": Focus on identifying and solving genuine problems for customers, as this leads to sustainable businesses."
+                                - link "\"The best business ideas come from understanding problems really well.\"" [ref=e1257] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1qz3dlf/comment/o48j7l8/
+                                  - text: "\"The best business ideas come from understanding problems really well.\""
+                                  - img [ref=e1259]
+                            - listitem [ref=e1261]:
+                              - paragraph [ref=e1262]:
+                                - strong [ref=e1263]: Adapt and pivot
+                                - text: ": Be prepared for setbacks and view them as learning opportunities to adjust your approach."
+                                - link "\"Pivoting is underrated advice honestly. Most people see it as failure but the best entrepreneurs I've studied treat it as data.\"" [ref=e1264] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/AskReddit/comments/1sblywf/comment/oe8ay0m/
+                                  - text: "\"Pivoting is underrated advice honestly. Most people see it as failure but the best entrepreneurs I've studied treat it as data.\""
+                                  - img [ref=e1266]
+                          - heading "Utilize Educational Resources" [level=3] [ref=e1268]
+                          - list [ref=e1269]:
+                            - listitem [ref=e1270]:
+                              - paragraph [ref=e1271]:
+                                - strong [ref=e1272]: Read widely
+                                - text: ": Books provide valuable insights into business fundamentals and strategies."
+                                - link "\"Reading, however, can open your mind to new ideas and can have a huge impact on your strategy before you get started.\"" [ref=e1273] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1ookxv5/best_books_or_resources_for_new_entrepreneurs/
+                                  - text: "\"Reading, however, can open your mind to new ideas and can have a huge impact on your strategy before you get started.\""
+                                  - img [ref=e1275]
+                            - listitem [ref=e1277]:
+                              - paragraph [ref=e1278]:
+                                - strong [ref=e1279]: Leverage free online content
+                                - text: ": YouTube and podcasts offer accessible explanations of business basics."
+                                - link "\"Honestly, YouTube and just starting small.\"" [ref=e1280] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o61kawk/
+                                  - text: "\"Honestly, YouTube and just starting small.\""
+                                  - img [ref=e1282]
+                            - listitem [ref=e1284]:
+                              - paragraph [ref=e1285]:
+                                - strong [ref=e1286]: Seek mentorship
+                                - text: ": Organizations like SCORE.org provide free mentorship from experienced professionals."
+                                - link "\"score.org free mentor\"" [ref=e1287] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o615etn/
+                                  - text: "\"score.org free mentor\""
+                                  - img [ref=e1289]
+                          - heading "Build a Supportive Network" [level=3] [ref=e1291]
+                          - list [ref=e1292]:
+                            - listitem [ref=e1293]:
+                              - paragraph [ref=e1294]:
+                                - strong [ref=e1295]: Connect with other entrepreneurs
+                                - text: ": Engage in communities (both online and offline) to share experiences and gain diverse perspectives."
+                                - link "\"Talking to people already running businesses helped a lot too.\"" [ref=e1296] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o60gkqb/
+                                  - text: "\"Talking to people already running businesses helped a lot too.\""
+                                  - img [ref=e1298]
+                            - listitem [ref=e1300]:
+                              - paragraph [ref=e1301]:
+                                - strong [ref=e1302]: Prioritize relationships
+                                - text: ": Networking can open doors to new insights and collaborations."
+                                - link "\"Don't spend too much time online. Reach out to real business owners in your community.\"" [ref=e1303] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1cts3ul/comment/l4euprc/
+                                  - text: "\"Don't spend too much time online. Reach out to real business owners in your community.\""
+                                  - img [ref=e1305]
+                            - listitem [ref=e1307]:
+                              - paragraph [ref=e1308]:
+                                - strong [ref=e1309]: Learn from experts
+                                - text: ": Identify and learn from successful individuals in your chosen domain."
+                                - link "\"Learn from the best people in the domain.\"" [ref=e1310] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1qz3dlf/comment/o48fbai/
+                                  - text: "\"Learn from the best people in the domain.\""
+                                  - img [ref=e1312]
+                          - paragraph [ref=e1314]: Are you ready to start implementing these strategies and take the first step in your entrepreneurial journey?
+                      - link "See Answer" [ref=e1319] [cursor=pointer]:
+                        - /url: https://www.reddit.com/answers/61dac63c-0176-4100-8f4b-70b168464652/?q=Best+resources+for+aspiring+entrepreneurs&source=PDP
+                        - generic [ref=e1321]: See Answer
+                    - link "How to find your niche in a crowded market" [ref=e1323] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/fd73cbb5-5d21-4b6b-a08f-ce6d997fc2a6/?q=How+to+find+your+niche+in+a+crowded+market&source=PDP
+                      - generic [ref=e1326]: How to find your niche in a crowded market
+                      - img [ref=e1329]
+                    - link "Building a strong brand identity from scratch" [ref=e1332] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/467ee5a1-8903-42c3-af39-9a96daed5bab/?q=Building+a+strong+brand+identity+from+scratch&source=PDP
+                      - generic [ref=e1335]: Building a strong brand identity from scratch
+                      - img [ref=e1338]
+                    - link "Tips for managing cash flow in startups" [ref=e1341] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/03114524-b1f8-4a6b-8acd-63339c976475/?q=Tips+for+managing+cash+flow+in+startups&source=PDP
+                      - generic [ref=e1344]: Tips for managing cash flow in startups
+                      - img [ref=e1347]
+                    - link "Networking tips for new entrepreneurs" [ref=e1350] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/cda98a98-189a-4592-be96-3a955a07f5c7/?q=Networking+tips+for+new+entrepreneurs&source=PDP
+                      - generic [ref=e1353]: Networking tips for new entrepreneurs
+                      - img [ref=e1356]
+                - complementary "Community information" [ref=e1961]:
+                  - generic [ref=e1963]:
+                    - heading "Community Info Section" [level=1] [ref=e1964]
+                    - generic [ref=e1965]:
+                      - link "r/sweatystartup" [ref=e1967] [cursor=pointer]:
+                        - /url: /r/sweatystartup/
+                        - generic [ref=e1968]: r/sweatystartup
+                      - button "Join" [ref=e1972] [cursor=pointer]
+                    - generic [ref=e1973]:
+                      - generic [ref=e1974]: sweatystartup
+                      - generic [ref=e1975]: A hub for entrepreneurs of regular old fashioned businesses.
+                      - generic [ref=e1978]:
+                        - img [ref=e1979]
+                        - text: Public
+              - generic [ref=e1982]:
+                - link "Reddit Rules" [ref=e1985] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e1988] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e1991] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e1994] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e1997] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1999] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e2001]:
+          - button "Collapse Navigation" [ref=e2004] [cursor=pointer]:
+            - img [ref=e2007]
+            - generic [ref=e2009]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e2014]:
+            - generic [ref=e2016]:
+              - link "Home" [ref=e2018] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e2019]:
+                  - img [ref=e2021]
+                  - generic [ref=e2024]: Home
+              - link "Popular" [ref=e2026] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e2027]:
+                  - img [ref=e2029]
+                  - generic [ref=e2032]: Popular
+              - link "News" [ref=e2033] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e2034]:
+                  - img [ref=e2036]
+                  - generic [ref=e2040]: News
+              - link "Explore" [ref=e2042] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e2043]:
+                  - img [ref=e2045]
+                  - generic [ref=e2048]: Explore
+            - separator [ref=e2049]
+            - group [ref=e2052]:
+              - generic "RECENT" [ref=e2053] [cursor=pointer]:
+                - generic [ref=e2054]:
+                  - generic [ref=e2057]: RECENT
+                  - img [ref=e2060]
+              - link "r/HVAC" [ref=e2064] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e2065]:
+                  - img [ref=e2070]
+                  - generic [ref=e2073]: r/HVAC
+            - navigation "Reddit resources" [ref=e2074]:
+              - group [ref=e2076]:
+                - generic "RESOURCES" [ref=e2077] [cursor=pointer]:
+                  - generic [ref=e2079]:
+                    - generic [ref=e2082]: RESOURCES
+                    - img [ref=e2085]
+                - generic [ref=e2088]:
+                  - link "About Reddit" [ref=e2090] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e2091]:
+                      - img [ref=e2093]
+                      - generic [ref=e2097]: About Reddit
+                  - link "Advertise" [ref=e2099] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e2100]:
+                      - img [ref=e2102]
+                      - generic [ref=e2106]: Advertise
+                  - link "Developer Platform" [ref=e2108] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2109]:
+                      - img [ref=e2111]
+                      - generic [ref=e2115]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e2117] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2118]:
+                      - img [ref=e2120]
+                      - generic [ref=e2124]:
+                        - generic [ref=e2125]: Reddit Pro
+                        - generic [ref=e2126]: BETA
+                  - link "Help" [ref=e2128] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e2129]:
+                      - img [ref=e2131]
+                      - generic [ref=e2135]: Help
+                  - link "Blog" [ref=e2137] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e2138]:
+                      - img [ref=e2140]
+                      - generic [ref=e2144]: Blog
+                  - link "Careers" [ref=e2146] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e2147]:
+                      - img [ref=e2149]
+                      - generic [ref=e2153]: Careers
+                  - link "Press" [ref=e2155] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e2156]:
+                      - img [ref=e2158]
+                      - generic [ref=e2162]: Press
+                  - separator [ref=e2163]
+                  - link "Best of Reddit" [ref=e2165] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e2166]:
+                      - img [ref=e2168]
+                      - generic [ref=e2173]: Best of Reddit
+                  - separator [ref=e2174]
+                  - link "Reddit Rules" [ref=e2176] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e2177]:
+                      - img [ref=e2179]
+                      - generic [ref=e2183]: Reddit Rules
+                  - link "Privacy Policy" [ref=e2185] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e2186]:
+                      - img [ref=e2188]
+                      - generic [ref=e2192]: Privacy Policy
+                  - link "User Agreement" [ref=e2194] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e2195]:
+                      - img [ref=e2197]
+                      - generic [ref=e2201]: User Agreement
+                  - link "Your Privacy Choices" [ref=e2203] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e2204]:
+                      - img [ref=e2206]
+                      - generic [ref=e2210]: Your Privacy Choices
+                  - link "Accessibility" [ref=e2212] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e2213]:
+                      - img [ref=e2215]
+                      - generic [ref=e2220]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2222] [cursor=pointer]:
+              - /url: https://redditinc.com

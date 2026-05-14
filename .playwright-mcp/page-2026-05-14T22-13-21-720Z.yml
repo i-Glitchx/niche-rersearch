@@ -1,0 +1,1788 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Can we just go back to contactors and capacitors please : r/HVAC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/HVAC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/HVAC
+                  - img [ref=e49]
+              - textbox "Remove r/HVAC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/HVAC⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e81] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e82] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e83]:
+            - main [ref=e84]:
+              - 'generic "Can we just go back to contactors and capacitors please : r/HVAC"'
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - button "Back" [ref=e89] [cursor=pointer]:
+                      - img [ref=e92]
+                      - generic [ref=e94]:
+                        - generic: Back
+                    - link "Go to HVAC" [ref=e97] [cursor=pointer]:
+                      - /url: /r/HVAC/
+                      - generic [ref=e101]:
+                        - generic: Go to HVAC
+                    - group [ref=e102]:
+                      - generic [ref=e103]:
+                        - link "r/HVAC" [ref=e106] [cursor=pointer]:
+                          - /url: /r/HVAC/
+                        - generic [ref=e107]: •
+                        - time [ref=e108]: 6d ago
+                      - 'link "Author: Megamazuma20" [ref=e113] [cursor=pointer]':
+                        - /url: /user/Megamazuma20/
+                        - generic [ref=e114]: Megamazuma20
+                  - button "Open user actions" [ref=e118] [cursor=pointer]:
+                    - img [ref=e121]
+                - 'heading "Post Title: Can we just go back to contactors and capacitors please" [level=1] [ref=e125]': Can we just go back to contactors and capacitors please
+                - img "r/HVAC - Can we just go back to contactors and capacitors please" [ref=e131] [cursor=pointer]
+                - generic [ref=e132]:
+                  - img [ref=e133]
+                  - generic [ref=e135]: 1K
+                  - img [ref=e136]
+                  - generic [ref=e138]: ·
+                  - img [ref=e139]
+                  - generic [ref=e141]: "191"
+              - separator [ref=e142]
+              - generic "Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind." [ref=e143]:
+                - generic [ref=e144]:
+                  - 'generic "Advertisement: Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind." [ref=e145]':
+                    - 'link "Advertisement: Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind." [ref=e146] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                  - generic [ref=e147]:
+                    - generic [ref=e148]:
+                      - link "u/HomeDepot avatar HomeDepot" [ref=e150] [cursor=pointer]:
+                        - /url: /user/HomeDepot/
+                        - img "u/HomeDepot avatar" [ref=e153]
+                        - generic [ref=e154]: HomeDepot
+                      - generic [ref=e155]: •
+                      - link "Promoted" [ref=e157] [cursor=pointer]:
+                        - /url: /user/HomeDepot/
+                        - generic [ref=e158]: Promoted
+                      - link [ref=e160] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                    - button "Open user actions" [ref=e165] [cursor=pointer]:
+                      - img [ref=e168]
+                  - generic [ref=e171]:
+                    - generic [ref=e172]:
+                      - link "Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind." [ref=e174] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                        - generic: Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind.
+                      - generic [ref=e175]:
+                        - link [ref=e177] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                        - generic [ref=e178]:
+                          - link "Learn More" [ref=e180] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                            - generic [ref=e182]:
+                              - generic: Learn More
+                          - link "homedepot.com" [ref=e185] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                            - generic: homedepot.com
+                    - 'link "Thumbnail image: Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind." [ref=e188] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=z19GvvbCTyNyC_hP8DWM0gaZw4nub-08r25WESo-u7j3tSl2-K7sJ6qC03NkUh5ioLEjUbPiEs9caF09LtXg5htDIuS6eLPlrSF3h0dYsTsyzbNXNRDVGz4he19x27ZtS3ME1uQqe74tJEbuUEqb3X-5k-b7sW3P_aP3xVBBCa7JtFsBSIcQ6d6hK2HyvEw9z9mGn11-VMEApVpaMyeXMYR8mgIH8R_qnVMzZQdw-PE6C_bz_Ad_gXjAAaf-jcPXve2ZI1jkF_gtq1BmCcX72INLLZ0NhRJyaZRoPEtudzVC6tZnWi2jIfjPqBIHShqIItolOD8nOHPrRqz1rmycTV8D1gtSntt-t6cj6oy0fS8UsADXVDq2nbAhdXBbfnxVOa9SU-RaweI0aor9yxVWldwIYQln-fzFto8hFYOkBTg8-PQzQaIVw8w8Tesc_omN8XIYWplTMW0-g3C3o6WOGeXSqdSSnLwWi5YtkhPDLXnlPuK_MXdsyxxkD7mdd4uu1RpNhv4efYPWS-WaHJUllD8WMImrsz5DQpJP44QWF8629nBCbq8O-dDIndz6noo47jNZcoBPP2nHGjSIRLTP-GFCMV5rmzA8qcbb12bWqxLBTKT8I1lXUxBYLDeMstY0BgccYq51YmKgEq0Gd5w1tpvWbBBOH93ISSmT0wfuK4fGMxq7B3pLpn5Y2VlthqDYh9Fkq1euCHXSGJppUamDmkHrWV17Bacwpj6GGkIMUbLg&zp=qoV1Q07gFflg40p7aLYzqyjT5-lWwYScEABRsk2lcAtgcKPxRsiyJItLJDUeEPv3cHO5faaLqw0JAYv5lSndMnSORF6syYmCf8u41cm6fItVb3jeCG8lh0lT0gKvFm8syhUWquiyEFAITcpDF5VvA5NHUnZSE4_H41BpRn075hn7WyHK8qUdhR6aJ162QFAsMx9H2yRJzfCOO1YrX--WuSuy-5pnoqWYR8xF1S03rUteLwjjdkB18LeJkWPgmX29iOP35JQcAYcnVtu9BMh0tlESj5CUsf6cIG6_oxSUDhuz5A-ZKP8HkuzJg8c-YfFusC-5PB0PkuWBrPupRT3GeDe7YCl9RTUQirlLxcqkcawRDvchQbM4d14ZFWtx9A
+                      - 'img "Thumbnail image: Ready for a new fence? Our licensed local experts handle everything from planning to installation—so you can enjoy more privacy, security and peace of mind." [ref=e189]'
+              - separator [ref=e190]
+              - region "Comments" [ref=e194]:
+                - heading "Comments Section" [level=1] [ref=e195]
+                - generic:
+                  - article "Comment from milezero13 6 days ago" [ref=e197]:
+                    - generic "Metadata for milezero13's comment" [ref=e198]:
+                      - link "milezero13's profile --- avatar" [ref=e203] [cursor=pointer]:
+                        - /url: /user/milezero13/
+                        - img "u/milezero13 avatar" [ref=e206]
+                      - generic [ref=e211]:
+                        - link "milezero13's profile" [ref=e214] [cursor=pointer]:
+                          - /url: /user/milezero13/
+                          - text: milezero13
+                        - generic [ref=e215]: •
+                        - link "6d ago" [ref=e216] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknfb92/
+                          - time [ref=e217]: 6d ago
+                    - generic [ref=e218]:
+                      - paragraph [ref=e227]: Yup a lot of people don’t understand with efficiency comes with more parts, more parts equal more that fail, or control boards that are unrepairable, random glitches, more susceptible to power surges etc.
+                      - generic [ref=e228]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e230] [cursor=pointer]:
+                          - img [ref=e233]
+                        - generic [ref=e236]:
+                          - img [ref=e237]
+                          - generic [ref=e239]: "425"
+                          - img [ref=e240]
+                      - generic [ref=e242]:
+                        - 'article "Comment thread level 1: Reply from Straight_Spring9815 6 days ago" [ref=e244]':
+                          - generic "Metadata for Straight_Spring9815's comment" [ref=e245]:
+                            - link "Straight_Spring9815's profile --- avatar" [ref=e250] [cursor=pointer]:
+                              - /url: /user/Straight_Spring9815/
+                              - generic [ref=e252]:
+                                - img [ref=e254]
+                                - img [ref=e258]
+                                - img [ref=e261]
+                            - generic [ref=e267]:
+                              - link "Straight_Spring9815's profile" [ref=e270] [cursor=pointer]:
+                                - /url: /user/Straight_Spring9815/
+                                - text: Straight_Spring9815
+                              - generic [ref=e271]: •
+                              - link "6d ago" [ref=e272] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7a7nl/comment/oknhusu/
+                                - time [ref=e273]: 6d ago
+                          - generic [ref=e274]:
+                            - paragraph [ref=e283]: Single point failures. The less you have the better off you are.
+                            - generic [ref=e284]:
+                              - button "Toggle Comment Thread" [expanded] [ref=e286] [cursor=pointer]:
+                                - img [ref=e289]
+                              - generic [ref=e292]:
+                                - img [ref=e293]
+                                - generic [ref=e295]: "185"
+                                - img [ref=e296]
+                            - generic [ref=e298]:
+                              - 'article "Comment thread level 2: Reply from 13dinkydog 6 days ago" [ref=e300]':
+                                - generic "Metadata for 13dinkydog's comment" [ref=e301]:
+                                  - link "13dinkydog's profile --- avatar" [ref=e306] [cursor=pointer]:
+                                    - /url: /user/13dinkydog/
+                                    - img [ref=e311]
+                                  - generic [ref=e317]:
+                                    - link "13dinkydog's profile" [ref=e320] [cursor=pointer]:
+                                      - /url: /user/13dinkydog/
+                                      - text: 13dinkydog
+                                    - generic [ref=e321]: •
+                                    - link "6d ago" [ref=e322] [cursor=pointer]:
+                                      - /url: /r/HVAC/comments/1t7a7nl/comment/oknii08/
+                                      - time [ref=e323]: 6d ago
+                                - generic [ref=e324]:
+                                  - paragraph [ref=e333]: Not when they stop making the board or have to wait weeks for it to show up. And itll cost you a used car.
+                                  - generic [ref=e337]:
+                                    - img [ref=e338]
+                                    - generic [ref=e340]: "82"
+                                    - img [ref=e341]
+                                  - button "14 more replies" [ref=e349] [cursor=pointer]:
+                                    - generic [ref=e352]:
+                                      - generic [ref=e354]:
+                                        - generic [ref=e355]: "14"
+                                        - text: more replies
+                                      - img [ref=e356]
+                              - 'article "Comment thread level 2: Reply from Han77Shot1st 6 days ago" [ref=e359]':
+                                - generic "Metadata for Han77Shot1st's comment" [ref=e360]:
+                                  - link "Han77Shot1st's profile --- avatar" [ref=e365] [cursor=pointer]:
+                                    - /url: /user/Han77Shot1st/
+                                    - img "u/Han77Shot1st avatar" [ref=e368]
+                                  - generic [ref=e373]:
+                                    - link "Han77Shot1st's profile" [ref=e376] [cursor=pointer]:
+                                      - /url: /user/Han77Shot1st/
+                                      - text: Han77Shot1st
+                                    - generic [ref=e377]: •
+                                    - link "6d ago" [ref=e378] [cursor=pointer]:
+                                      - /url: /r/HVAC/comments/1t7a7nl/comment/okokmps/
+                                      - time [ref=e379]: 6d ago
+                                - generic [ref=e380]:
+                                  - paragraph [ref=e387]: It’s a balance, if you can save enough money on a modern systems efficiency over 10-15y then it makes sense.. I won’t install anything without a 10y warranty and handle all registrations in house.
+                                  - generic [ref=e391]:
+                                    - img [ref=e392]
+                                    - generic [ref=e394]: "8"
+                                    - img [ref=e395]
+                              - button "2 more replies" [ref=e402] [cursor=pointer]:
+                                - generic [ref=e405]:
+                                  - generic [ref=e407]:
+                                    - generic [ref=e408]: "2"
+                                    - text: more replies
+                                  - img [ref=e409]
+                        - 'article "Comment thread level 1: Reply from slash_networkboy 6 days ago" [ref=e412]':
+                          - generic "Metadata for slash_networkboy's comment" [ref=e413]:
+                            - link "slash_networkboy's profile --- avatar" [ref=e418] [cursor=pointer]:
+                              - /url: /user/slash_networkboy/
+                              - generic [ref=e420]:
+                                - img [ref=e422]
+                                - img [ref=e426]
+                                - img [ref=e429]
+                            - generic [ref=e435]:
+                              - link "slash_networkboy's profile" [ref=e438] [cursor=pointer]:
+                                - /url: /user/slash_networkboy/
+                                - text: slash_networkboy
+                              - generic [ref=e439]: •
+                              - link "6d ago" [ref=e440] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7a7nl/comment/oknt3tq/
+                                - time [ref=e441]: 6d ago
+                          - generic [ref=e442]:
+                            - generic [ref=e450]:
+                              - paragraph [ref=e451]: Main reason I haven't replaced my ancient home's system. r22 Carrier from the early 80's. Quad mercury tilt switch thermostats by Honeywell, as long as the bimetal spring doesn't break and nothing actually impacts the thermostat there's nothing to fail there. Blowers are single speed (have had to replace one motor) control is a couple contactors for blower and heat strips. Outdoor is just a cap and contactor.
+                              - paragraph [ref=e452]: Yes I do pay more electric to run this vs a new high efficiency system, but I can fix it with relatively cheap parts (other than that blower, that was a bitch to source) and the only part that actually fails is the cap every 5-10 years. I keep one contactor and two caps on the shelf as spares (two heat pumps, different caps, same contactors).
+                              - paragraph [ref=e453]: I figure the cost of a new system + the increased maintenance of a new system vs the increased energy costs of this system are at worst a wash, and I'm betting I wouldn't see a benefit in the lifetime of the new system, so why also add the aggravation of lower reliability to my life?
+                            - generic [ref=e454]:
+                              - button "Toggle Comment Thread" [expanded] [ref=e456] [cursor=pointer]:
+                                - img [ref=e459]
+                              - generic [ref=e462]:
+                                - img [ref=e463]
+                                - generic [ref=e465]: "25"
+                                - img [ref=e466]
+                            - generic [ref=e468]:
+                              - 'article "Comment thread level 2: Reply from Ender06 6 days ago" [ref=e470]':
+                                - generic "Metadata for Ender06's comment" [ref=e471]:
+                                  - link "Ender06's profile --- avatar" [ref=e476] [cursor=pointer]:
+                                    - /url: /user/Ender06/
+                                    - img "u/Ender06 avatar" [ref=e479]
+                                  - generic [ref=e484]:
+                                    - link "Ender06's profile" [ref=e487] [cursor=pointer]:
+                                      - /url: /user/Ender06/
+                                      - text: Ender06
+                                    - generic [ref=e488]: •
+                                    - link "6d ago" [ref=e489] [cursor=pointer]:
+                                      - /url: /r/HVAC/comments/1t7a7nl/comment/okr9it5/
+                                      - time [ref=e490]: 6d ago
+                                - generic [ref=e491]:
+                                  - paragraph [ref=e498]: Air sealing and insulating will do way more in energy savings than getting a fancy high efficiency unit.
+                                  - generic [ref=e502]:
+                                    - img [ref=e503]
+                                    - generic [ref=e505]: "8"
+                                    - img [ref=e506]
+                              - button "5 more replies" [ref=e513] [cursor=pointer]:
+                                - generic [ref=e516]:
+                                  - generic [ref=e518]:
+                                    - generic [ref=e519]: "5"
+                                    - text: more replies
+                                  - img [ref=e520]
+                        - 'article "Comment thread level 1: Reply from Scotchrogers 6 days ago" [ref=e523]':
+                          - generic "Metadata for Scotchrogers's comment" [ref=e524]:
+                            - link "Scotchrogers's profile --- avatar" [ref=e529] [cursor=pointer]:
+                              - /url: /user/Scotchrogers/
+                              - img "u/Scotchrogers avatar" [ref=e532]
+                            - generic [ref=e537]:
+                              - link "Scotchrogers's profile" [ref=e540] [cursor=pointer]:
+                                - /url: /user/Scotchrogers/
+                                - text: Scotchrogers
+                              - generic [ref=e541]: •
+                              - link "6d ago" [ref=e542] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7a7nl/comment/oknk9ut/
+                                - time [ref=e543]: 6d ago
+                          - generic [ref=e544]:
+                            - paragraph [ref=e551]: Had one of these boards go out after warranties expired, our quote to replace the board was 1500 bucks. Completely insane
+                            - generic [ref=e555]:
+                              - img [ref=e556]
+                              - generic [ref=e558]: "14"
+                              - img [ref=e559]
+                        - 'article "Comment thread level 1: Reply from charlie2135 6 days ago" [ref=e562]':
+                          - generic "Metadata for charlie2135's comment" [ref=e563]:
+                            - link "charlie2135's profile --- avatar" [ref=e568] [cursor=pointer]:
+                              - /url: /user/charlie2135/
+                              - img [ref=e573]
+                            - generic [ref=e579]:
+                              - link "charlie2135's profile" [ref=e582] [cursor=pointer]:
+                                - /url: /user/charlie2135/
+                                - text: charlie2135
+                              - generic [ref=e583]: •
+                              - link "6d ago" [ref=e584] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7a7nl/comment/oknrhyk/
+                                - time [ref=e585]: 6d ago
+                          - generic [ref=e586]:
+                            - generic [ref=e594]:
+                              - paragraph [ref=e595]: Worked in a mill with 40 motors run by VFDs in a row and when you would shut the drives down it sounded like 100 rats crying when the capacitors were draining.
+                              - paragraph [ref=e596]: This looks like it'd be 2 rats.
+                            - generic [ref=e600]:
+                              - img [ref=e601]
+                              - generic [ref=e603]: "9"
+                              - img [ref=e604]
+                            - button "1 more reply" [ref=e612] [cursor=pointer]:
+                              - generic [ref=e615]:
+                                - generic [ref=e617]:
+                                  - generic [ref=e618]: "1"
+                                  - text: more reply
+                                - img [ref=e619]
+                        - button "11 more replies" [ref=e626] [cursor=pointer]:
+                          - generic [ref=e629]:
+                            - generic [ref=e631]:
+                              - generic [ref=e632]: "11"
+                              - text: more replies
+                            - img [ref=e633]
+                  - article "Comment from edisawesome 6 days ago" [ref=e636]:
+                    - generic "Metadata for edisawesome's comment" [ref=e637]:
+                      - link "edisawesome's profile --- avatar" [ref=e642] [cursor=pointer]:
+                        - /url: /user/edisawesome/
+                        - img "u/edisawesome avatar" [ref=e645]
+                      - generic [ref=e650]:
+                        - link "edisawesome's profile" [ref=e653] [cursor=pointer]:
+                          - /url: /user/edisawesome/
+                          - text: edisawesome
+                        - generic [ref=e654]: •
+                        - link "6d ago" [ref=e655] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/okngohh/
+                          - time [ref=e656]: 6d ago
+                    - generic [ref=e657]:
+                      - paragraph [ref=e666]: Fr though. I’ve been sent to vrf classes and then to service calls on it because it’s just becoming more common. Just put a tower loop and some heat pumps in dog. These electronics are so shit.
+                      - generic [ref=e667]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e669] [cursor=pointer]:
+                          - img [ref=e672]
+                        - generic [ref=e675]:
+                          - img [ref=e676]
+                          - generic [ref=e678]: "79"
+                          - img [ref=e679]
+                      - generic [ref=e681]:
+                        - 'article "Comment thread level 1: Reply from LindensBloodyJersey 6 days ago" [ref=e683]':
+                          - generic "Metadata for LindensBloodyJersey's comment" [ref=e684]:
+                            - link "LindensBloodyJersey's profile --- avatar" [ref=e689] [cursor=pointer]:
+                              - /url: /user/LindensBloodyJersey/
+                              - img "u/LindensBloodyJersey avatar" [ref=e692]
+                            - generic [ref=e697]:
+                              - link "LindensBloodyJersey's profile" [ref=e700] [cursor=pointer]:
+                                - /url: /user/LindensBloodyJersey/
+                                - text: LindensBloodyJersey
+                              - generic [ref=e701]: •
+                              - link "6d ago" [ref=e702] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7a7nl/comment/okslynr/
+                                - time [ref=e703]: 6d ago
+                          - generic [ref=e704]:
+                            - paragraph [ref=e711]: And in most cases with VRF systems one leak buried in a wall somewhere and your entire system is down. It’s a fucking joke.
+                            - generic [ref=e715]:
+                              - img [ref=e716]
+                              - generic [ref=e718]: "10"
+                              - img [ref=e719]
+                        - button "1 more reply" [ref=e726] [cursor=pointer]:
+                          - generic [ref=e729]:
+                            - generic [ref=e731]:
+                              - generic [ref=e732]: "1"
+                              - text: more reply
+                            - img [ref=e733]
+                  - article "Comment from DevelopmentSlight386 6 days ago" [ref=e736]:
+                    - generic "Metadata for DevelopmentSlight386's comment" [ref=e737]:
+                      - link "DevelopmentSlight386's profile --- avatar" [ref=e742] [cursor=pointer]:
+                        - /url: /user/DevelopmentSlight386/
+                        - img [ref=e747]
+                      - generic [ref=e753]:
+                        - link "DevelopmentSlight386's profile" [ref=e756] [cursor=pointer]:
+                          - /url: /user/DevelopmentSlight386/
+                          - text: DevelopmentSlight386
+                        - generic [ref=e757]: •
+                        - link "6d ago" [ref=e758] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknmk5g/
+                          - time [ref=e759]: 6d ago
+                    - generic [ref=e760]:
+                      - paragraph [ref=e769]: But you save $200 on you power bill for an extra $1000 in part repairs.
+                      - generic [ref=e770]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e772] [cursor=pointer]:
+                          - img [ref=e775]
+                        - generic [ref=e778]:
+                          - img [ref=e779]
+                          - generic [ref=e781]: "112"
+                          - img [ref=e782]
+                      - 'article "Comment thread level 1: Reply from hotelerotica 6 days ago" [ref=e788]':
+                        - generic "Metadata for hotelerotica's comment" [ref=e789]:
+                          - link "hotelerotica's profile --- avatar" [ref=e794] [cursor=pointer]:
+                            - /url: /user/hotelerotica/
+                            - img "u/hotelerotica avatar" [ref=e797]
+                          - generic [ref=e802]:
+                            - link "hotelerotica's profile" [ref=e805] [cursor=pointer]:
+                              - /url: /user/hotelerotica/
+                              - text: hotelerotica
+                            - generic [ref=e806]: •
+                            - link "6d ago" [ref=e807] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1t7a7nl/comment/okny2e3/
+                              - time [ref=e808]: 6d ago
+                        - generic [ref=e809]:
+                          - paragraph [ref=e818]: Hah techs have confirmation bias, we only see failed units, i've replaced hundreds of capacitors and contactors at this point in my career maybe a few dozen inverter boards. But the boards are definitely more expensive.
+                          - generic [ref=e819]:
+                            - button "Toggle Comment Thread" [expanded] [ref=e821] [cursor=pointer]:
+                              - img [ref=e824]
+                            - generic [ref=e827]:
+                              - img [ref=e828]
+                              - generic [ref=e830]: "51"
+                              - img [ref=e831]
+                          - 'article "Comment thread level 2: Reply from Ok-Rest-8066 6 days ago" [ref=e837]':
+                            - generic "Metadata for Ok-Rest-8066's comment" [ref=e838]:
+                              - link "Ok-Rest-8066's profile --- avatar" [ref=e843] [cursor=pointer]:
+                                - /url: /user/Ok-Rest-8066/
+                                - img "u/Ok-Rest-8066 avatar" [ref=e846]
+                              - generic [ref=e851]:
+                                - link "Ok-Rest-8066's profile" [ref=e854] [cursor=pointer]:
+                                  - /url: /user/Ok-Rest-8066/
+                                  - text: Ok-Rest-8066
+                                - generic [ref=e855]: •
+                                - link "6d ago" [ref=e856] [cursor=pointer]:
+                                  - /url: /r/HVAC/comments/1t7a7nl/comment/okoysrq/
+                                  - time [ref=e857]: 6d ago
+                            - generic [ref=e858]:
+                              - paragraph [ref=e867]: Our senior tech has a high efficiency Lennox and he claims that it’s paid itself off in the last 10 years
+                              - generic [ref=e871]:
+                                - img [ref=e872]
+                                - generic [ref=e874]: "14"
+                                - img [ref=e875]
+                              - button "3 more replies" [ref=e883] [cursor=pointer]:
+                                - generic [ref=e886]:
+                                  - generic [ref=e888]:
+                                    - generic [ref=e889]: "3"
+                                    - text: more replies
+                                  - img [ref=e890]
+                  - generic "Don't run out. We’ll deliver the paint you need the same day, right to your jobsite." [ref=e893]:
+                    - generic [ref=e894]:
+                      - 'generic "Advertisement: Don''t run out. We’ll deliver the paint you need the same day, right to your jobsite." [ref=e895]':
+                        - 'link "Advertisement: Don''t run out. We’ll deliver the paint you need the same day, right to your jobsite." [ref=e896] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                      - generic [ref=e897]:
+                        - generic [ref=e898]:
+                          - link "u/LowesHomeImprovement avatar u/LowesHomeImprovement" [ref=e900] [cursor=pointer]:
+                            - /url: /user/LowesHomeImprovement/
+                            - img "u/LowesHomeImprovement avatar" [ref=e903]
+                            - generic [ref=e904]: u/LowesHomeImprovement
+                          - generic [ref=e905]: •
+                          - link "Promoted" [ref=e907] [cursor=pointer]:
+                            - /url: /user/LowesHomeImprovement/
+                            - generic [ref=e908]: Promoted
+                          - link [ref=e910] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                        - button "Open user actions" [ref=e915] [cursor=pointer]:
+                          - img [ref=e918]
+                      - generic [ref=e921]:
+                        - generic [ref=e922]:
+                          - link "Don't run out. We’ll deliver the paint you need the same day, right to your jobsite." [ref=e924] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                            - generic: Don't run out. We’ll deliver the paint you need the same day, right to your jobsite.
+                          - generic [ref=e925]:
+                            - link [ref=e927] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                            - generic [ref=e928]:
+                              - link "Shop Now" [ref=e930] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                                - generic [ref=e932]:
+                                  - generic: Shop Now
+                              - link "lowes.com" [ref=e935] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                                - generic: lowes.com
+                        - 'link "Thumbnail image: Don''t run out. We’ll deliver the paint you need the same day, right to your jobsite." [ref=e938] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=Z-0bjjhfRkJFo9TYCtNwdykb2vn-Ni-qRWHEcmx2mnkZzohxhPbbKweeJC6OOSUYr6nzP88IfuHaPwbnKTreGorvIEYCqtmBQUYXgRF5UQ9PQh8BJRaFykOVQ0I59-h8VVZISBGv82cRJxAIxstaY3BxrHcyNsPMPJzrW46Lvm5iXFgJAw4gb30ZZV-SbDUaellZZUAXZsaWfKt8XVuPZHz9up0C7SKSM1endqikJMekpA01jCNI7JhdGehQFhfxzjKBWZmDi4ionZKZ699ddFMg1rHsWGh_JNnDzCmGLnpa5ufFAw-58er30Avy8j12LEhhmqSeip4omuSCyICldxOXHxcFbrrq91vxqjTgsGuX2CI9IPWPmENCDDXLlrbV-bvI63yxvJDXzlpM6LwOawEdGNw3NZSg7ljC5DA-JkNTO-YIKgc2NcLzt_BElQTcQqTcaPeBSbBamJ2hPM1kNHdlXmxRbI81tZ1a47GgZ9btmniNcbSN5y6xYFbTgMPe62WQZSs3RKS3XTPZRAmkkh1PQfoKgzD9Yza4bnXYRIXEJPs8PiCG5r00ZsucwSG9UpNq7iq0O7JaN3Kx0e1EPSs9WkTjWvzLt76vA1azyP--4lpiqv12ufEa4dAG1FKT7j-sCtfuG8OsHaZQ_qsmKZGsvbNZQUS9PYiEzg8kOcjuolPGARzRnrEElIcV796oPTVNwFxkH3Csp3O1kF8QRzPo5cKraTCO5D6Gh933fuYVLXbIew&zp=VALN5gUA7MSFQpkuXU3Rw64HjX30iH2CjFPvRGKWDBme07s9yEimjSuztxQBRlMAePN6n8nNfoHrtEUqR7saLVAkNQlDY6ehNMnQ_bHpa7-AKaB7NC6P75q6H3V3dwT8PH-mwhqnxHZBPjt9SCmY5V9PGya9c9aYokQuB4_nHfCQsn0XWQHGGKfWKNlqqiP_qdwwTDQwzsV-7AahzViDJfofRd1_5UwsGk4j_hAwkmiGTDoSey1Lvx96JR3cdHoZyVEkFNjO6L-ajPKVCRBHm1G4pFetjoWPSw6RaMfN2M13xQbwqamfK8y7n3Q5vlvf2L8Zc9YZSBckssAxEfByTOLKfLgZAc6NZYG_eKD8iNP7y3wu0cUGqmudjfCABx64w-IiraQUo4nhNh0XWTY_hneTXCmNUWtvmwo
+                          - 'img "Thumbnail image: Don''t run out. We’ll deliver the paint you need the same day, right to your jobsite." [ref=e939]'
+                  - article "Comment from throwaways5785287 6 days ago" [ref=e941]:
+                    - generic "Metadata for throwaways5785287's comment" [ref=e942]:
+                      - link "throwaways5785287's profile --- avatar" [ref=e947] [cursor=pointer]:
+                        - /url: /user/throwaways5785287/
+                        - img "u/throwaways5785287 avatar" [ref=e950]
+                      - generic [ref=e955]:
+                        - link "throwaways5785287's profile" [ref=e958] [cursor=pointer]:
+                          - /url: /user/throwaways5785287/
+                          - text: throwaways5785287
+                        - generic [ref=e959]: •
+                        - link "6d ago" [ref=e960] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknhazx/
+                          - time [ref=e961]: 6d ago
+                    - generic [ref=e962]:
+                      - paragraph [ref=e971]: 7 capacitors
+                      - generic [ref=e972]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e974] [cursor=pointer]:
+                          - img [ref=e977]
+                        - generic [ref=e980]:
+                          - img [ref=e981]
+                          - generic [ref=e983]: "59"
+                          - img [ref=e984]
+                      - 'article "Comment thread level 1: Reply from EnergyHyperion 6 days ago" [ref=e990]':
+                        - generic "Metadata for EnergyHyperion's comment" [ref=e991]:
+                          - link "EnergyHyperion's profile --- avatar" [ref=e996] [cursor=pointer]:
+                            - /url: /user/EnergyHyperion/
+                            - img "u/EnergyHyperion avatar" [ref=e999]
+                          - generic [ref=e1004]:
+                            - link "EnergyHyperion's profile" [ref=e1007] [cursor=pointer]:
+                              - /url: /user/EnergyHyperion/
+                              - text: EnergyHyperion
+                            - generic [ref=e1008]: •
+                            - link "6d ago" [ref=e1009] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1t7a7nl/comment/okntohc/
+                              - time [ref=e1010]: 6d ago
+                        - generic [ref=e1011]:
+                          - paragraph [ref=e1020]: Why have one capacitor when you can have seven?
+                          - generic [ref=e1021]:
+                            - button "Toggle Comment Thread" [expanded] [ref=e1023] [cursor=pointer]:
+                              - img [ref=e1026]
+                            - generic [ref=e1029]:
+                              - img [ref=e1030]
+                              - generic [ref=e1032]: "27"
+                              - img [ref=e1033]
+                          - generic [ref=e1035]:
+                            - 'article "Comment thread level 2: Reply from Crashover90 6 days ago" [ref=e1037]':
+                              - generic "Metadata for Crashover90's comment" [ref=e1038]:
+                                - link "Crashover90's profile --- avatar" [ref=e1043] [cursor=pointer]:
+                                  - /url: /user/Crashover90/
+                                  - img "u/Crashover90 avatar" [ref=e1046]
+                                - generic [ref=e1051]:
+                                  - link "Crashover90's profile" [ref=e1054] [cursor=pointer]:
+                                    - /url: /user/Crashover90/
+                                    - text: Crashover90
+                                  - generic [ref=e1055]: •
+                                  - link "6d ago" [ref=e1056] [cursor=pointer]:
+                                    - /url: /r/HVAC/comments/1t7a7nl/comment/okpej5k/
+                                    - time [ref=e1057]: 6d ago
+                              - generic [ref=e1058]:
+                                - paragraph [ref=e1065]: And soldered into a circuitboard!
+                                - generic [ref=e1069]:
+                                  - img [ref=e1070]
+                                  - generic [ref=e1072]: "9"
+                                  - img [ref=e1073]
+                            - 'article "Comment thread level 2: Reply from UnbreakingThings 6 days ago" [ref=e1078]':
+                              - generic "Metadata for UnbreakingThings's comment" [ref=e1079]:
+                                - link "UnbreakingThings's profile --- avatar" [ref=e1084] [cursor=pointer]:
+                                  - /url: /user/UnbreakingThings/
+                                  - img "u/UnbreakingThings avatar" [ref=e1087]
+                                - generic [ref=e1092]:
+                                  - link "UnbreakingThings's profile" [ref=e1095] [cursor=pointer]:
+                                    - /url: /user/UnbreakingThings/
+                                    - text: UnbreakingThings
+                                  - generic [ref=e1096]: •
+                                  - link "6d ago" [ref=e1097] [cursor=pointer]:
+                                    - /url: /r/HVAC/comments/1t7a7nl/comment/okq4iek/
+                                    - time [ref=e1098]: 6d ago
+                              - generic [ref=e1099]:
+                                - paragraph [ref=e1106]: For extra capacitating!
+                                - generic [ref=e1110]:
+                                  - img [ref=e1111]
+                                  - generic [ref=e1113]: "7"
+                                  - img [ref=e1114]
+                  - article "Comment from BuzzyScruggs94 6 days ago" [ref=e1117]:
+                    - generic "Metadata for BuzzyScruggs94's comment" [ref=e1118]:
+                      - link "BuzzyScruggs94's profile --- avatar" [ref=e1123] [cursor=pointer]:
+                        - /url: /user/BuzzyScruggs94/
+                        - img "u/BuzzyScruggs94 avatar" [ref=e1126]
+                      - generic [ref=e1131]:
+                        - link "BuzzyScruggs94's profile" [ref=e1134] [cursor=pointer]:
+                          - /url: /user/BuzzyScruggs94/
+                          - text: BuzzyScruggs94
+                        - generic [ref=e1135]: •
+                        - link "6d ago" [ref=e1136] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknkzcy/
+                          - time [ref=e1137]: 6d ago
+                    - generic [ref=e1138]:
+                      - paragraph [ref=e1147]: The way the world is going whether you like it or not. The guys that embrace it and actually learn the equipment they service will be making more than the ones who don’t. It sucks for sourcing replacement parts but waiting days or weeks for repairs has been par for the course in the commercial and industrial world for decades. I feel bad for the customers though who have to pay for it, I feel window units will make a comeback as the price of central air goes up and the economy goes down.
+                      - generic [ref=e1148]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e1150] [cursor=pointer]:
+                          - img [ref=e1153]
+                        - generic [ref=e1156]:
+                          - img [ref=e1157]
+                          - generic [ref=e1159]: "33"
+                          - img [ref=e1160]
+                      - generic [ref=e1162]:
+                        - 'article "Comment thread level 1: Reply from ImABadSpellerOkay 6 days ago" [ref=e1164]':
+                          - generic "Metadata for ImABadSpellerOkay's comment" [ref=e1165]:
+                            - link "ImABadSpellerOkay's profile --- avatar" [ref=e1170] [cursor=pointer]:
+                              - /url: /user/ImABadSpellerOkay/
+                              - img [ref=e1175]
+                            - generic [ref=e1181]:
+                              - link "ImABadSpellerOkay's profile" [ref=e1184] [cursor=pointer]:
+                                - /url: /user/ImABadSpellerOkay/
+                                - text: ImABadSpellerOkay
+                              - generic [ref=e1185]: •
+                              - link "6d ago" [ref=e1186] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7a7nl/comment/okps9sg/
+                                - time [ref=e1187]: 6d ago
+                          - generic [ref=e1188]:
+                            - generic [ref=e1194]:
+                              - paragraph [ref=e1195]: Nah I don’t think so.
+                              - paragraph [ref=e1196]: I think the world is going towards replacing everything instead of fixing things when they break.
+                              - paragraph [ref=e1197]: These condensers can be made so cheaply in China that’s it’s not even worth fixing most of the time.
+                              - paragraph [ref=e1198]: Can swap out a condenser in 2 hours, in and out brand new unit.
+                            - generic [ref=e1202]:
+                              - img [ref=e1203]
+                              - generic [ref=e1205]: "8"
+                              - img [ref=e1206]
+                        - button "1 more reply" [ref=e1213] [cursor=pointer]:
+                          - generic [ref=e1216]:
+                            - generic [ref=e1218]:
+                              - generic [ref=e1219]: "1"
+                              - text: more reply
+                            - img [ref=e1220]
+                  - article "Comment from Willing_Sea284 6 days ago" [ref=e1223]:
+                    - generic "Metadata for Willing_Sea284's comment" [ref=e1224]:
+                      - link "Willing_Sea284's profile --- avatar" [ref=e1229] [cursor=pointer]:
+                        - /url: /user/Willing_Sea284/
+                        - img "u/Willing_Sea284 avatar" [ref=e1232]
+                      - generic [ref=e1237]:
+                        - link "Willing_Sea284's profile" [ref=e1240] [cursor=pointer]:
+                          - /url: /user/Willing_Sea284/
+                          - text: Willing_Sea284
+                        - generic [ref=e1241]: •
+                        - link "6d ago" [ref=e1242] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknk6gk/
+                          - time [ref=e1243]: 6d ago
+                    - generic [ref=e1244]:
+                      - paragraph [ref=e1251]: Why then they can’t sell you a control board for every electrical problem
+                      - generic [ref=e1255]:
+                        - img [ref=e1256]
+                        - generic [ref=e1258]: "12"
+                        - img [ref=e1259]
+                  - article "Comment from Zienth 6 days ago" [ref=e1262]:
+                    - generic "Metadata for Zienth's comment" [ref=e1263]:
+                      - link "Zienth's profile --- avatar" [ref=e1268] [cursor=pointer]:
+                        - /url: /user/Zienth/
+                        - img "u/Zienth avatar" [ref=e1271]
+                      - generic [ref=e1276]:
+                        - link "Zienth's profile" [ref=e1279] [cursor=pointer]:
+                          - /url: /user/Zienth/
+                          - text: Zienth
+                        - generic [ref=e1280]: •
+                        - link "6d ago" [ref=e1281] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknolk4/
+                          - time [ref=e1282]: 6d ago
+                    - generic [ref=e1283]:
+                      - paragraph [ref=e1292]: Always make sure these customers have surge suppressors to go along with the fancy electronics. Not perfect but it will save a headache somewhere.
+                      - generic [ref=e1296]:
+                        - img [ref=e1297]
+                        - generic [ref=e1299]: "11"
+                        - img [ref=e1300]
+                      - button "1 more reply" [ref=e1308] [cursor=pointer]:
+                        - generic [ref=e1311]:
+                          - generic [ref=e1313]:
+                            - generic [ref=e1314]: "1"
+                            - text: more reply
+                          - img [ref=e1315]
+                  - generic "Hear us out... Sumptuous Purple. Give your space the royal treatment with Valspar Ultra, starting at $29.98/gal." [ref=e1318]:
+                    - generic [ref=e1319]:
+                      - 'generic "Advertisement: Hear us out... Sumptuous Purple. Give your space the royal treatment with Valspar Ultra, starting at $29.98/gal." [ref=e1320]':
+                        - 'link "Advertisement: Hear us out... Sumptuous Purple. Give your space the royal treatment with Valspar Ultra, starting at $29.98/gal." [ref=e1321] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=Xa3gCeVsOnahE9lmDBEJXfvBzPEwCVET8Eofhc8NOaceY3MqOlZGYSrlkPtpRXdWMAuLCiLdm0Ugi3vk3xdrUwgl-XjmjochHy9GOJYFYfHPq-pjdIGTfUPZsLP3fQH9G-hnCS17rivdzBdQwtTpGoI10OmiXGQrhGdXB4swOjDzPSlvuvHjH_pYvurUeMpg2j3wEcXBLJLzLhWlG4-MQoH_UIEOa5SzJbT9JJTcS8KXK_MNofwOnBphINgAHB6uBs5aQBeChd8qzDZ0mxuonm4MhPCrVo5PznrYRSgLhb0_oKC-DQjoPhIqY3B8NZKyksRCLhI9UOXixSx4zI8OLhX1KOgE5pZ9twyL2BW4qxrOigU_niW9HvPz5eA-0K1HdNvWqUcbUMPF2BttFa5nIf8h88QWafpafTPKx-1tt5JTjAbE9-YDn2v6QTp5pEnor-cjj7ACjA2mGdigVWEw6kokzntFCGIpxK8uiPesyLdW_kzco5_N58NiiOEM2BoWVnVHLN_vJTVaRSRuIAZWL30ZWZJ8uWbYuFZEhIi0EWMN14EQLCQmol2nl8NLVrjqc280k-Jp8buYC7k9sowWwfEV0SgCd1IPWjU8LKpOd2Fu5QgLVGF7_hd_kFdoDWBZqowIesQJHwtpjsB5oiiD10mJo4PdM8vqhLVDWDa1ce0lPRc6ruCe5HKs-UQeAxdtmtbKIwN3ON5n0Jok7By9PqrJs_vj7eWEz-FaNj1M3Yax&zp=s_ryqlsXG-wuvIo2If2nPgHN7X-tj4QTmyozN7z0hBi6lma1HbU2sM-yDqi87GfXJ_v5wzin44HtXkSuulev8i3NAccM-0Hwo9iGiW1DgQ5Z2RLDOEiUdu8ArLkyanJXHYiDSFn1TRhcrVKx2P_4O5Ku2wQQg0sflpq7FNLYUiZNmyBFVc2Axjv0n6Wl39886EKAdaWRHNUHKECPe5lpoN_YmlCU0i2oCLxsVNbz1H4JLrhj5OC0h_HE8fmOfPeCx1JWW6nDXBeo0nCpYCSwqTRRquz3ih3BlOyhCbWK8J69Nt0ibmXEDn3WEQSOTIFhOlDTRYn-ZmU1opI_AbS_sX_kD7eJeoeQtv414iRjOf8WE1Z4HJutkWEXDTGC9XSfSdrbj0HaN4qOfDcxkfza6R71dIKx4mslG8maWiyeH4lMH33Rmfy3KXM7vIaapA9Bwjp7IXTriGtGFLS4_wY
+                      - generic [ref=e1322]:
+                        - generic [ref=e1323]:
+                          - link "u/ValsparOfficial avatar u/ValsparOfficial" [ref=e1325] [cursor=pointer]:
+                            - /url: /user/ValsparOfficial/
+                            - img "u/ValsparOfficial avatar" [ref=e1328]
+                            - generic [ref=e1329]: u/ValsparOfficial
+                          - generic [ref=e1330]: •
+                          - link "Promoted" [ref=e1332] [cursor=pointer]:
+                            - /url: /user/ValsparOfficial/
+                            - generic [ref=e1333]: Promoted
+                          - link [ref=e1335] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=Xa3gCeVsOnahE9lmDBEJXfvBzPEwCVET8Eofhc8NOaceY3MqOlZGYSrlkPtpRXdWMAuLCiLdm0Ugi3vk3xdrUwgl-XjmjochHy9GOJYFYfHPq-pjdIGTfUPZsLP3fQH9G-hnCS17rivdzBdQwtTpGoI10OmiXGQrhGdXB4swOjDzPSlvuvHjH_pYvurUeMpg2j3wEcXBLJLzLhWlG4-MQoH_UIEOa5SzJbT9JJTcS8KXK_MNofwOnBphINgAHB6uBs5aQBeChd8qzDZ0mxuonm4MhPCrVo5PznrYRSgLhb0_oKC-DQjoPhIqY3B8NZKyksRCLhI9UOXixSx4zI8OLhX1KOgE5pZ9twyL2BW4qxrOigU_niW9HvPz5eA-0K1HdNvWqUcbUMPF2BttFa5nIf8h88QWafpafTPKx-1tt5JTjAbE9-YDn2v6QTp5pEnor-cjj7ACjA2mGdigVWEw6kokzntFCGIpxK8uiPesyLdW_kzco5_N58NiiOEM2BoWVnVHLN_vJTVaRSRuIAZWL30ZWZJ8uWbYuFZEhIi0EWMN14EQLCQmol2nl8NLVrjqc280k-Jp8buYC7k9sowWwfEV0SgCd1IPWjU8LKpOd2Fu5QgLVGF7_hd_kFdoDWBZqowIesQJHwtpjsB5oiiD10mJo4PdM8vqhLVDWDa1ce0lPRc6ruCe5HKs-UQeAxdtmtbKIwN3ON5n0Jok7By9PqrJs_vj7eWEz-FaNj1M3Yax&zp=s_ryqlsXG-wuvIo2If2nPgHN7X-tj4QTmyozN7z0hBi6lma1HbU2sM-yDqi87GfXJ_v5wzin44HtXkSuulev8i3NAccM-0Hwo9iGiW1DgQ5Z2RLDOEiUdu8ArLkyanJXHYiDSFn1TRhcrVKx2P_4O5Ku2wQQg0sflpq7FNLYUiZNmyBFVc2Axjv0n6Wl39886EKAdaWRHNUHKECPe5lpoN_YmlCU0i2oCLxsVNbz1H4JLrhj5OC0h_HE8fmOfPeCx1JWW6nDXBeo0nCpYCSwqTRRquz3ih3BlOyhCbWK8J69Nt0ibmXEDn3WEQSOTIFhOlDTRYn-ZmU1opI_AbS_sX_kD7eJeoeQtv414iRjOf8WE1Z4HJutkWEXDTGC9XSfSdrbj0HaN4qOfDcxkfza6R71dIKx4mslG8maWiyeH4lMH33Rmfy3KXM7vIaapA9Bwjp7IXTriGtGFLS4_wY
+                        - button "Open user actions" [ref=e1340] [cursor=pointer]:
+                          - img [ref=e1343]
+                      - generic [ref=e1346]:
+                        - generic [ref=e1347]:
+                          - link "Hear us out... Sumptuous Purple. Give your space the royal treatment with Valspar Ultra, starting at $29.98/gal." [ref=e1349] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=Xa3gCeVsOnahE9lmDBEJXfvBzPEwCVET8Eofhc8NOaceY3MqOlZGYSrlkPtpRXdWMAuLCiLdm0Ugi3vk3xdrUwgl-XjmjochHy9GOJYFYfHPq-pjdIGTfUPZsLP3fQH9G-hnCS17rivdzBdQwtTpGoI10OmiXGQrhGdXB4swOjDzPSlvuvHjH_pYvurUeMpg2j3wEcXBLJLzLhWlG4-MQoH_UIEOa5SzJbT9JJTcS8KXK_MNofwOnBphINgAHB6uBs5aQBeChd8qzDZ0mxuonm4MhPCrVo5PznrYRSgLhb0_oKC-DQjoPhIqY3B8NZKyksRCLhI9UOXixSx4zI8OLhX1KOgE5pZ9twyL2BW4qxrOigU_niW9HvPz5eA-0K1HdNvWqUcbUMPF2BttFa5nIf8h88QWafpafTPKx-1tt5JTjAbE9-YDn2v6QTp5pEnor-cjj7ACjA2mGdigVWEw6kokzntFCGIpxK8uiPesyLdW_kzco5_N58NiiOEM2BoWVnVHLN_vJTVaRSRuIAZWL30ZWZJ8uWbYuFZEhIi0EWMN14EQLCQmol2nl8NLVrjqc280k-Jp8buYC7k9sowWwfEV0SgCd1IPWjU8LKpOd2Fu5QgLVGF7_hd_kFdoDWBZqowIesQJHwtpjsB5oiiD10mJo4PdM8vqhLVDWDa1ce0lPRc6ruCe5HKs-UQeAxdtmtbKIwN3ON5n0Jok7By9PqrJs_vj7eWEz-FaNj1M3Yax&zp=s_ryqlsXG-wuvIo2If2nPgHN7X-tj4QTmyozN7z0hBi6lma1HbU2sM-yDqi87GfXJ_v5wzin44HtXkSuulev8i3NAccM-0Hwo9iGiW1DgQ5Z2RLDOEiUdu8ArLkyanJXHYiDSFn1TRhcrVKx2P_4O5Ku2wQQg0sflpq7FNLYUiZNmyBFVc2Axjv0n6Wl39886EKAdaWRHNUHKECPe5lpoN_YmlCU0i2oCLxsVNbz1H4JLrhj5OC0h_HE8fmOfPeCx1JWW6nDXBeo0nCpYCSwqTRRquz3ih3BlOyhCbWK8J69Nt0ibmXEDn3WEQSOTIFhOlDTRYn-ZmU1opI_AbS_sX_kD7eJeoeQtv414iRjOf8WE1Z4HJutkWEXDTGC9XSfSdrbj0HaN4qOfDcxkfza6R71dIKx4mslG8maWiyeH4lMH33Rmfy3KXM7vIaapA9Bwjp7IXTriGtGFLS4_wY
+                            - generic: Hear us out... Sumptuous Purple. Give your space the royal treatment with Valspar Ultra, starting at $29.98/gal.
+                          - generic [ref=e1350]:
+                            - link [ref=e1352] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=Xa3gCeVsOnahE9lmDBEJXfvBzPEwCVET8Eofhc8NOaceY3MqOlZGYSrlkPtpRXdWMAuLCiLdm0Ugi3vk3xdrUwgl-XjmjochHy9GOJYFYfHPq-pjdIGTfUPZsLP3fQH9G-hnCS17rivdzBdQwtTpGoI10OmiXGQrhGdXB4swOjDzPSlvuvHjH_pYvurUeMpg2j3wEcXBLJLzLhWlG4-MQoH_UIEOa5SzJbT9JJTcS8KXK_MNofwOnBphINgAHB6uBs5aQBeChd8qzDZ0mxuonm4MhPCrVo5PznrYRSgLhb0_oKC-DQjoPhIqY3B8NZKyksRCLhI9UOXixSx4zI8OLhX1KOgE5pZ9twyL2BW4qxrOigU_niW9HvPz5eA-0K1HdNvWqUcbUMPF2BttFa5nIf8h88QWafpafTPKx-1tt5JTjAbE9-YDn2v6QTp5pEnor-cjj7ACjA2mGdigVWEw6kokzntFCGIpxK8uiPesyLdW_kzco5_N58NiiOEM2BoWVnVHLN_vJTVaRSRuIAZWL30ZWZJ8uWbYuFZEhIi0EWMN14EQLCQmol2nl8NLVrjqc280k-Jp8buYC7k9sowWwfEV0SgCd1IPWjU8LKpOd2Fu5QgLVGF7_hd_kFdoDWBZqowIesQJHwtpjsB5oiiD10mJo4PdM8vqhLVDWDa1ce0lPRc6ruCe5HKs-UQeAxdtmtbKIwN3ON5n0Jok7By9PqrJs_vj7eWEz-FaNj1M3Yax&zp=s_ryqlsXG-wuvIo2If2nPgHN7X-tj4QTmyozN7z0hBi6lma1HbU2sM-yDqi87GfXJ_v5wzin44HtXkSuulev8i3NAccM-0Hwo9iGiW1DgQ5Z2RLDOEiUdu8ArLkyanJXHYiDSFn1TRhcrVKx2P_4O5Ku2wQQg0sflpq7FNLYUiZNmyBFVc2Axjv0n6Wl39886EKAdaWRHNUHKECPe5lpoN_YmlCU0i2oCLxsVNbz1H4JLrhj5OC0h_HE8fmOfPeCx1JWW6nDXBeo0nCpYCSwqTRRquz3ih3BlOyhCbWK8J69Nt0ibmXEDn3WEQSOTIFhOlDTRYn-ZmU1opI_AbS_sX_kD7eJeoeQtv414iRjOf8WE1Z4HJutkWEXDTGC9XSfSdrbj0HaN4qOfDcxkfza6R71dIKx4mslG8maWiyeH4lMH33Rmfy3KXM7vIaapA9Bwjp7IXTriGtGFLS4_wY
+                            - generic [ref=e1353]:
+                              - link "Learn More" [ref=e1355] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=Xa3gCeVsOnahE9lmDBEJXfvBzPEwCVET8Eofhc8NOaceY3MqOlZGYSrlkPtpRXdWMAuLCiLdm0Ugi3vk3xdrUwgl-XjmjochHy9GOJYFYfHPq-pjdIGTfUPZsLP3fQH9G-hnCS17rivdzBdQwtTpGoI10OmiXGQrhGdXB4swOjDzPSlvuvHjH_pYvurUeMpg2j3wEcXBLJLzLhWlG4-MQoH_UIEOa5SzJbT9JJTcS8KXK_MNofwOnBphINgAHB6uBs5aQBeChd8qzDZ0mxuonm4MhPCrVo5PznrYRSgLhb0_oKC-DQjoPhIqY3B8NZKyksRCLhI9UOXixSx4zI8OLhX1KOgE5pZ9twyL2BW4qxrOigU_niW9HvPz5eA-0K1HdNvWqUcbUMPF2BttFa5nIf8h88QWafpafTPKx-1tt5JTjAbE9-YDn2v6QTp5pEnor-cjj7ACjA2mGdigVWEw6kokzntFCGIpxK8uiPesyLdW_kzco5_N58NiiOEM2BoWVnVHLN_vJTVaRSRuIAZWL30ZWZJ8uWbYuFZEhIi0EWMN14EQLCQmol2nl8NLVrjqc280k-Jp8buYC7k9sowWwfEV0SgCd1IPWjU8LKpOd2Fu5QgLVGF7_hd_kFdoDWBZqowIesQJHwtpjsB5oiiD10mJo4PdM8vqhLVDWDa1ce0lPRc6ruCe5HKs-UQeAxdtmtbKIwN3ON5n0Jok7By9PqrJs_vj7eWEz-FaNj1M3Yax&zp=s_ryqlsXG-wuvIo2If2nPgHN7X-tj4QTmyozN7z0hBi6lma1HbU2sM-yDqi87GfXJ_v5wzin44HtXkSuulev8i3NAccM-0Hwo9iGiW1DgQ5Z2RLDOEiUdu8ArLkyanJXHYiDSFn1TRhcrVKx2P_4O5Ku2wQQg0sflpq7FNLYUiZNmyBFVc2Axjv0n6Wl39886EKAdaWRHNUHKECPe5lpoN_YmlCU0i2oCLxsVNbz1H4JLrhj5OC0h_HE8fmOfPeCx1JWW6nDXBeo0nCpYCSwqTRRquz3ih3BlOyhCbWK8J69Nt0ibmXEDn3WEQSOTIFhOlDTRYn-ZmU1opI_AbS_sX_kD7eJeoeQtv414iRjOf8WE1Z4HJutkWEXDTGC9XSfSdrbj0HaN4qOfDcxkfza6R71dIKx4mslG8maWiyeH4lMH33Rmfy3KXM7vIaapA9Bwjp7IXTriGtGFLS4_wY
+                                - generic [ref=e1357]:
+                                  - generic: Learn More
+                              - link "valspar.com" [ref=e1360] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=Xa3gCeVsOnahE9lmDBEJXfvBzPEwCVET8Eofhc8NOaceY3MqOlZGYSrlkPtpRXdWMAuLCiLdm0Ugi3vk3xdrUwgl-XjmjochHy9GOJYFYfHPq-pjdIGTfUPZsLP3fQH9G-hnCS17rivdzBdQwtTpGoI10OmiXGQrhGdXB4swOjDzPSlvuvHjH_pYvurUeMpg2j3wEcXBLJLzLhWlG4-MQoH_UIEOa5SzJbT9JJTcS8KXK_MNofwOnBphINgAHB6uBs5aQBeChd8qzDZ0mxuonm4MhPCrVo5PznrYRSgLhb0_oKC-DQjoPhIqY3B8NZKyksRCLhI9UOXixSx4zI8OLhX1KOgE5pZ9twyL2BW4qxrOigU_niW9HvPz5eA-0K1HdNvWqUcbUMPF2BttFa5nIf8h88QWafpafTPKx-1tt5JTjAbE9-YDn2v6QTp5pEnor-cjj7ACjA2mGdigVWEw6kokzntFCGIpxK8uiPesyLdW_kzco5_N58NiiOEM2BoWVnVHLN_vJTVaRSRuIAZWL30ZWZJ8uWbYuFZEhIi0EWMN14EQLCQmol2nl8NLVrjqc280k-Jp8buYC7k9sowWwfEV0SgCd1IPWjU8LKpOd2Fu5QgLVGF7_hd_kFdoDWBZqowIesQJHwtpjsB5oiiD10mJo4PdM8vqhLVDWDa1ce0lPRc6ruCe5HKs-UQeAxdtmtbKIwN3ON5n0Jok7By9PqrJs_vj7eWEz-FaNj1M3Yax&zp=s_ryqlsXG-wuvIo2If2nPgHN7X-tj4QTmyozN7z0hBi6lma1HbU2sM-yDqi87GfXJ_v5wzin44HtXkSuulev8i3NAccM-0Hwo9iGiW1DgQ5Z2RLDOEiUdu8ArLkyanJXHYiDSFn1TRhcrVKx2P_4O5Ku2wQQg0sflpq7FNLYUiZNmyBFVc2Axjv0n6Wl39886EKAdaWRHNUHKECPe5lpoN_YmlCU0i2oCLxsVNbz1H4JLrhj5OC0h_HE8fmOfPeCx1JWW6nDXBeo0nCpYCSwqTRRquz3ih3BlOyhCbWK8J69Nt0ibmXEDn3WEQSOTIFhOlDTRYn-ZmU1opI_AbS_sX_kD7eJeoeQtv414iRjOf8WE1Z4HJutkWEXDTGC9XSfSdrbj0HaN4qOfDcxkfza6R71dIKx4mslG8maWiyeH4lMH33Rmfy3KXM7vIaapA9Bwjp7IXTriGtGFLS4_wY
+                                - generic: valspar.com
+                        - generic [ref=e1361] [cursor=pointer]:
+                          - 'img "Clickable image which will reveal the video player: Hear us out... Sumptuous Purple. Give your space the royal treatment with Valspar Ultra, starting at $29.98/gal." [ref=e1362]'
+                          - button "Play video" [ref=e1363]:
+                            - img [ref=e1364]
+                      - generic:
+                        - generic:
+                          - button "Collapse video player" [ref=e1366] [cursor=pointer]:
+                            - img [ref=e1367]
+                            - generic [ref=e1369]:
+                              - generic: Collapse video player
+                          - generic [ref=e1375]:
+                            - generic [ref=e1376]:
+                              - button "Toggle playback" [ref=e1377] [cursor=pointer]:
+                                - img [ref=e1378]
+                              - generic "Media time" [ref=e1380]
+                              - generic [ref=e1386]:
+                                - generic [ref=e1387]: 0:00
+                                - generic [ref=e1388]: / 0:00
+                              - button "Toggle captions" [ref=e1389] [cursor=pointer]:
+                                - img [ref=e1390]
+                              - generic [ref=e1393]:
+                                - button "Settings" [ref=e1394] [cursor=pointer]:
+                                  - img [ref=e1395]
+                                - generic:
+                                  - button:
+                                    - generic:
+                                      - img
+                                    - generic: Auto
+                              - button "Toggle fullscreen" [ref=e1397] [cursor=pointer]:
+                                - img [ref=e1398]
+                            - button "Toggle volume" [ref=e1403] [cursor=pointer]:
+                              - img [ref=e1404]
+                  - article "Comment from 13dinkydog 6 days ago" [ref=e1408]:
+                    - generic "Metadata for 13dinkydog's comment" [ref=e1409]:
+                      - link "13dinkydog's profile --- avatar" [ref=e1414] [cursor=pointer]:
+                        - /url: /user/13dinkydog/
+                        - img [ref=e1419]
+                      - generic [ref=e1425]:
+                        - link "13dinkydog's profile" [ref=e1428] [cursor=pointer]:
+                          - /url: /user/13dinkydog/
+                          - text: 13dinkydog
+                        - generic [ref=e1429]: •
+                        - link "6d ago" [ref=e1430] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknetsi/
+                          - time [ref=e1431]: 6d ago
+                    - generic [ref=e1432]:
+                      - paragraph [ref=e1439]: Think of all the energy savings!!/s
+                      - generic [ref=e1443]:
+                        - img [ref=e1444]
+                        - generic [ref=e1446]: "54"
+                        - img [ref=e1447]
+                  - article "Comment from Fantastic-Key2500 6 days ago" [ref=e1450]:
+                    - generic "Metadata for Fantastic-Key2500's comment" [ref=e1451]:
+                      - link "Fantastic-Key2500's profile --- avatar" [ref=e1456] [cursor=pointer]:
+                        - /url: /user/Fantastic-Key2500/
+                        - img [ref=e1461]
+                      - generic [ref=e1467]:
+                        - link "Fantastic-Key2500's profile" [ref=e1470] [cursor=pointer]:
+                          - /url: /user/Fantastic-Key2500/
+                          - text: Fantastic-Key2500
+                        - generic [ref=e1471]: •
+                        - link "6d ago" [ref=e1472] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/okoa6m4/
+                          - time [ref=e1473]: 6d ago
+                    - generic [ref=e1474]:
+                      - generic [ref=e1480]:
+                        - paragraph [ref=e1481]: Lennox CEO here.
+                        - paragraph [ref=e1482]: Short answer is no, I need funds for my annual vacation in my $50MIL yacht and my 3 mistresses.
+                        - paragraph [ref=e1483]: Better luck next time
+                      - generic [ref=e1487]:
+                        - img [ref=e1488]
+                        - generic [ref=e1490]: "22"
+                        - img [ref=e1491]
+                  - article "Comment from Snoo32804 6 days ago" [ref=e1494]:
+                    - generic "Metadata for Snoo32804's comment" [ref=e1495]:
+                      - link "Snoo32804's profile --- avatar" [ref=e1500] [cursor=pointer]:
+                        - /url: /user/Snoo32804/
+                        - img "u/Snoo32804 avatar" [ref=e1503]
+                      - generic [ref=e1508]:
+                        - link "Snoo32804's profile" [ref=e1511] [cursor=pointer]:
+                          - /url: /user/Snoo32804/
+                          - text: Snoo32804
+                        - generic [ref=e1512]: •
+                        - link "6d ago" [ref=e1513] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/oknkrs1/
+                          - time [ref=e1514]: 6d ago
+                    - generic [ref=e1515]:
+                      - paragraph [ref=e1522]: If they were easy to fix, then nobody would hire you to fix it....
+                      - generic [ref=e1526]:
+                        - img [ref=e1527]
+                        - generic [ref=e1529]: "14"
+                        - img [ref=e1530]
+                  - article "Comment from xCannivorex 6 days ago" [ref=e1533]:
+                    - generic "Metadata for xCannivorex's comment" [ref=e1534]:
+                      - link "xCannivorex's profile --- avatar" [ref=e1539] [cursor=pointer]:
+                        - /url: /user/xCannivorex/
+                        - img [ref=e1544]
+                      - generic [ref=e1550]:
+                        - link "xCannivorex's profile" [ref=e1553] [cursor=pointer]:
+                          - /url: /user/xCannivorex/
+                          - text: xCannivorex
+                        - generic [ref=e1554]: •
+                        - link "6d ago" [ref=e1555] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1t7a7nl/comment/okqgjws/
+                          - time [ref=e1556]: 6d ago
+                    - generic [ref=e1557]:
+                      - paragraph [ref=e1564]: I still see capacitors there
+                      - generic [ref=e1568]:
+                        - img [ref=e1569]
+                        - generic [ref=e1571]: "6"
+                        - img [ref=e1572]
+            - generic [ref=e1577]:
+              - generic [ref=e1578]:
+                - complementary [ref=e1581]:
+                  - generic [ref=e1582]:
+                    - generic [ref=e1583]: New to Reddit?
+                    - paragraph [ref=e1584]: Create your account and connect with a world of communities.
+                  - generic [ref=e1585]:
+                    - iframe [ref=e1594]:
+                      - button "Continue with Google. Opens in new tab" [ref=f6e3] [cursor=pointer]:
+                        - generic [ref=f6e5]:
+                          - img [ref=f6e7]
+                          - generic [ref=f6e14]: Continue with Google
+                    - link "Continue with Email" [ref=e1596] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e1599]:
+                        - img [ref=e1600]
+                        - generic [ref=e1602]: Continue with Email
+                  - link "Continue with Phone Number" [ref=e1605] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e1608]:
+                      - img [ref=e1609]
+                      - generic [ref=e1612]: Continue with Phone Number
+                  - generic [ref=e1613]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e1614] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e1615] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Answers Section" [ref=e1617]:
+                  - heading "Related Answers Section" [level=1] [ref=e1618]
+                  - generic [ref=e1619]:
+                    - img [ref=e1621]
+                    - generic [ref=e1623]: Related Answers
+                  - generic [ref=e1624]:
+                    - generic [ref=e1626]:
+                      - generic [ref=e1627]:
+                        - generic [ref=e1628]: Overview of capacitors and contactors in HVAC
+                        - generic [ref=e1629]:
+                          - paragraph [ref=e1630]:
+                            - text: HVAC systems rely on
+                            - strong [ref=e1631]: capacitors
+                            - text: to start and run motors and
+                            - strong [ref=e1632]: contactors
+                            - text: to control the flow of electricity to major components. While both are critical, they are also common points of failure in HVAC units.
+                          - heading "Capacitors in HVAC Systems" [level=3] [ref=e1633]
+                          - paragraph [ref=e1634]: Capacitors store and release electrical energy, essential for initiating and sustaining the operation of motors in your HVAC unit.
+                          - list [ref=e1635]:
+                            - listitem [ref=e1636]:
+                              - paragraph [ref=e1637]:
+                                - strong [ref=e1638]: Multiple Capacitors
+                                - text: ": HVAC units can have several capacitors, such as a"
+                                - strong [ref=e1639]: run capacitor for the fan
+                                - text: ", a"
+                                - strong [ref=e1640]: run capacitor for the compressor
+                                - text: ", and a"
+                                - strong [ref=e1641]: start capacitor for the compressor
+                                - text: .
+                                - link "\"You have 3 because 1 is a run capicitor for the fan,1 run capicitor for the compressor, 1 start capacitor for the compressor.\"" [ref=e1642] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/i1zyau/comment/g00vuf3/
+                                  - text: "\"You have 3 because 1 is a run capicitor for the fan,1 run capicitor for the compressor, 1 start capacitor for the compressor.\""
+                                  - img [ref=e1644]
+                            - listitem [ref=e1646]:
+                              - paragraph [ref=e1647]:
+                                - strong [ref=e1648]: DIY Replacement
+                                - text: ": Replacing a capacitor can be a cost-effective DIY repair if you take proper safety precautions."
+                                - link "\"But one of the most common repairs, replacing a capacitor, is easy for a layman to diagnose and repair, and the part you need typically costs less than $20.\"" [ref=e1649] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/YouShouldKnow/comments/14zpq1g/ysk_one_of_the_most_common_air_conditioner/
+                                  - text: "\"But one of the most common repairs, replacing a capacitor, is easy for a layman to diagnose and repair, and the part you need typically costs less than $20.\""
+                                  - img [ref=e1651]
+                            - listitem [ref=e1653]:
+                              - paragraph [ref=e1654]:
+                                - strong [ref=e1655]: Safety Warning
+                                - text: ": Capacitors can hold a lethal charge even when the unit is powered off, so"
+                                - strong [ref=e1656]: always discharge them safely
+                                - text: before handling.
+                                - link "\"Make sure you look up how to discharge those capacitors before you touch them. They can zap you with the power off to the unit\"" [ref=e1657] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/i1zyau/comment/g012ob7/
+                                  - text: "\"Make sure you look up how to discharge those capacitors before you touch them. They can zap you with the power off to the unit\""
+                                  - img [ref=e1659]
+                          - heading "Contactors in HVAC Systems" [level=3] [ref=e1661]
+                          - paragraph [ref=e1662]: Contactors act as electrically controlled switches, allowing power to flow to components like the compressor and outdoor fan motor when the thermostat calls for cooling.
+                          - list [ref=e1663]:
+                            - listitem [ref=e1664]:
+                              - paragraph [ref=e1665]:
+                                - strong [ref=e1666]: Poor Quality
+                                - text: ": Many Redditors report issues with the"
+                                - strong [ref=e1667]: quality and durability of modern contactors
+                                - text: ", with some failing within months or a few years."
+                                - link "\"Quality is terrible in everything now\"" [ref=e1668] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/143r531/comment/jnbqzyu/
+                                  - text: "\"Quality is terrible in everything now\""
+                                  - img [ref=e1670]
+                            - listitem [ref=e1672]:
+                              - paragraph [ref=e1673]:
+                                - strong [ref=e1674]: Failure Symptoms
+                                - text: ": Problems with contactors can manifest as the unit not cooling, fuses blowing, or the contactor itself welding shut."
+                                - link "\"I’mma start ohming out the coils on all the contactors I run across.\"" [ref=e1675] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/143r531/shitty_contactors/
+                                  - text: "\"I’mma start ohming out the coils on all the contactors I run across.\""
+                                  - img [ref=e1677]
+                            - listitem [ref=e1679]:
+                              - paragraph [ref=e1680]:
+                                - strong [ref=e1681]: Impact of Efficiency
+                                - text: ": The move towards higher efficiency HVAC systems often leads to more complex electronics, which can increase the number of potential failure points, including contactors."
+                                - link "\"Yup a lot of people don’t understand with efficiency comes with more parts, more parts equal more that fail, or control boards that are unrepairable, random glitches, more susceptible to power surges etc.\"" [ref=e1682] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1t7a7nl/comment/oknfb92/
+                                  - text: "\"Yup a lot of people don’t understand with efficiency comes with more parts, more parts equal more that fail, or control boards that are unrepairable, random glitches, more susceptible to power surges etc.\""
+                                  - img [ref=e1684]
+                          - paragraph [ref=e1686]: Are you interested in learning more about specific troubleshooting steps for either capacitors or contactors?
+                      - link "See Answer" [ref=e1691] [cursor=pointer]:
+                        - /url: https://www.reddit.com/answers/23b6a848-0cc9-4604-8238-9d292cd99351/?q=Overview+of+capacitors+and+contactors+in+HVAC&source=PDP
+                        - generic [ref=e1693]: See Answer
+                    - link "Common issues with AC contactors not engaging" [ref=e1695] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/56d96b1d-2610-4d6b-bf2b-4756237e4021/?q=Common+issues+with+AC+contactors+not+engaging&source=PDP
+                      - generic [ref=e1698]: Common issues with AC contactors not engaging
+                      - img [ref=e1701]
+                    - link "Typical lifespan of AC capacitors" [ref=e1704] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/b089d4a2-006e-428a-b1ed-57640d68c3d3/?q=Typical+lifespan+of+AC+capacitors&source=PDP
+                      - generic [ref=e1707]: Typical lifespan of AC capacitors
+                      - img [ref=e1710]
+                    - link "Replacement tips for heat pump contactors" [ref=e1713] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/ff7abd79-6c9f-4289-b741-9f544882e632/?q=Replacement+tips+for+heat+pump+contactors&source=PDP
+                      - generic [ref=e1716]: Replacement tips for heat pump contactors
+                      - img [ref=e1719]
+                    - link "Recommendations for HVAC keywords" [ref=e1722] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/40e72b36-6c91-42c3-871b-fa5064b6da3a/?q=Recommendations+for+HVAC+keywords&source=PDP
+                      - generic [ref=e1725]: Recommendations for HVAC keywords
+                      - img [ref=e1728]
+                - complementary "Related Posts Section" [ref=e1730]:
+                  - list [ref=e1736]:
+                    - listitem [ref=e1737]:
+                      - generic [ref=e1738]:
+                        - generic [ref=e1739]:
+                          - link "Thought I’d share for the people who wanna go back to contractors and capacitors" [ref=e1740] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1t7d55k/thought_id_share_for_the_people_who_wanna_go_back/
+                            - generic [ref=e1741]:
+                              - generic: Thought I’d share for the people who wanna go back to contractors and capacitors
+                          - generic [ref=e1742]:
+                            - generic [ref=e1743]:
+                              - generic [ref=e1745]:
+                                - link "r/HVAC" [ref=e1746] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e1750]: r/HVAC
+                                - generic [ref=e1751]: •
+                                - time [ref=e1753]: 6d ago
+                              - link "List item post - Thought I’d share for the people who wanna go back to contr..." [ref=e1755] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1t7d55k/thought_id_share_for_the_people_who_wanna_go_back/
+                                - heading "List item post - Thought I’d share for the people who wanna go back to contr..." [level=3] [ref=e1758]: Thought I’d share for the people who wanna go back to contractors and capacitors
+                            - link "r/HVAC - Thought I’d share for the people who wanna go back to contractors and capacitors" [ref=e1761] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1t7d55k/thought_id_share_for_the_people_who_wanna_go_back/
+                              - img "r/HVAC - Thought I’d share for the people who wanna go back to contractors and capacitors" [ref=e1762]
+                          - generic [ref=e1764]:
+                            - generic [ref=e1765]: "167"
+                            - text: upvotes ·
+                            - generic [ref=e1766]: "64"
+                            - text: comments
+                        - separator [ref=e1767]
+                    - listitem [ref=e1768]:
+                      - generic [ref=e1770]:
+                        - generic:
+                          - 'generic "Advertisement: Whatever your vision is for your home, Home Services from The Home Depot can help you get it done. And by help you get it done, we mean do it for you. Sit back, relax and let licensed local installers—backed by The Home Depot—put your plan into action." [ref=e1771]':
+                            - 'link "Advertisement: Whatever your vision is for your home, Home Services from The Home Depot can help you get it done. And by help you get it done, we mean do it for you. Sit back, relax and let licensed local installers—backed by The Home Depot—put your plan into action." [ref=e1772] [cursor=pointer]':
+                              - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                          - generic [ref=e1773]:
+                            - generic [ref=e1774]:
+                              - generic [ref=e1775]:
+                                - generic [ref=e1776]:
+                                  - generic [ref=e1777]:
+                                    - link "u/HomeDepot avatar HomeDepot" [ref=e1779] [cursor=pointer]:
+                                      - /url: /user/HomeDepot/
+                                      - img "u/HomeDepot avatar" [ref=e1782]
+                                      - generic [ref=e1783]: HomeDepot
+                                    - generic [ref=e1784]: •
+                                    - link "Promoted" [ref=e1786] [cursor=pointer]:
+                                      - /url: /user/HomeDepot/
+                                      - generic [ref=e1787]: Promoted
+                                    - link [ref=e1789] [cursor=pointer]:
+                                      - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                                  - button "Open user actions" [ref=e1794] [cursor=pointer]:
+                                    - img [ref=e1797]
+                                - link "Whatever your vision is for your home, Home Services from The Home Depot can help you get it done. And by help you get it done, we mean do it for you. Sit back, relax and let licensed local installers—backed by The Home Depot—put your plan into action." [ref=e1801] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                                  - generic "Whatever your vision is for your home, Home Services from The Home Depot can help you get it done. And by help you get it done, we mean do it for you. Sit back, relax and let licensed local installers—backed by The Home Depot—put your plan into action." [ref=e1802]
+                              - 'link "Thumbnail image: Whatever your vision is for your home, Home Services from The Home Depot can help you get it done. And by help you get it done, we mean do it for you. Sit back, relax and let licensed local installers—backed by The Home Depot—put your plan into action." [ref=e1805] [cursor=pointer]':
+                                - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                                - 'img "Thumbnail image: Whatever your vision is for your home, Home Services from The Home Depot can help you get it done. And by help you get it done, we mean do it for you. Sit back, relax and let licensed local installers—backed by The Home Depot—put your plan into action." [ref=e1807]'
+                            - generic [ref=e1808]:
+                              - link [ref=e1810] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                              - generic [ref=e1811]:
+                                - link "homedepot.com" [ref=e1814] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                                  - generic: homedepot.com
+                                - link "Learn More" [ref=e1816] [cursor=pointer]:
+                                  - /url: https://alb.reddit.com/cr?za=2u14ta88B2AAxIz3LwbIiCxT6nPTSaUcbNeKCTBjwMIJEs_jF468I3VcxKMlm4akR6Wgf6F_nVmUnwUlTNukSF85GQ7MXep9kxRoyiqIaFXOnI5mtRfyFaP7G5ztiJ6nFWn_oRiokgCyVbCk-n1iPXGJLjmOAXijxpb9SO-lIoEgzG0bEe39d0-G2LAlGSaJz_uLhx-0YdaeHPQMPxeY5qEp186JzPO2-ozJbmE2dqYBKHJY7XPy_oPHt6r7LCBiR7eydXWM9NKSOP8C8zeEj9XxoPlbAoSWf2HX-qZWJE7dswdWEAlG-2XHx1zdMRKbpkI4dhcjrJLfHu5_e5UbX0cnUm7xOqdZ1e10NDhdrvSyAot2FwsekVas9s1lMrDYgAOM3jBE1FZQ1HYxzc7-ulXpx0tuDxrzmVn4ZO5ATH908VumvTrKFKt6OaHw3-WktNhSLFF384IJG8UPxKEoiHX6ueQ29cntVhR-xkZAIldRD_d8NT8JBcudMTDWRkK6s5aQMo40zUwrNu3QrFWZsIteTkgND2ND5EVkfdV7liSc-wiln_Qc18mj6a9hK0jzO2-2j4Kp6prDNBxUfVijqFPSWvhagXWmaWaqOf6P0oM55UJFwrLz-Kag3c5iRpWmUI8C0tb77dfw0sClxPP83JsesqkA7kx6ls5-dsT115ndGfC6Rf9O8Xnn662GnNmV3KL86FeoPAYiTz_JCMi07-40FbLT-tZrF00&zp=gG98pkmZgk7t685u5u9nDEp97T5tjUdWsvitF0ktjOF3DBByIl_TKz6xrX6G_3oKYG5OBgfSJ7mIK-NP39nabLHEqwDCTCLPfgBdYT88y97LzAl-PSqK4TfxzZcwvXnX_MoGqdBbx2yqv9EOPqj6JBjtBGJoVUiwlQd98T63hcaTz8BZCruuwOVXDOISXQG0frEQAt57waqyzN9crzoFOhouRDX-6jrM0EcQKwuCUXbFNSSvjtPUYDHH7XVxvVMlnhxFWaSjylixVEJ1EQjwpbdQpt8LoKMvxcJyXoTjfMwyYS5I720k0F7rZW-r4GxaWIezw1Fo3YFDmC3F_7uhN7oEbahDwBfosc1Y74rTGFnXE0HhqsGmlS_gHMwcEA
+                                  - generic [ref=e1818]:
+                                    - generic: Learn More
+                      - separator [ref=e1819]
+                    - listitem [ref=e1820]:
+                      - generic [ref=e1821]:
+                        - generic [ref=e1822]:
+                          - link "HVAC contactor clicking" [ref=e1823] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/xoye50/hvac_contactor_clicking/
+                            - generic [ref=e1824]:
+                              - generic: HVAC contactor clicking
+                          - generic [ref=e1825]:
+                            - generic [ref=e1826]:
+                              - generic [ref=e1828]:
+                                - link "r/hvacadvice" [ref=e1829] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e1833]: r/hvacadvice
+                                - generic [ref=e1834]: •
+                                - time [ref=e1836]: 4y ago
+                              - link "List item post - HVAC contactor clicking" [ref=e1838] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/xoye50/hvac_contactor_clicking/
+                                - heading "List item post - HVAC contactor clicking" [level=3] [ref=e1841]: HVAC contactor clicking
+                            - link "r/hvacadvice - HVAC contactor clicking" [ref=e1844] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/xoye50/hvac_contactor_clicking/
+                              - img "r/hvacadvice - HVAC contactor clicking" [ref=e1845]
+                          - generic [ref=e1847]:
+                            - generic [ref=e1848]: "2"
+                            - text: upvotes ·
+                            - generic [ref=e1849]: "18"
+                            - text: comments
+                        - separator [ref=e1850]
+                    - listitem [ref=e1851]:
+                      - generic [ref=e1852]:
+                        - generic [ref=e1853]:
+                          - link "Can I go back to OEM suspension?" [ref=e1854] [cursor=pointer]:
+                            - /url: /r/LexusGX/comments/1sqql86/can_i_go_back_to_oem_suspension/
+                            - generic [ref=e1855]:
+                              - generic: Can I go back to OEM suspension?
+                          - generic [ref=e1857]:
+                            - generic [ref=e1859]:
+                              - link "r/LexusGX" [ref=e1860] [cursor=pointer]:
+                                - /url: /r/LexusGX/
+                                - generic [ref=e1864]: r/LexusGX
+                              - generic [ref=e1865]: •
+                              - time [ref=e1867]: 24d ago
+                            - link "List item post - Can I go back to OEM suspension?" [ref=e1869] [cursor=pointer]:
+                              - /url: /r/LexusGX/comments/1sqql86/can_i_go_back_to_oem_suspension/
+                              - heading "List item post - Can I go back to OEM suspension?" [level=3] [ref=e1872]: Can I go back to OEM suspension?
+                          - generic [ref=e1874]:
+                            - generic [ref=e1875]: "2"
+                            - text: upvotes ·
+                            - generic [ref=e1876]: "3"
+                            - text: comments
+                        - separator [ref=e1877]
+                    - listitem
+                    - listitem [ref=e1878]:
+                      - generic [ref=e1879]:
+                        - generic [ref=e1880]:
+                          - link "Guess someone didn’t stock up on contactors" [ref=e1881] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1s48hmo/guess_someone_didnt_stock_up_on_contactors/
+                            - generic [ref=e1882]:
+                              - generic: Guess someone didn’t stock up on contactors
+                          - generic [ref=e1883]:
+                            - generic [ref=e1884]:
+                              - generic [ref=e1886]:
+                                - link "r/HVAC" [ref=e1887] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e1891]: r/HVAC
+                                - generic [ref=e1892]: •
+                                - time [ref=e1894]: 2mo ago
+                              - link "List item post - Guess someone didn’t stock up on contactors" [ref=e1896] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1s48hmo/guess_someone_didnt_stock_up_on_contactors/
+                                - heading "List item post - Guess someone didn’t stock up on contactors" [level=3] [ref=e1899]: Guess someone didn’t stock up on contactors
+                            - generic [ref=e1901]:
+                              - link "r/HVAC - Guess someone didn’t stock up on contactors" [ref=e1902] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1s48hmo/guess_someone_didnt_stock_up_on_contactors/
+                                - img "r/HVAC - Guess someone didn’t stock up on contactors" [ref=e1903]
+                              - generic:
+                                - img
+                                - generic: "4"
+                          - generic [ref=e1905]:
+                            - generic [ref=e1906]: "160"
+                            - text: upvotes ·
+                            - generic [ref=e1907]: "42"
+                            - text: comments
+                        - separator [ref=e1908]
+                    - listitem [ref=e1909]:
+                      - generic [ref=e1910]:
+                        - generic [ref=e1911]:
+                          - link "One blows cold, one doesn’t, help plz" [ref=e1912] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/1t5teni/one_blows_cold_one_doesnt_help_plz/
+                            - generic [ref=e1913]:
+                              - generic: One blows cold, one doesn’t, help plz
+                          - generic [ref=e1914]:
+                            - generic [ref=e1915]:
+                              - generic [ref=e1917]:
+                                - link "r/hvacadvice" [ref=e1918] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e1922]: r/hvacadvice
+                                - generic [ref=e1923]: •
+                                - time [ref=e1925]: 8d ago
+                              - link "List item post - One blows cold, one doesn’t, help plz" [ref=e1927] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1t5teni/one_blows_cold_one_doesnt_help_plz/
+                                - heading "List item post - One blows cold, one doesn’t, help plz" [level=3] [ref=e1930]: One blows cold, one doesn’t, help plz
+                            - generic [ref=e1932]:
+                              - link "r/hvacadvice - One blows cold, one doesn’t, help plz" [ref=e1933] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1t5teni/one_blows_cold_one_doesnt_help_plz/
+                                - img "r/hvacadvice - One blows cold, one doesn’t, help plz" [ref=e1934]
+                              - generic:
+                                - img
+                                - generic: 0:04
+                          - generic [ref=e1936]:
+                            - generic [ref=e1937]: "1"
+                            - text: upvote ·
+                            - generic [ref=e1938]: "5"
+                            - text: comments
+                        - separator [ref=e1939]
+                    - listitem [ref=e1940]:
+                      - generic [ref=e1941]:
+                        - generic [ref=e1942]:
+                          - link "From a design standpoint, why do motor run capacitors seem to be such a common failure point?" [ref=e1943] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1pvoohk/from_a_design_standpoint_why_do_motor_run/
+                            - generic [ref=e1944]:
+                              - generic: From a design standpoint, why do motor run capacitors seem to be such a common failure point?
+                          - generic [ref=e1946]:
+                            - generic [ref=e1948]:
+                              - link "r/HVAC" [ref=e1949] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1953]: r/HVAC
+                              - generic [ref=e1954]: •
+                              - time [ref=e1956]: 5mo ago
+                            - link "List item post - From a design standpoint, why do motor run capacitors seem ..." [ref=e1958] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1pvoohk/from_a_design_standpoint_why_do_motor_run/
+                              - heading "List item post - From a design standpoint, why do motor run capacitors seem ..." [level=3] [ref=e1961]: From a design standpoint, why do motor run capacitors seem to be such a common failure point?
+                          - generic [ref=e1963]:
+                            - generic [ref=e1964]: "19"
+                            - text: upvotes ·
+                            - generic [ref=e1965]: "38"
+                            - text: comments
+                        - separator [ref=e1966]
+                    - listitem [ref=e1967]:
+                      - generic [ref=e1968]:
+                        - generic [ref=e1969]:
+                          - link "can we have reassignable hotkeys?" [ref=e1970] [cursor=pointer]:
+                            - /url: /r/NevernessToEverness/comments/1sz2jho/can_we_have_reassignable_hotkeys/
+                            - generic [ref=e1971]:
+                              - generic: can we have reassignable hotkeys?
+                          - generic [ref=e1972]:
+                            - generic [ref=e1973]:
+                              - generic [ref=e1975]:
+                                - link "r/NevernessToEverness" [ref=e1976] [cursor=pointer]:
+                                  - /url: /r/NevernessToEverness/
+                                  - generic [ref=e1980]: r/NevernessToEverness
+                                - generic [ref=e1981]: •
+                                - time [ref=e1983]: 15d ago
+                              - link "List item post - can we have reassignable hotkeys?" [ref=e1985] [cursor=pointer]:
+                                - /url: /r/NevernessToEverness/comments/1sz2jho/can_we_have_reassignable_hotkeys/
+                                - heading "List item post - can we have reassignable hotkeys?" [level=3] [ref=e1988]: can we have reassignable hotkeys?
+                            - link "r/NevernessToEverness - can we have reassignable hotkeys?" [ref=e1991] [cursor=pointer]:
+                              - /url: /r/NevernessToEverness/comments/1sz2jho/can_we_have_reassignable_hotkeys/
+                              - img "r/NevernessToEverness - can we have reassignable hotkeys?" [ref=e1992]
+                          - generic [ref=e1994]:
+                            - generic [ref=e1995]: "5"
+                            - text: upvotes ·
+                            - generic [ref=e1996]: "3"
+                            - text: comments
+                        - separator [ref=e1997]
+                    - listitem [ref=e1998]:
+                      - generic [ref=e1999]:
+                        - generic [ref=e2000]:
+                          - link "Wrong capacitor" [ref=e2001] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1lkov04/wrong_capacitor/
+                            - generic [ref=e2002]:
+                              - generic: Wrong capacitor
+                          - generic [ref=e2004]:
+                            - generic [ref=e2006]:
+                              - link "r/HVAC" [ref=e2007] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2011]: r/HVAC
+                              - generic [ref=e2012]: •
+                              - time [ref=e2014]: 1y ago
+                            - link "List item post - Wrong capacitor" [ref=e2016] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1lkov04/wrong_capacitor/
+                              - heading "List item post - Wrong capacitor" [level=3] [ref=e2019]: Wrong capacitor
+                          - generic [ref=e2021]:
+                            - generic [ref=e2022]: "46"
+                            - text: upvotes ·
+                            - generic [ref=e2023]: "34"
+                            - text: comments
+                        - separator [ref=e2024]
+                    - listitem
+                    - listitem [ref=e2025]:
+                      - generic [ref=e2026]:
+                        - generic [ref=e2027]:
+                          - link "Potential capacitor/contactor issue?" [ref=e2028] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/1smi7m3/potential_capacitorcontactor_issue/
+                            - generic [ref=e2029]:
+                              - generic: Potential capacitor/contactor issue?
+                          - generic [ref=e2030]:
+                            - generic [ref=e2031]:
+                              - generic [ref=e2033]:
+                                - link "r/hvacadvice" [ref=e2034] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2038]: r/hvacadvice
+                                - generic [ref=e2039]: •
+                                - time [ref=e2041]: 1mo ago
+                              - link "List item post - Potential capacitor/contactor issue?" [ref=e2043] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1smi7m3/potential_capacitorcontactor_issue/
+                                - heading "List item post - Potential capacitor/contactor issue?" [level=3] [ref=e2046]: Potential capacitor/contactor issue?
+                            - generic [ref=e2048]:
+                              - link "r/hvacadvice - Potential capacitor/contactor issue?" [ref=e2049] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1smi7m3/potential_capacitorcontactor_issue/
+                                - img "r/hvacadvice - Potential capacitor/contactor issue?" [ref=e2050]
+                              - generic:
+                                - img
+                                - generic: 0:09
+                          - generic [ref=e2052]:
+                            - generic [ref=e2053]: "1"
+                            - text: upvote ·
+                            - generic [ref=e2054]: "11"
+                            - text: comments
+                        - separator [ref=e2055]
+                    - listitem [ref=e2056]:
+                      - generic [ref=e2057]:
+                        - generic [ref=e2058]:
+                          - link "Changing a contactor on an old ac that has no identifying information." [ref=e2059] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/iyvb9e/changing_a_contactor_on_an_old_ac_that_has_no/
+                            - generic [ref=e2060]:
+                              - generic: Changing a contactor on an old ac that has no identifying information.
+                          - generic [ref=e2062]:
+                            - generic [ref=e2064]:
+                              - link "r/HVAC" [ref=e2065] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2069]: r/HVAC
+                              - generic [ref=e2070]: •
+                              - time [ref=e2072]: 6y ago
+                            - link "List item post - Changing a contactor on an old ac that has no identifying i..." [ref=e2074] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/iyvb9e/changing_a_contactor_on_an_old_ac_that_has_no/
+                              - heading "List item post - Changing a contactor on an old ac that has no identifying i..." [level=3] [ref=e2077]: Changing a contactor on an old ac that has no identifying information.
+                          - generic [ref=e2079]:
+                            - generic [ref=e2080]: "2"
+                            - text: upvotes ·
+                            - generic [ref=e2081]: "4"
+                            - text: comments
+                        - separator [ref=e2082]
+                    - listitem [ref=e2083]:
+                      - generic [ref=e2084]:
+                        - generic [ref=e2085]:
+                          - link "Capacitor chose violence" [ref=e2086] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1r0r4o6/capacitor_chose_violence/
+                            - generic [ref=e2087]:
+                              - generic: Capacitor chose violence
+                          - generic [ref=e2088]:
+                            - generic [ref=e2089]:
+                              - generic [ref=e2091]:
+                                - link "r/HVAC" [ref=e2092] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e2096]: r/HVAC
+                                - generic [ref=e2097]: •
+                                - time [ref=e2099]: 3mo ago
+                              - link "List item post - Capacitor chose violence" [ref=e2101] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1r0r4o6/capacitor_chose_violence/
+                                - heading "List item post - Capacitor chose violence" [level=3] [ref=e2104]: Capacitor chose violence
+                            - generic [ref=e2106]:
+                              - link "r/HVAC - Capacitor chose violence" [ref=e2107] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1r0r4o6/capacitor_chose_violence/
+                                - img "r/HVAC - Capacitor chose violence" [ref=e2108]
+                              - generic:
+                                - img
+                                - generic: "2"
+                          - generic [ref=e2110]:
+                            - generic [ref=e2111]: "159"
+                            - text: upvotes ·
+                            - generic [ref=e2112]: "14"
+                            - text: comments
+                        - separator [ref=e2113]
+                    - listitem [ref=e2114]:
+                      - generic [ref=e2115]:
+                        - generic [ref=e2116]:
+                          - link "AC unit Contactor Help" [ref=e2117] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/1kk0buy/ac_unit_contactor_help/
+                            - generic [ref=e2118]:
+                              - generic: AC unit Contactor Help
+                          - generic [ref=e2119]:
+                            - generic [ref=e2120]:
+                              - generic [ref=e2122]:
+                                - link "r/hvacadvice" [ref=e2123] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2127]: r/hvacadvice
+                                - generic [ref=e2128]: •
+                                - time [ref=e2130]: 1y ago
+                              - link "List item post - AC unit Contactor Help" [ref=e2132] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1kk0buy/ac_unit_contactor_help/
+                                - heading "List item post - AC unit Contactor Help" [level=3] [ref=e2135]: AC unit Contactor Help
+                            - link "r/hvacadvice - AC unit Contactor Help" [ref=e2138] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/1kk0buy/ac_unit_contactor_help/
+                              - img "r/hvacadvice - AC unit Contactor Help" [ref=e2139]
+                          - generic [ref=e2141]:
+                            - generic [ref=e2142]: "5"
+                            - text: upvotes ·
+                            - generic [ref=e2143]: "40"
+                            - text: comments
+                        - separator [ref=e2144]
+                    - listitem [ref=e2145]:
+                      - generic [ref=e2146]:
+                        - generic [ref=e2147]:
+                          - link "Is it hard to change a capacitor?" [ref=e2148] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/1t062z6/is_it_hard_to_change_a_capacitor/
+                            - generic [ref=e2149]:
+                              - generic: Is it hard to change a capacitor?
+                          - generic [ref=e2150]:
+                            - generic [ref=e2151]:
+                              - generic [ref=e2153]:
+                                - link "r/hvacadvice" [ref=e2154] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2158]: r/hvacadvice
+                                - generic [ref=e2159]: •
+                                - time [ref=e2161]: 14d ago
+                              - link "List item post - Is it hard to change a capacitor?" [ref=e2163] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1t062z6/is_it_hard_to_change_a_capacitor/
+                                - heading "List item post - Is it hard to change a capacitor?" [level=3] [ref=e2166]: Is it hard to change a capacitor?
+                            - link "r/hvacadvice - Is it hard to change a capacitor?" [ref=e2169] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/1t062z6/is_it_hard_to_change_a_capacitor/
+                              - img "r/hvacadvice - Is it hard to change a capacitor?" [ref=e2170]
+                          - generic [ref=e2172]:
+                            - generic [ref=e2173]: "22"
+                            - text: upvotes ·
+                            - generic [ref=e2174]: "45"
+                            - text: comments
+                        - separator [ref=e2175]
+                    - listitem [ref=e2176]:
+                      - generic [ref=e2177]:
+                        - generic [ref=e2178]:
+                          - link "Does this specific capacitor package need to be replaced and resoldered, or can it just be pushed back on the leads?" [ref=e2179] [cursor=pointer]:
+                            - /url: /r/shittyaskelectronics/comments/1rhzjsc/does_this_specific_capacitor_package_need_to_be/
+                            - generic [ref=e2180]:
+                              - generic: Does this specific capacitor package need to be replaced and resoldered, or can it just be pushed back on the leads?
+                          - generic [ref=e2181]:
+                            - generic [ref=e2182]:
+                              - generic [ref=e2184]:
+                                - link "r/shittyaskelectronics" [ref=e2185] [cursor=pointer]:
+                                  - /url: /r/shittyaskelectronics/
+                                  - img [ref=e2189]
+                                  - generic [ref=e2191]: r/shittyaskelectronics
+                                - generic [ref=e2192]: •
+                                - time [ref=e2194]: 2mo ago
+                              - link "List item post - Does this specific capacitor package need to be replaced an..." [ref=e2196] [cursor=pointer]:
+                                - /url: /r/shittyaskelectronics/comments/1rhzjsc/does_this_specific_capacitor_package_need_to_be/
+                                - heading "List item post - Does this specific capacitor package need to be replaced an..." [level=3] [ref=e2199]: Does this specific capacitor package need to be replaced and resoldered, or can it just be pushed back on the leads?
+                            - link "r/shittyaskelectronics - Does this specific capacitor package need to be replaced and resoldered, or can it just be pushed back on the leads?" [ref=e2202] [cursor=pointer]:
+                              - /url: /r/shittyaskelectronics/comments/1rhzjsc/does_this_specific_capacitor_package_need_to_be/
+                              - img "r/shittyaskelectronics - Does this specific capacitor package need to be replaced and resoldered, or can it just be pushed back on the leads?" [ref=e2203]
+                          - generic [ref=e2205]:
+                            - generic [ref=e2206]: "69"
+                            - text: upvotes ·
+                            - generic [ref=e2207]: "42"
+                            - text: comments
+                        - separator [ref=e2208]
+                    - listitem [ref=e2209]:
+                      - generic [ref=e2210]:
+                        - generic [ref=e2211]:
+                          - link "What is this and why is it attached to the contactor?" [ref=e2212] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/xm519w/what_is_this_and_why_is_it_attached_to_the/
+                            - generic [ref=e2213]:
+                              - generic: What is this and why is it attached to the contactor?
+                          - generic [ref=e2214]:
+                            - generic [ref=e2215]:
+                              - generic [ref=e2217]:
+                                - link "r/HVAC" [ref=e2218] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e2222]: r/HVAC
+                                - generic [ref=e2223]: •
+                                - time [ref=e2225]: 4y ago
+                              - link "List item post - What is this and why is it attached to the contactor?" [ref=e2227] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/xm519w/what_is_this_and_why_is_it_attached_to_the/
+                                - heading "List item post - What is this and why is it attached to the contactor?" [level=3] [ref=e2230]: What is this and why is it attached to the contactor?
+                            - link "r/HVAC - What is this and why is it attached to the contactor?" [ref=e2233] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/xm519w/what_is_this_and_why_is_it_attached_to_the/
+                              - img "r/HVAC - What is this and why is it attached to the contactor?" [ref=e2234]
+                          - generic [ref=e2236]:
+                            - generic [ref=e2237]: "83"
+                            - text: upvotes ·
+                            - generic [ref=e2238]: "89"
+                            - text: comments
+                        - separator [ref=e2239]
+                    - listitem [ref=e2240]:
+                      - generic [ref=e2241]:
+                        - generic [ref=e2242]:
+                          - link "$350 for a HVAC 24v Coil Contactor?" [ref=e2243] [cursor=pointer]:
+                            - /url: /r/HomeImprovement/comments/vswj6b/350_for_a_hvac_24v_coil_contactor/
+                            - generic [ref=e2244]:
+                              - generic: $350 for a HVAC 24v Coil Contactor?
+                          - generic [ref=e2246]:
+                            - generic [ref=e2248]:
+                              - link "r/HomeImprovement" [ref=e2249] [cursor=pointer]:
+                                - /url: /r/HomeImprovement/
+                                - img [ref=e2253]
+                                - generic [ref=e2255]: r/HomeImprovement
+                              - generic [ref=e2256]: •
+                              - time [ref=e2258]: 4y ago
+                            - link "List item post - $350 for a HVAC 24v Coil Contactor?" [ref=e2260] [cursor=pointer]:
+                              - /url: /r/HomeImprovement/comments/vswj6b/350_for_a_hvac_24v_coil_contactor/
+                              - heading "List item post - $350 for a HVAC 24v Coil Contactor?" [level=3] [ref=e2263]: $350 for a HVAC 24v Coil Contactor?
+                          - generic [ref=e2265]:
+                            - generic [ref=e2266]: "1"
+                            - text: upvote ·
+                            - generic [ref=e2267]: "9"
+                            - text: comments
+                        - separator [ref=e2268]
+                    - listitem [ref=e2269]:
+                      - generic [ref=e2270]:
+                        - generic [ref=e2271]:
+                          - link "How to you guys explain what a capacitor does to customers?" [ref=e2272] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/12u5sgh/how_to_you_guys_explain_what_a_capacitor_does_to/
+                            - generic [ref=e2273]:
+                              - generic: How to you guys explain what a capacitor does to customers?
+                          - generic [ref=e2275]:
+                            - generic [ref=e2277]:
+                              - link "r/HVAC" [ref=e2278] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2282]: r/HVAC
+                              - generic [ref=e2283]: •
+                              - time [ref=e2285]: 3y ago
+                            - link "List item post - How to you guys explain what a capacitor does to customers?" [ref=e2287] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/12u5sgh/how_to_you_guys_explain_what_a_capacitor_does_to/
+                              - heading "List item post - How to you guys explain what a capacitor does to customers?" [level=3] [ref=e2290]: How to you guys explain what a capacitor does to customers?
+                          - generic [ref=e2292]:
+                            - generic [ref=e2293]: "196"
+                            - text: upvotes ·
+                            - generic [ref=e2294]: "528"
+                            - text: comments
+                        - separator [ref=e2295]
+                    - listitem [ref=e2296]:
+                      - generic [ref=e2297]:
+                        - generic [ref=e2298]:
+                          - link "Are the capacitors compatible for ac compressor" [ref=e2299] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/16q98gb/are_the_capacitors_compatible_for_ac_compressor/
+                            - generic [ref=e2300]:
+                              - generic: Are the capacitors compatible for ac compressor
+                          - generic [ref=e2301]:
+                            - generic [ref=e2302]:
+                              - generic [ref=e2304]:
+                                - link "r/hvacadvice" [ref=e2305] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2309]: r/hvacadvice
+                                - generic [ref=e2310]: •
+                                - time [ref=e2312]: 3y ago
+                              - link "List item post - Are the capacitors compatible for ac compressor" [ref=e2314] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/16q98gb/are_the_capacitors_compatible_for_ac_compressor/
+                                - heading "List item post - Are the capacitors compatible for ac compressor" [level=3] [ref=e2317]: Are the capacitors compatible for ac compressor
+                            - link "r/hvacadvice - Are the capacitors compatible for ac compressor" [ref=e2320] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/16q98gb/are_the_capacitors_compatible_for_ac_compressor/
+                              - img "r/hvacadvice - Are the capacitors compatible for ac compressor" [ref=e2321]
+                          - generic [ref=e2323]:
+                            - generic [ref=e2324]: "11"
+                            - text: upvotes ·
+                            - generic [ref=e2325]: "32"
+                            - text: comments
+                        - separator [ref=e2326]
+                    - listitem [ref=e2327]:
+                      - generic [ref=e2328]:
+                        - generic [ref=e2329]:
+                          - link "Man, some days this job destroys my confidence that I am a competent technician." [ref=e2330] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1okdes2/man_some_days_this_job_destroys_my_confidence/
+                            - generic [ref=e2331]:
+                              - generic: Man, some days this job destroys my confidence that I am a competent technician.
+                          - generic [ref=e2333]:
+                            - generic [ref=e2335]:
+                              - link "r/HVAC" [ref=e2336] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2340]: r/HVAC
+                              - generic [ref=e2341]: •
+                              - time [ref=e2343]: 7mo ago
+                            - link "List item post - Man, some days this job destroys my confidence that I am a ..." [ref=e2345] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1okdes2/man_some_days_this_job_destroys_my_confidence/
+                              - heading "List item post - Man, some days this job destroys my confidence that I am a ..." [level=3] [ref=e2348]: Man, some days this job destroys my confidence that I am a competent technician.
+                          - generic [ref=e2350]:
+                            - generic [ref=e2351]: "224"
+                            - text: upvotes ·
+                            - generic [ref=e2352]: "118"
+                            - text: comments
+                        - separator [ref=e2353]
+                    - listitem [ref=e2354]:
+                      - generic [ref=e2355]:
+                        - generic [ref=e2356]:
+                          - link "My capacitor went out, where can I buy a new one and ensure it is the best voltage etc? Can’t afford the $200-$500 price quote for this part" [ref=e2357] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/o6c6wa/my_capacitor_went_out_where_can_i_buy_a_new_one/
+                            - generic [ref=e2358]:
+                              - generic: My capacitor went out, where can I buy a new one and ensure it is the best voltage etc? Can’t afford the $200-$500 price quote for this part
+                          - generic [ref=e2359]:
+                            - generic [ref=e2360]:
+                              - generic [ref=e2362]:
+                                - link "r/hvacadvice" [ref=e2363] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2367]: r/hvacadvice
+                                - generic [ref=e2368]: •
+                                - time [ref=e2370]: 5y ago
+                              - link "List item post - My capacitor went out, where can I buy a new one and ensure..." [ref=e2372] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/o6c6wa/my_capacitor_went_out_where_can_i_buy_a_new_one/
+                                - heading "List item post - My capacitor went out, where can I buy a new one and ensure..." [level=3] [ref=e2375]: My capacitor went out, where can I buy a new one and ensure it is the best voltage etc? Can’t afford the $200-$500 price quote for this part
+                            - generic [ref=e2377]:
+                              - link "r/hvacadvice - My capacitor went out, where can I buy a new one and ensure it is the best voltage etc? Can’t afford the $200-$500 price quote for this part" [ref=e2378] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/o6c6wa/my_capacitor_went_out_where_can_i_buy_a_new_one/
+                                - img "r/hvacadvice - My capacitor went out, where can I buy a new one and ensure it is the best voltage etc? Can’t afford the $200-$500 price quote for this part" [ref=e2379]
+                              - generic:
+                                - img
+                                - generic: "3"
+                          - generic [ref=e2381]:
+                            - generic [ref=e2382]: "8"
+                            - text: upvotes ·
+                            - generic [ref=e2383]: "43"
+                            - text: comments
+                        - separator [ref=e2384]
+                    - listitem [ref=e2385]:
+                      - generic [ref=e2386]:
+                        - generic [ref=e2387]:
+                          - link "HVAC repairman replaced my central air contactor and now the fan will not stop running. What to do?" [ref=e2388] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/1datmlc/hvac_repairman_replaced_my_central_air_contactor/
+                            - generic [ref=e2389]:
+                              - generic: HVAC repairman replaced my central air contactor and now the fan will not stop running. What to do?
+                          - generic [ref=e2391]:
+                            - generic [ref=e2393]:
+                              - link "r/hvacadvice" [ref=e2394] [cursor=pointer]:
+                                - /url: /r/hvacadvice/
+                                - generic [ref=e2398]: r/hvacadvice
+                              - generic [ref=e2399]: •
+                              - time [ref=e2401]: 2y ago
+                            - link "List item post - HVAC repairman replaced my central air contactor and now th..." [ref=e2403] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/1datmlc/hvac_repairman_replaced_my_central_air_contactor/
+                              - heading "List item post - HVAC repairman replaced my central air contactor and now th..." [level=3] [ref=e2406]: HVAC repairman replaced my central air contactor and now the fan will not stop running. What to do?
+                          - generic [ref=e2408]:
+                            - generic [ref=e2409]: "4"
+                            - text: upvotes ·
+                            - generic [ref=e2410]: "17"
+                            - text: comments
+                        - separator [ref=e2411]
+                    - listitem [ref=e2412]:
+                      - generic [ref=e2413]:
+                        - generic [ref=e2414]:
+                          - link "Hey guys currently dealing with a lovely intermittent pressure switch issue" [ref=e2415] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1qfmooc/hey_guys_currently_dealing_with_a_lovely/
+                            - generic [ref=e2416]:
+                              - generic: Hey guys currently dealing with a lovely intermittent pressure switch issue
+                          - generic [ref=e2418]:
+                            - generic [ref=e2420]:
+                              - link "r/HVAC" [ref=e2421] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2425]: r/HVAC
+                              - generic [ref=e2426]: •
+                              - time [ref=e2428]: 4mo ago
+                            - link "List item post - Hey guys currently dealing with a lovely intermittent press..." [ref=e2430] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1qfmooc/hey_guys_currently_dealing_with_a_lovely/
+                              - heading "List item post - Hey guys currently dealing with a lovely intermittent press..." [level=3] [ref=e2433]: Hey guys currently dealing with a lovely intermittent pressure switch issue
+                          - generic [ref=e2435]:
+                            - generic [ref=e2436]: "12"
+                            - text: upvotes ·
+                            - generic [ref=e2437]: "37"
+                            - text: comments
+                        - separator [ref=e2438]
+                    - listitem [ref=e2439]:
+                      - generic [ref=e2440]:
+                        - generic [ref=e2441]:
+                          - link "Why Do I Have Two Capacitors?" [ref=e2442] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/16ase1q/why_do_i_have_two_capacitors/
+                            - generic [ref=e2443]:
+                              - generic: Why Do I Have Two Capacitors?
+                          - generic [ref=e2444]:
+                            - generic [ref=e2445]:
+                              - generic [ref=e2447]:
+                                - link "r/hvacadvice" [ref=e2448] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2452]: r/hvacadvice
+                                - generic [ref=e2453]: •
+                                - time [ref=e2455]: 3y ago
+                              - link "List item post - Why Do I Have Two Capacitors?" [ref=e2457] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/16ase1q/why_do_i_have_two_capacitors/
+                                - heading "List item post - Why Do I Have Two Capacitors?" [level=3] [ref=e2460]: Why Do I Have Two Capacitors?
+                            - generic [ref=e2462]:
+                              - link "r/hvacadvice - Why Do I Have Two Capacitors?" [ref=e2463] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/16ase1q/why_do_i_have_two_capacitors/
+                                - img "r/hvacadvice - Why Do I Have Two Capacitors?" [ref=e2464]
+                              - generic:
+                                - img
+                                - generic: "2"
+                          - generic [ref=e2466]:
+                            - generic [ref=e2467]: "10"
+                            - text: upvotes ·
+                            - generic [ref=e2468]: "54"
+                            - text: comments
+                        - separator [ref=e2469]
+                    - listitem [ref=e2470]:
+                      - generic [ref=e2471]:
+                        - generic [ref=e2472]:
+                          - link "No Voltage at Contactor - Lennox" [ref=e2473] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/1stx39g/no_voltage_at_contactor_lennox/
+                            - generic [ref=e2474]:
+                              - generic: No Voltage at Contactor - Lennox
+                          - generic [ref=e2475]:
+                            - generic [ref=e2476]:
+                              - generic [ref=e2478]:
+                                - link "r/hvacadvice" [ref=e2479] [cursor=pointer]:
+                                  - /url: /r/hvacadvice/
+                                  - generic [ref=e2483]: r/hvacadvice
+                                - generic [ref=e2484]: •
+                                - time [ref=e2486]: 21d ago
+                              - link "List item post - No Voltage at Contactor - Lennox" [ref=e2488] [cursor=pointer]:
+                                - /url: /r/hvacadvice/comments/1stx39g/no_voltage_at_contactor_lennox/
+                                - heading "List item post - No Voltage at Contactor - Lennox" [level=3] [ref=e2491]: No Voltage at Contactor - Lennox
+                            - link "r/hvacadvice - No Voltage at Contactor - Lennox" [ref=e2494] [cursor=pointer]:
+                              - /url: /r/hvacadvice/comments/1stx39g/no_voltage_at_contactor_lennox/
+                              - img "r/hvacadvice - No Voltage at Contactor - Lennox" [ref=e2495]
+                          - generic [ref=e2497]:
+                            - generic [ref=e2498]: "1"
+                            - text: upvote ·
+                            - generic [ref=e2499]: "11"
+                            - text: comments
+                        - separator [ref=e2500]
+                    - listitem [ref=e2501]:
+                      - generic [ref=e2503]:
+                        - link "Cannot figure out why AC contactor is not engaging. It doesn't make sense." [ref=e2504] [cursor=pointer]:
+                          - /url: /r/hvacadvice/comments/nx50fy/cannot_figure_out_why_ac_contactor_is_not/
+                          - generic [ref=e2505]:
+                            - generic: Cannot figure out why AC contactor is not engaging. It doesn't make sense.
+                        - generic [ref=e2507]:
+                          - generic [ref=e2509]:
+                            - link "r/hvacadvice" [ref=e2510] [cursor=pointer]:
+                              - /url: /r/hvacadvice/
+                              - generic [ref=e2514]: r/hvacadvice
+                            - generic [ref=e2515]: •
+                            - time [ref=e2517]: 5y ago
+                          - link "List item post - Cannot figure out why AC contactor is not engaging. It does..." [ref=e2519] [cursor=pointer]:
+                            - /url: /r/hvacadvice/comments/nx50fy/cannot_figure_out_why_ac_contactor_is_not/
+                            - heading "List item post - Cannot figure out why AC contactor is not engaging. It does..." [level=3] [ref=e2522]: Cannot figure out why AC contactor is not engaging. It doesn't make sense.
+                        - generic [ref=e2524]:
+                          - generic [ref=e2525]: "10"
+                          - text: upvotes ·
+                          - generic [ref=e2526]: "37"
+                          - text: comments
+                - complementary "Community information" [ref=e2527]:
+                  - generic [ref=e2529]:
+                    - heading "Community Info Section" [level=1] [ref=e2530]
+                    - generic [ref=e2531]:
+                      - link "r/HVAC" [ref=e2533] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e2534]: r/HVAC
+                      - button "Join" [ref=e2538] [cursor=pointer]
+                    - generic [ref=e2539]:
+                      - generic [ref=e2540]: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+                      - generic [ref=e2541]: A subreddit for Heating, Ventilation, & Air Conditioning Technicians. If you are not a member of the trade, please post in r/hvacadvice.
+                      - button "Show more" [ref=e2542] [cursor=pointer]:
+                        - generic [ref=e2544]: Show more
+                      - generic [ref=e2547]:
+                        - img [ref=e2548]
+                        - text: Public
+              - generic [ref=e2551]:
+                - link "Reddit Rules" [ref=e2554] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e2557] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e2560] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e2563] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e2566] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2568] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e2570]:
+          - button "Collapse Navigation" [ref=e2573] [cursor=pointer]:
+            - img [ref=e2576]
+            - generic [ref=e2578]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e2583]:
+            - generic [ref=e2585]:
+              - link "Home" [ref=e2587] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e2588]:
+                  - img [ref=e2590]
+                  - generic [ref=e2593]: Home
+              - link "Popular" [ref=e2595] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e2596]:
+                  - img [ref=e2598]
+                  - generic [ref=e2601]: Popular
+              - link "News" [ref=e2602] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e2603]:
+                  - img [ref=e2605]
+                  - generic [ref=e2609]: News
+              - link "Explore" [ref=e2611] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e2612]:
+                  - img [ref=e2614]
+                  - generic [ref=e2617]: Explore
+            - separator [ref=e2618]
+            - group [ref=e2621]:
+              - generic "RECENT" [ref=e2622] [cursor=pointer]:
+                - generic [ref=e2623]:
+                  - generic [ref=e2626]: RECENT
+                  - img [ref=e2629]
+              - link "r/HVAC" [ref=e2633] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e2634]:
+                  - img [ref=e2639]
+                  - generic [ref=e2642]: r/HVAC
+            - navigation "Reddit resources" [ref=e2643]:
+              - group [ref=e2645]:
+                - generic "RESOURCES" [ref=e2646] [cursor=pointer]:
+                  - generic [ref=e2648]:
+                    - generic [ref=e2651]: RESOURCES
+                    - img [ref=e2654]
+                - generic [ref=e2657]:
+                  - link "About Reddit" [ref=e2659] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e2660]:
+                      - img [ref=e2662]
+                      - generic [ref=e2666]: About Reddit
+                  - link "Advertise" [ref=e2668] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e2669]:
+                      - img [ref=e2671]
+                      - generic [ref=e2675]: Advertise
+                  - link "Developer Platform" [ref=e2677] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2678]:
+                      - img [ref=e2680]
+                      - generic [ref=e2684]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e2686] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2687]:
+                      - img [ref=e2689]
+                      - generic [ref=e2693]:
+                        - generic [ref=e2694]: Reddit Pro
+                        - generic [ref=e2695]: BETA
+                  - link "Help" [ref=e2697] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e2698]:
+                      - img [ref=e2700]
+                      - generic [ref=e2704]: Help
+                  - link "Blog" [ref=e2706] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e2707]:
+                      - img [ref=e2709]
+                      - generic [ref=e2713]: Blog
+                  - link "Careers" [ref=e2715] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e2716]:
+                      - img [ref=e2718]
+                      - generic [ref=e2722]: Careers
+                  - link "Press" [ref=e2724] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e2725]:
+                      - img [ref=e2727]
+                      - generic [ref=e2731]: Press
+                  - separator [ref=e2732]
+                  - link "Best of Reddit" [ref=e2734] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e2735]:
+                      - img [ref=e2737]
+                      - generic [ref=e2742]: Best of Reddit
+                  - separator [ref=e2743]
+                  - link "Reddit Rules" [ref=e2745] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e2746]:
+                      - img [ref=e2748]
+                      - generic [ref=e2752]: Reddit Rules
+                  - link "Privacy Policy" [ref=e2754] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e2755]:
+                      - img [ref=e2757]
+                      - generic [ref=e2761]: Privacy Policy
+                  - link "User Agreement" [ref=e2763] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e2764]:
+                      - img [ref=e2766]
+                      - generic [ref=e2770]: User Agreement
+                  - link "Your Privacy Choices" [ref=e2772] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e2773]:
+                      - img [ref=e2775]
+                      - generic [ref=e2779]: Your Privacy Choices
+                  - link "Accessibility" [ref=e2781] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e2782]:
+                      - img [ref=e2784]
+                      - generic [ref=e2789]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2791] [cursor=pointer]:
+              - /url: https://redditinc.com

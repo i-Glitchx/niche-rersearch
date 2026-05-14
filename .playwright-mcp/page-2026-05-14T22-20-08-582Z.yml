@@ -1,0 +1,380 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "When was the last time you compared your Google listing side by side? : r/sweatystartup"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/sweatystartup filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/sweatystartup
+                  - img [ref=e49]
+              - textbox "Remove r/sweatystartup filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/sweatystartup⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e81] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e82] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e83]:
+            - main [ref=e84]:
+              - 'generic "When was the last time you compared your Google listing side by side? : r/sweatystartup"'
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - button "Back" [ref=e89] [cursor=pointer]:
+                      - img [ref=e92]
+                      - generic [ref=e94]:
+                        - generic: Back
+                    - link "Go to sweatystartup" [ref=e97] [cursor=pointer]:
+                      - /url: /r/sweatystartup/
+                      - generic [ref=e101]:
+                        - generic: Go to sweatystartup
+                    - group [ref=e102]:
+                      - generic [ref=e103]:
+                        - link "r/sweatystartup" [ref=e106] [cursor=pointer]:
+                          - /url: /r/sweatystartup/
+                        - generic [ref=e107]: •
+                        - time [ref=e108]: 2mo ago
+                      - 'link "Author: Due-Bet115" [ref=e113] [cursor=pointer]':
+                        - /url: /user/Due-Bet115/
+                        - generic [ref=e114]: Due-Bet115
+                  - button "Open user actions" [ref=e118] [cursor=pointer]:
+                    - img [ref=e121]
+                - 'heading "Post Title: When was the last time you compared your Google listing side by side?" [level=1] [ref=e125]': When was the last time you compared your Google listing side by side?
+                - generic [ref=e129]:
+                  - paragraph [ref=e130]: "Something I’ve noticed when searching for local services: when you open 3–4 competitors in separate tabs, small differences feel bigger than they look in the 3-pack."
+                  - paragraph [ref=e131]: One plumber has job photos from last week. Another has three truck photos from two years ago.
+                  - paragraph [ref=e132]:
+                    - text: One electrician has a review from 6 days ago mentioning a specific job. Another hasn’t had a review in 8 months.
+                    - text: Star ratings are almost identical.
+                  - paragraph [ref=e133]: None of them look “bad.” But one feels active and trustworthy. The others feel quiet.
+                  - paragraph [ref=e134]: Makes me wonder how many calls are lost not because of ranking, but because small trust signals tip the comparison.
+                  - paragraph [ref=e135]: "For service owners here: do you actively compare your listing tab by tab, or mostly check ranking and move on?"
+                - generic [ref=e136]:
+                  - img [ref=e137]
+                  - generic [ref=e139]: "3"
+                  - img [ref=e140]
+                  - generic [ref=e142]: ·
+                  - img [ref=e143]
+                  - generic [ref=e145]: "2"
+              - img [ref=e150]
+            - generic [ref=e163]:
+              - generic [ref=e164]:
+                - complementary [ref=e167]:
+                  - generic [ref=e168]:
+                    - generic [ref=e169]: New to Reddit?
+                    - paragraph [ref=e170]: Create your account and connect with a world of communities.
+                  - generic [ref=e171]:
+                    - generic [ref=e179]:
+                      - button "Continue with Google. Opens in new tab" [ref=e181] [cursor=pointer]:
+                        - generic [ref=e183]:
+                          - img [ref=e185]
+                          - generic [ref=e192]: Continue with Google
+                      - iframe
+                    - link "Continue with Email" [ref=e194] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e197]:
+                        - img [ref=e198]
+                        - generic [ref=e200]: Continue with Email
+                  - link "Continue with Phone Number" [ref=e203] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e206]:
+                      - img [ref=e207]
+                      - generic [ref=e210]: Continue with Phone Number
+                  - generic [ref=e211]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e212] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e213] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Answers Section" [ref=e215]:
+                  - heading "Related Answers Section" [level=1] [ref=e216]
+                  - generic [ref=e217]:
+                    - img [ref=e219]
+                    - generic [ref=e221]: Related Answers
+                  - generic [ref=e222]:
+                    - generic [ref=e224]:
+                      - generic [ref=e225]:
+                        - generic [ref=e226]: Best resources for aspiring entrepreneurs
+                        - generic [ref=e227]:
+                          - paragraph [ref=e228]:
+                            - text: To become a successful entrepreneur,
+                            - strong [ref=e229]: prioritize action over endless planning
+                            - text: ","
+                            - strong [ref=e230]: learn continuously from real-world problems
+                            - text: ", and"
+                            - strong [ref=e231]: build a strong network
+                            - text: . While guides and books offer foundational knowledge, direct experience and adaptability are crucial for navigating the unpredictable journey of entrepreneurship.
+                          - heading "Embrace Learning by Doing" [level=3] [ref=e232]
+                          - list [ref=e233]:
+                            - listitem [ref=e234]:
+                              - paragraph [ref=e235]:
+                                - strong [ref=e236]: Start small and execute quickly
+                                - text: ": Don't get caught in endless planning; build a minimum viable product (MVP) and test it."
+                                - link "\"I learned more in my first 6 months of actually running a business than I did from any course or book.\"" [ref=e237] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o60ubax/
+                                  - text: "\"I learned more in my first 6 months of actually running a business than I did from any course or book.\""
+                                  - img [ref=e239]
+                            - listitem [ref=e241]:
+                              - paragraph [ref=e242]:
+                                - strong [ref=e243]: Solve real problems
+                                - text: ": Focus on identifying and solving genuine problems for customers, as this leads to sustainable businesses."
+                                - link "\"The best business ideas come from understanding problems really well.\"" [ref=e244] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1qz3dlf/comment/o48j7l8/
+                                  - text: "\"The best business ideas come from understanding problems really well.\""
+                                  - img [ref=e246]
+                            - listitem [ref=e248]:
+                              - paragraph [ref=e249]:
+                                - strong [ref=e250]: Adapt and pivot
+                                - text: ": Be prepared for setbacks and view them as learning opportunities to adjust your approach."
+                                - link "\"Pivoting is underrated advice honestly. Most people see it as failure but the best entrepreneurs I've studied treat it as data.\"" [ref=e251] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/AskReddit/comments/1sblywf/comment/oe8ay0m/
+                                  - text: "\"Pivoting is underrated advice honestly. Most people see it as failure but the best entrepreneurs I've studied treat it as data.\""
+                                  - img [ref=e253]
+                          - heading "Utilize Educational Resources" [level=3] [ref=e255]
+                          - list [ref=e256]:
+                            - listitem [ref=e257]:
+                              - paragraph [ref=e258]:
+                                - strong [ref=e259]: Read widely
+                                - text: ": Books provide valuable insights into business fundamentals and strategies."
+                                - link "\"Reading, however, can open your mind to new ideas and can have a huge impact on your strategy before you get started.\"" [ref=e260] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1ookxv5/best_books_or_resources_for_new_entrepreneurs/
+                                  - text: "\"Reading, however, can open your mind to new ideas and can have a huge impact on your strategy before you get started.\""
+                                  - img [ref=e262]
+                            - listitem [ref=e264]:
+                              - paragraph [ref=e265]:
+                                - strong [ref=e266]: Leverage free online content
+                                - text: ": YouTube and podcasts offer accessible explanations of business basics."
+                                - link "\"Honestly, YouTube and just starting small.\"" [ref=e267] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o61kawk/
+                                  - text: "\"Honestly, YouTube and just starting small.\""
+                                  - img [ref=e269]
+                            - listitem [ref=e271]:
+                              - paragraph [ref=e272]:
+                                - strong [ref=e273]: Seek mentorship
+                                - text: ": Organizations like SCORE.org provide free mentorship from experienced professionals."
+                                - link "\"score.org free mentor\"" [ref=e274] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o615etn/
+                                  - text: "\"score.org free mentor\""
+                                  - img [ref=e276]
+                          - heading "Build a Supportive Network" [level=3] [ref=e278]
+                          - list [ref=e279]:
+                            - listitem [ref=e280]:
+                              - paragraph [ref=e281]:
+                                - strong [ref=e282]: Connect with other entrepreneurs
+                                - text: ": Engage in communities (both online and offline) to share experiences and gain diverse perspectives."
+                                - link "\"Talking to people already running businesses helped a lot too.\"" [ref=e283] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/smallbusiness/comments/1r7v2x4/comment/o60gkqb/
+                                  - text: "\"Talking to people already running businesses helped a lot too.\""
+                                  - img [ref=e285]
+                            - listitem [ref=e287]:
+                              - paragraph [ref=e288]:
+                                - strong [ref=e289]: Prioritize relationships
+                                - text: ": Networking can open doors to new insights and collaborations."
+                                - link "\"Don't spend too much time online. Reach out to real business owners in your community.\"" [ref=e290] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1cts3ul/comment/l4euprc/
+                                  - text: "\"Don't spend too much time online. Reach out to real business owners in your community.\""
+                                  - img [ref=e292]
+                            - listitem [ref=e294]:
+                              - paragraph [ref=e295]:
+                                - strong [ref=e296]: Learn from experts
+                                - text: ": Identify and learn from successful individuals in your chosen domain."
+                                - link "\"Learn from the best people in the domain.\"" [ref=e297] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/Entrepreneur/comments/1qz3dlf/comment/o48fbai/
+                                  - text: "\"Learn from the best people in the domain.\""
+                                  - img [ref=e299]
+                          - paragraph [ref=e301]: Are you ready to start implementing these strategies and take the first step in your entrepreneurial journey?
+                      - link "See Answer" [ref=e306] [cursor=pointer]:
+                        - /url: https://www.reddit.com/answers/2594bf3b-38ee-44bf-88eb-cf2dbe9f866c/?q=Best+resources+for+aspiring+entrepreneurs&source=PDP
+                        - generic [ref=e308]: See Answer
+                    - link "How to find your niche in a crowded market" [ref=e310] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/530c4886-8977-4b52-9026-43fbaa7dd25b/?q=How+to+find+your+niche+in+a+crowded+market&source=PDP
+                      - generic [ref=e313]: How to find your niche in a crowded market
+                      - img [ref=e316]
+                    - link "Building a strong brand identity from scratch" [ref=e319] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/caa82ce9-0408-4872-8139-4393ab45918a/?q=Building+a+strong+brand+identity+from+scratch&source=PDP
+                      - generic [ref=e322]: Building a strong brand identity from scratch
+                      - img [ref=e325]
+                    - link "Tips for managing cash flow in startups" [ref=e328] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/73aa2946-2ca3-4f28-95d9-1d36ef5580a6/?q=Tips+for+managing+cash+flow+in+startups&source=PDP
+                      - generic [ref=e331]: Tips for managing cash flow in startups
+                      - img [ref=e334]
+                    - link "Networking tips for new entrepreneurs" [ref=e337] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/3aeac63c-e5ed-4ad0-a8e0-1ac08f7c1f70/?q=Networking+tips+for+new+entrepreneurs&source=PDP
+                      - generic [ref=e340]: Networking tips for new entrepreneurs
+                      - img [ref=e343]
+                - complementary "Community information" [ref=e948]:
+                  - generic [ref=e950]:
+                    - heading "Community Info Section" [level=1] [ref=e951]
+                    - generic [ref=e952]:
+                      - link "r/sweatystartup" [ref=e954] [cursor=pointer]:
+                        - /url: /r/sweatystartup/
+                        - generic [ref=e955]: r/sweatystartup
+                      - button "Join" [ref=e959] [cursor=pointer]
+                    - generic [ref=e960]:
+                      - generic [ref=e961]: sweatystartup
+                      - generic [ref=e962]: A hub for entrepreneurs of regular old fashioned businesses.
+                      - generic [ref=e965]:
+                        - img [ref=e966]
+                        - text: Public
+              - generic [ref=e969]:
+                - link "Reddit Rules" [ref=e972] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e975] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e978] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e981] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e984] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e986] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e988]:
+          - button "Collapse Navigation" [ref=e991] [cursor=pointer]:
+            - img [ref=e994]
+            - generic [ref=e996]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e1001]:
+            - generic [ref=e1003]:
+              - link "Home" [ref=e1005] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e1006]:
+                  - img [ref=e1008]
+                  - generic [ref=e1011]: Home
+              - link "Popular" [ref=e1013] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e1014]:
+                  - img [ref=e1016]
+                  - generic [ref=e1019]: Popular
+              - link "News" [ref=e1020] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e1021]:
+                  - img [ref=e1023]
+                  - generic [ref=e1027]: News
+              - link "Explore" [ref=e1029] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e1030]:
+                  - img [ref=e1032]
+                  - generic [ref=e1035]: Explore
+            - separator [ref=e1036]
+            - group [ref=e1039]:
+              - generic "RECENT" [ref=e1040] [cursor=pointer]:
+                - generic [ref=e1041]:
+                  - generic [ref=e1044]: RECENT
+                  - img [ref=e1047]
+              - link "r/HVAC" [ref=e1051] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e1052]:
+                  - img [ref=e1057]
+                  - generic [ref=e1060]: r/HVAC
+            - navigation "Reddit resources" [ref=e1061]:
+              - group [ref=e1063]:
+                - generic "RESOURCES" [ref=e1064] [cursor=pointer]:
+                  - generic [ref=e1066]:
+                    - generic [ref=e1069]: RESOURCES
+                    - img [ref=e1072]
+                - generic [ref=e1075]:
+                  - link "About Reddit" [ref=e1077] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1078]:
+                      - img [ref=e1080]
+                      - generic [ref=e1084]: About Reddit
+                  - link "Advertise" [ref=e1086] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1087]:
+                      - img [ref=e1089]
+                      - generic [ref=e1093]: Advertise
+                  - link "Developer Platform" [ref=e1095] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1096]:
+                      - img [ref=e1098]
+                      - generic [ref=e1102]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1104] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1105]:
+                      - img [ref=e1107]
+                      - generic [ref=e1111]:
+                        - generic [ref=e1112]: Reddit Pro
+                        - generic [ref=e1113]: BETA
+                  - link "Help" [ref=e1115] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1116]:
+                      - img [ref=e1118]
+                      - generic [ref=e1122]: Help
+                  - link "Blog" [ref=e1124] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1125]:
+                      - img [ref=e1127]
+                      - generic [ref=e1131]: Blog
+                  - link "Careers" [ref=e1133] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1134]:
+                      - img [ref=e1136]
+                      - generic [ref=e1140]: Careers
+                  - link "Press" [ref=e1142] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1143]:
+                      - img [ref=e1145]
+                      - generic [ref=e1149]: Press
+                  - separator [ref=e1150]
+                  - link "Best of Reddit" [ref=e1152] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1153]:
+                      - img [ref=e1155]
+                      - generic [ref=e1160]: Best of Reddit
+                  - separator [ref=e1161]
+                  - link "Reddit Rules" [ref=e1163] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1164]:
+                      - img [ref=e1166]
+                      - generic [ref=e1170]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1172] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1173]:
+                      - img [ref=e1175]
+                      - generic [ref=e1179]: Privacy Policy
+                  - link "User Agreement" [ref=e1181] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1182]:
+                      - img [ref=e1184]
+                      - generic [ref=e1188]: User Agreement
+                  - link "Your Privacy Choices" [ref=e1190] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e1191]:
+                      - img [ref=e1193]
+                      - generic [ref=e1197]: Your Privacy Choices
+                  - link "Accessibility" [ref=e1199] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1200]:
+                      - img [ref=e1202]
+                      - generic [ref=e1207]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1209] [cursor=pointer]:
+              - /url: https://redditinc.com

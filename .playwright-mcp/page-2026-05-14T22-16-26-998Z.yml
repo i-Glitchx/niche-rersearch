@@ -1,0 +1,1463 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "New ServiceTitan app is a downgrade… : r/HVAC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/HVAC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/HVAC
+                  - img [ref=e49]
+              - textbox "Remove r/HVAC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/HVAC⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e81] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e82] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e83]:
+            - main [ref=e84]:
+              - 'generic "New ServiceTitan app is a downgrade… : r/HVAC"'
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - button "Back" [ref=e89] [cursor=pointer]:
+                      - img [ref=e92]
+                      - generic [ref=e94]:
+                        - generic: Back
+                    - link "Go to HVAC" [ref=e97] [cursor=pointer]:
+                      - /url: /r/HVAC/
+                      - generic [ref=e101]:
+                        - generic: Go to HVAC
+                    - group [ref=e102]:
+                      - generic [ref=e103]:
+                        - link "r/HVAC" [ref=e106] [cursor=pointer]:
+                          - /url: /r/HVAC/
+                        - generic [ref=e107]: •
+                        - time [ref=e108]: 7mo ago
+                      - 'link "Author: Embarrassed_Mirror84" [ref=e113] [cursor=pointer]':
+                        - /url: /user/Embarrassed_Mirror84/
+                        - generic [ref=e114]: Embarrassed_Mirror84
+                  - generic [ref=e115]:
+                    - img "Archived post" [ref=e119]
+                    - button "Open user actions" [ref=e123] [cursor=pointer]:
+                      - img [ref=e126]
+                - 'heading "Post Title: New ServiceTitan app is a downgrade…" [level=1] [ref=e130]': New ServiceTitan app is a downgrade…
+                - img "r/HVAC - racKer Rarrel Old ServiceTitan App OLD COUNTRY STORE racker; Barrel New ServiceTitan App uzidle liull ielatic" [ref=e136] [cursor=pointer]
+                - generic [ref=e140]:
+                  - paragraph [ref=e141]: ServiceTitan has the opportunity to be like Cracker Barrel and apologize to its customer base and go back to the old app style.
+                  - paragraph [ref=e142]: 10/10 would rather use carbon copy paper estimates than this new version lol
+                - generic [ref=e143]:
+                  - img [ref=e144]
+                  - generic [ref=e146]: "143"
+                  - img [ref=e147]
+                  - generic [ref=e149]: ·
+                  - img [ref=e150]
+                  - generic [ref=e152]: "49"
+              - separator [ref=e153]
+              - region "Comments" [ref=e157]:
+                - heading "Comments Section" [level=1] [ref=e158]
+                - generic:
+                  - article "Comment from anyusernameleftover 7 months ago" [ref=e160]:
+                    - generic "Metadata for anyusernameleftover's comment" [ref=e161]:
+                      - link "anyusernameleftover's profile --- avatar" [ref=e166] [cursor=pointer]:
+                        - /url: /user/anyusernameleftover/
+                        - img "u/anyusernameleftover avatar" [ref=e169]
+                      - generic [ref=e174]:
+                        - link "anyusernameleftover's profile" [ref=e177] [cursor=pointer]:
+                          - /url: /user/anyusernameleftover/
+                          - text: anyusernameleftover
+                        - generic [ref=e178]: •
+                        - link "7mo ago" [ref=e179] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxo2om/
+                          - time [ref=e180]: 7mo ago
+                    - generic [ref=e181]:
+                      - paragraph [ref=e190]: How could they possibly make it worse than it was?
+                      - generic [ref=e191]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e193] [cursor=pointer]:
+                          - img [ref=e196]
+                        - generic [ref=e199]:
+                          - img [ref=e200]
+                          - generic [ref=e202]: "18"
+                          - img [ref=e203]
+                      - 'article "Comment thread level 1: Reply from correa_aesth 7 months ago" [ref=e209]':
+                        - generic "Metadata for correa_aesth's comment" [ref=e210]:
+                          - link "correa_aesth's profile --- avatar" [ref=e215] [cursor=pointer]:
+                            - /url: /user/correa_aesth/
+                            - generic [ref=e217]:
+                              - img [ref=e219]
+                              - img [ref=e223]
+                              - img [ref=e226]
+                          - generic [ref=e232]:
+                            - link "correa_aesth's profile" [ref=e235] [cursor=pointer]:
+                              - /url: /user/correa_aesth/
+                              - text: correa_aesth
+                            - generic [ref=e236]: •
+                            - link "7mo ago" [ref=e237] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1nyv5j1/comment/nhxz4ta/
+                              - time [ref=e238]: 7mo ago
+                        - generic [ref=e239]:
+                          - generic [ref=e248]:
+                            - paragraph [ref=e249]: Yes the loading screen time is so slow, everything is now slow
+                            - paragraph
+                            - figure [ref=e250]:
+                              - link "video player" [ref=e252] [cursor=pointer]:
+                                - /url: https://external-preview.redd.it/S8H-9XKjYOOyNLrSquHtRAxeX9K9rGcs2iN_r48PrB0.gif?auto=webp&s=a21358cf56a6354e63b198830031aa794fbe252d
+                                - generic [ref=e255]:
+                                  - generic "video player" [ref=e256]
+                                  - button [disabled] [ref=e257]:
+                                    - img [ref=e258]
+                            - paragraph
+                          - generic [ref=e260]:
+                            - button "Toggle Comment Thread" [expanded] [ref=e262] [cursor=pointer]:
+                              - img [ref=e265]
+                            - generic [ref=e268]:
+                              - img [ref=e269]
+                              - generic [ref=e271]: "11"
+                              - img [ref=e272]
+                          - 'article "Comment thread level 2: Reply from TheRevEv 7 months ago" [ref=e278]':
+                            - generic "Metadata for TheRevEv's comment" [ref=e279]:
+                              - link "TheRevEv's profile --- avatar" [ref=e284] [cursor=pointer]:
+                                - /url: /user/TheRevEv/
+                                - img "u/TheRevEv avatar" [ref=e287]
+                              - generic [ref=e292]:
+                                - link "TheRevEv's profile" [ref=e295] [cursor=pointer]:
+                                  - /url: /user/TheRevEv/
+                                  - text: TheRevEv
+                                - generic [ref=e296]: •
+                                - link "7mo ago" [ref=e297] [cursor=pointer]:
+                                  - /url: /r/HVAC/comments/1nyv5j1/comment/nhyhwtc/
+                                  - time [ref=e298]: 7mo ago
+                            - generic [ref=e299]:
+                              - generic [ref=e305]:
+                                - paragraph [ref=e306]: We use service trade. Their actual load screen is a tech staring at his phone.
+                                - figure [ref=e307]:
+                                  - link "Comment Image" [ref=e308] [cursor=pointer]:
+                                    - /url: https://cf.preview.redd.it/new-servicetitan-app-is-a-downgrade-v0-vlbxrxlewctf1.jpeg?width=1080&format=pjpg&auto=webp&s=68950929ee61ec9b8ae13108c9bb312135d8312b
+                                    - img "Comment Image" [ref=e309]
+                              - generic [ref=e313]:
+                                - img [ref=e314]
+                                - generic [ref=e316]: "13"
+                                - img [ref=e317]
+                  - article "Comment from TheRevEv 7 months ago" [ref=e320]:
+                    - generic "Metadata for TheRevEv's comment" [ref=e321]:
+                      - link "TheRevEv's profile --- avatar" [ref=e326] [cursor=pointer]:
+                        - /url: /user/TheRevEv/
+                        - img "u/TheRevEv avatar" [ref=e329]
+                      - generic [ref=e334]:
+                        - link "TheRevEv's profile" [ref=e337] [cursor=pointer]:
+                          - /url: /user/TheRevEv/
+                          - text: TheRevEv
+                        - generic [ref=e338]: •
+                        - link "7mo ago" [ref=e339] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxn5s9/
+                          - time [ref=e340]: 7mo ago
+                    - generic [ref=e341]:
+                      - generic [ref=e349]:
+                        - paragraph [ref=e350]: I'm fully convinced that none of these service trackers actually give a shit about the mobile, technician-end experience. I've used several, and the mobile apps are always hot garbage.
+                        - paragraph [ref=e351]: They only focus on the desktop experience because the office people are who buy them.
+                      - generic [ref=e352]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e354] [cursor=pointer]:
+                          - img [ref=e357]
+                        - generic [ref=e360]:
+                          - img [ref=e361]
+                          - generic [ref=e363]: "73"
+                          - img [ref=e364]
+                      - generic [ref=e366]:
+                        - 'article "Comment thread level 1: Reply from AppropriateTouching 7 months ago" [ref=e368]':
+                          - generic "Metadata for AppropriateTouching's comment" [ref=e369]:
+                            - link "AppropriateTouching's profile --- avatar" [ref=e374] [cursor=pointer]:
+                              - /url: /user/AppropriateTouching/
+                              - img [ref=e379]
+                            - generic [ref=e385]:
+                              - link "AppropriateTouching's profile" [ref=e388] [cursor=pointer]:
+                                - /url: /user/AppropriateTouching/
+                                - text: AppropriateTouching
+                              - generic [ref=e389]: •
+                              - link "7mo ago" [ref=e390] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1nyv5j1/comment/nhxx85b/
+                                - time [ref=e391]: 7mo ago
+                          - generic [ref=e392]:
+                            - paragraph [ref=e399]: Seriously. The web version is mediocre but the mobile one is a nightmare. Our guys can barely keep their punches straight let alone navigate this pile of garbage.
+                            - generic [ref=e403]:
+                              - img [ref=e404]
+                              - generic [ref=e406]: "15"
+                              - img [ref=e407]
+                        - 'article "Comment thread level 1: Reply from Majin_Sus 7 months ago" [ref=e410]':
+                          - generic "Metadata for Majin_Sus's comment" [ref=e411]:
+                            - link "Majin_Sus's profile --- avatar" [ref=e416] [cursor=pointer]:
+                              - /url: /user/Majin_Sus/
+                              - img [ref=e421]
+                            - generic [ref=e427]:
+                              - link "Majin_Sus's profile" [ref=e430] [cursor=pointer]:
+                                - /url: /user/Majin_Sus/
+                                - text: Majin_Sus
+                              - generic [ref=e431]: •
+                              - link "7mo ago" [ref=e432] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1nyv5j1/comment/nhz3e55/
+                                - time [ref=e433]: 7mo ago
+                          - generic [ref=e434]:
+                            - paragraph [ref=e441]: The desktop version sucks too dont worry.
+                            - generic [ref=e445]:
+                              - img [ref=e446]
+                              - generic [ref=e448]: "4"
+                              - img [ref=e449]
+                        - 'article "Comment thread level 1: Reply from [deleted] 7 months ago" [ref=e454]':
+                          - generic "Metadata for [deleted]'s comment" [ref=e455]:
+                            - img [ref=e464]
+                            - generic [ref=e470]:
+                              - generic [ref=e473]: "[deleted]"
+                              - generic [ref=e474]: •
+                              - time [ref=e475]: 7mo ago
+                          - generic [ref=e476]:
+                            - paragraph [ref=e484]: Comment deleted by user
+                            - button "2 more replies" [ref=e491] [cursor=pointer]:
+                              - generic [ref=e494]:
+                                - generic [ref=e496]:
+                                  - generic [ref=e497]: "2"
+                                  - text: more replies
+                                - img [ref=e498]
+                  - article "Comment from Captain_Shifty 7 months ago" [ref=e501]:
+                    - generic "Metadata for Captain_Shifty's comment" [ref=e502]:
+                      - link "Captain_Shifty's profile --- avatar" [ref=e507] [cursor=pointer]:
+                        - /url: /user/Captain_Shifty/
+                        - img [ref=e512]
+                      - generic [ref=e518]:
+                        - link "Captain_Shifty's profile" [ref=e521] [cursor=pointer]:
+                          - /url: /user/Captain_Shifty/
+                          - text: Captain_Shifty
+                        - generic [ref=e522]: •
+                        - link "7mo ago" [ref=e523] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxl8uf/
+                          - time [ref=e524]: 7mo ago
+                    - generic [ref=e525]:
+                      - paragraph [ref=e534]: Wow super tech much....I'm out here with carbon copy paper book.
+                      - generic [ref=e535]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e537] [cursor=pointer]:
+                          - img [ref=e540]
+                        - generic [ref=e543]:
+                          - img [ref=e544]
+                          - generic [ref=e546]: "34"
+                          - img [ref=e547]
+                      - generic [ref=e549]:
+                        - 'article "Comment thread level 1: Reply from COUNTRYCOWBOY01 7 months ago" [ref=e551]':
+                          - generic "Metadata for COUNTRYCOWBOY01's comment" [ref=e552]:
+                            - link "COUNTRYCOWBOY01's profile --- avatar" [ref=e557] [cursor=pointer]:
+                              - /url: /user/COUNTRYCOWBOY01/
+                              - generic [ref=e559]:
+                                - img [ref=e561]
+                                - img [ref=e565]
+                                - img [ref=e568]
+                            - generic [ref=e574]:
+                              - link "COUNTRYCOWBOY01's profile" [ref=e577] [cursor=pointer]:
+                                - /url: /user/COUNTRYCOWBOY01/
+                                - text: COUNTRYCOWBOY01
+                              - generic [ref=e578]: •
+                              - link "7mo ago" [ref=e579] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1nyv5j1/comment/nhxmpeo/
+                                - time [ref=e580]: 7mo ago
+                          - generic [ref=e581]:
+                            - paragraph [ref=e590]: I bet you fought like hell to keep your stone tablet and chisel. What was Jesus like during company meetings?
+                            - generic [ref=e591]:
+                              - button "Toggle Comment Thread" [expanded] [ref=e593] [cursor=pointer]:
+                                - img [ref=e596]
+                              - generic [ref=e599]:
+                                - img [ref=e600]
+                                - generic [ref=e602]: "22"
+                                - img [ref=e603]
+                            - 'article "Comment thread level 2: Reply from Captain_Shifty 7 months ago" [ref=e609]':
+                              - generic "Metadata for Captain_Shifty's comment" [ref=e610]:
+                                - link "Captain_Shifty's profile --- avatar" [ref=e615] [cursor=pointer]:
+                                  - /url: /user/Captain_Shifty/
+                                  - img [ref=e620]
+                                - generic [ref=e626]:
+                                  - link "Captain_Shifty's profile" [ref=e629] [cursor=pointer]:
+                                    - /url: /user/Captain_Shifty/
+                                    - text: Captain_Shifty
+                                  - generic [ref=e630]: •
+                                  - link "7mo ago" [ref=e631] [cursor=pointer]:
+                                    - /url: /r/HVAC/comments/1nyv5j1/comment/nhxtw05/
+                                    - time [ref=e632]: 7mo ago
+                              - generic [ref=e633]:
+                                - paragraph [ref=e642]: Trades gone soft. I'm out here mining and forging my own copper line sets while you new hires are getting blisters on their thumbs from their iPads.....I haven't even taken a day off in a century.
+                                - generic [ref=e646]:
+                                  - img [ref=e647]
+                                  - generic [ref=e649]: "19"
+                                  - img [ref=e650]
+                                - button "5 more replies" [ref=e658] [cursor=pointer]:
+                                  - generic [ref=e661]:
+                                    - generic [ref=e663]:
+                                      - generic [ref=e664]: "5"
+                                      - text: more replies
+                                    - img [ref=e665]
+                        - 'article "Comment thread level 1: Reply from Eastern-Mountain-802 7 months ago" [ref=e670]':
+                          - generic "Metadata for Eastern-Mountain-802's comment" [ref=e671]:
+                            - link "Eastern-Mountain-802's profile --- avatar" [ref=e676] [cursor=pointer]:
+                              - /url: /user/Eastern-Mountain-802/
+                              - img "u/Eastern-Mountain-802 avatar" [ref=e679]
+                            - generic [ref=e684]:
+                              - link "Eastern-Mountain-802's profile" [ref=e687] [cursor=pointer]:
+                                - /url: /user/Eastern-Mountain-802/
+                                - text: Eastern-Mountain-802
+                              - generic [ref=e688]: •
+                              - link "7mo ago" [ref=e689] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1nyv5j1/comment/nhz9ihb/
+                                - time [ref=e690]: 7mo ago
+                          - generic [ref=e691]:
+                            - paragraph [ref=e698]: You’re way behind the times. You should upgrade to NCR paper.
+                            - generic [ref=e702]:
+                              - img [ref=e703]
+                              - generic [ref=e705]: "2"
+                              - img [ref=e706]
+                  - article "Comment from BeezerTwelveIV 7 months ago" [ref=e709]:
+                    - generic "Metadata for BeezerTwelveIV's comment" [ref=e710]:
+                      - link "BeezerTwelveIV's profile --- avatar" [ref=e715] [cursor=pointer]:
+                        - /url: /user/BeezerTwelveIV/
+                        - img [ref=e720]
+                      - generic [ref=e726]:
+                        - link "BeezerTwelveIV's profile" [ref=e729] [cursor=pointer]:
+                          - /url: /user/BeezerTwelveIV/
+                          - text: BeezerTwelveIV
+                        - generic [ref=e730]: •
+                        - link "7mo ago" [ref=e731] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxjfds/
+                          - time [ref=e732]: 7mo ago
+                    - generic [ref=e733]:
+                      - paragraph [ref=e742]: I instantly went back to the old one and told them I refuse until it actually functions
+                      - generic [ref=e743]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e745] [cursor=pointer]:
+                          - img [ref=e748]
+                        - generic [ref=e751]:
+                          - img [ref=e752]
+                          - generic [ref=e754]: "15"
+                          - img [ref=e755]
+                      - 'article "Comment thread level 1: Reply from Ready_Trainer5521 7 months ago" [ref=e761]':
+                        - generic "Metadata for Ready_Trainer5521's comment" [ref=e762]:
+                          - link "Ready_Trainer5521's profile --- avatar" [ref=e767] [cursor=pointer]:
+                            - /url: /user/Ready_Trainer5521/
+                            - img "u/Ready_Trainer5521 avatar" [ref=e770]
+                          - generic [ref=e775]:
+                            - link "Ready_Trainer5521's profile" [ref=e778] [cursor=pointer]:
+                              - /url: /user/Ready_Trainer5521/
+                              - text: Ready_Trainer5521
+                            - generic [ref=e779]: •
+                            - link "7mo ago" [ref=e780] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1nyv5j1/comment/nhyl3tl/
+                              - time [ref=e781]: 7mo ago
+                        - generic [ref=e782]:
+                          - paragraph [ref=e791]: How?
+                          - generic [ref=e792]:
+                            - button "Toggle Comment Thread" [expanded] [ref=e794] [cursor=pointer]:
+                              - img [ref=e797]
+                            - generic [ref=e800]:
+                              - img [ref=e801]
+                              - generic [ref=e803]: "5"
+                              - img [ref=e804]
+                          - 'article "Comment thread level 2: Reply from BeezerTwelveIV 7 months ago" [ref=e810]':
+                            - generic "Metadata for BeezerTwelveIV's comment" [ref=e811]:
+                              - link "BeezerTwelveIV's profile --- avatar" [ref=e816] [cursor=pointer]:
+                                - /url: /user/BeezerTwelveIV/
+                                - img [ref=e821]
+                              - generic [ref=e827]:
+                                - link "BeezerTwelveIV's profile" [ref=e830] [cursor=pointer]:
+                                  - /url: /user/BeezerTwelveIV/
+                                  - text: BeezerTwelveIV
+                                - generic [ref=e831]: •
+                                - link "7mo ago" [ref=e832] [cursor=pointer]:
+                                  - /url: /r/HVAC/comments/1nyv5j1/comment/nhz7u10/
+                                  - time [ref=e833]: 7mo ago
+                            - generic [ref=e834]:
+                              - paragraph [ref=e841]: I mostly experiences lag on every screen and it was so frustrating I couldn’t even finish one invoice. Runs like 33% speed compared to the normal app
+                              - generic [ref=e845]:
+                                - img [ref=e846]
+                                - generic [ref=e848]: "2"
+                                - img [ref=e849]
+                  - article "Comment from Krimsonkreationz 7 months ago" [ref=e852]:
+                    - generic "Metadata for Krimsonkreationz's comment" [ref=e853]:
+                      - link "Krimsonkreationz's profile --- avatar" [ref=e858] [cursor=pointer]:
+                        - /url: /user/Krimsonkreationz/
+                        - generic [ref=e860]:
+                          - img [ref=e862]
+                          - img [ref=e866]
+                          - img [ref=e869]
+                      - generic [ref=e875]:
+                        - link "Krimsonkreationz's profile" [ref=e878] [cursor=pointer]:
+                          - /url: /user/Krimsonkreationz/
+                          - text: Krimsonkreationz
+                        - generic [ref=e879]: •
+                        - link "7mo ago" [ref=e880] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxwlra/
+                          - time [ref=e881]: 7mo ago
+                    - generic [ref=e882]:
+                      - paragraph [ref=e889]: Are you talking about the "new" app, called Field? I've been using it for at least a month or two now, and yes it sucks compared to the old service titan app.
+                      - generic [ref=e893]:
+                        - img [ref=e894]
+                        - generic [ref=e896]: "6"
+                        - img [ref=e897]
+                  - article "Comment from Falkon_Klan 7 months ago" [ref=e900]:
+                    - generic "Metadata for Falkon_Klan's comment" [ref=e901]:
+                      - link "Falkon_Klan's profile --- avatar" [ref=e906] [cursor=pointer]:
+                        - /url: /user/Falkon_Klan/
+                        - img [ref=e911]
+                      - generic [ref=e917]:
+                        - link "Falkon_Klan's profile" [ref=e920] [cursor=pointer]:
+                          - /url: /user/Falkon_Klan/
+                          - text: Falkon_Klan
+                        - generic [ref=e921]: •
+                        - link "7mo ago" [ref=e922] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxin40/
+                          - time [ref=e923]: 7mo ago
+                    - generic [ref=e924]:
+                      - paragraph [ref=e931]: When did they update?
+                      - generic [ref=e935]:
+                        - img [ref=e936]
+                        - generic [ref=e938]: "5"
+                        - img [ref=e939]
+                  - article "Comment from yourmememan 7 months ago" [ref=e942]:
+                    - generic "Metadata for yourmememan's comment" [ref=e943]:
+                      - link "yourmememan's profile --- avatar" [ref=e948] [cursor=pointer]:
+                        - /url: /user/yourmememan/
+                        - img [ref=e953]
+                      - generic [ref=e959]:
+                        - link "yourmememan's profile" [ref=e962] [cursor=pointer]:
+                          - /url: /user/yourmememan/
+                          - text: yourmememan
+                        - generic [ref=e963]: •
+                        - link "7mo ago" [ref=e964] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhya2i6/
+                          - time [ref=e965]: 7mo ago
+                    - generic [ref=e966]:
+                      - paragraph [ref=e975]: Can’t be as bad as field edge
+                      - generic [ref=e976]:
+                        - button "Toggle Comment Thread" [expanded] [ref=e978] [cursor=pointer]:
+                          - img [ref=e981]
+                        - generic [ref=e984]:
+                          - img [ref=e985]
+                          - generic [ref=e987]: "5"
+                          - img [ref=e988]
+                      - generic [ref=e990]:
+                        - 'article "Comment thread level 1: Reply from kurtxrambus 7 months ago" [ref=e992]':
+                          - generic "Metadata for kurtxrambus's comment" [ref=e993]:
+                            - link "kurtxrambus's profile --- avatar" [ref=e998] [cursor=pointer]:
+                              - /url: /user/kurtxrambus/
+                              - img "u/kurtxrambus avatar" [ref=e1001]
+                            - generic [ref=e1006]:
+                              - link "kurtxrambus's profile" [ref=e1009] [cursor=pointer]:
+                                - /url: /user/kurtxrambus/
+                                - text: kurtxrambus
+                              - generic [ref=e1010]: •
+                              - link "7mo ago" [ref=e1011] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1nyv5j1/comment/ni0mi1f/
+                                - time [ref=e1012]: 7mo ago
+                          - generic [ref=e1013]:
+                            - paragraph [ref=e1020]: Nothing is. Field edge was a shit show.
+                            - generic [ref=e1024]:
+                              - img [ref=e1025]
+                              - generic [ref=e1027]: "2"
+                              - img [ref=e1028]
+                        - button "1 more reply" [ref=e1035] [cursor=pointer]:
+                          - generic [ref=e1038]:
+                            - generic [ref=e1040]:
+                              - generic [ref=e1041]: "1"
+                              - text: more reply
+                            - img [ref=e1042]
+                  - article "Comment from [deleted] 7 months ago" [ref=e1045]:
+                    - generic "Metadata for [deleted]'s comment" [ref=e1046]:
+                      - img [ref=e1055]
+                      - generic [ref=e1061]:
+                        - generic [ref=e1064]: "[deleted]"
+                        - generic [ref=e1065]: •
+                        - link "7mo ago" [ref=e1066] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxjvw5/
+                          - time [ref=e1067]: 7mo ago
+                    - generic [ref=e1068]:
+                      - paragraph [ref=e1075]: The X-Games made something like that, from old school logo to soulless minimalistic logo. Now is just white x on a black background. I swear from colorless clothes, beige houses and soulless logos corporation are making everything dull and boring
+                      - generic [ref=e1079]:
+                        - img [ref=e1080]
+                        - generic [ref=e1082]: "2"
+                        - img [ref=e1083]
+                  - article "Comment from green_acolyte 7 months ago" [ref=e1086]:
+                    - generic "Metadata for green_acolyte's comment" [ref=e1087]:
+                      - link "green_acolyte's profile --- avatar" [ref=e1092] [cursor=pointer]:
+                        - /url: /user/green_acolyte/
+                        - img [ref=e1097]
+                      - generic [ref=e1103]:
+                        - link "green_acolyte's profile" [ref=e1106] [cursor=pointer]:
+                          - /url: /user/green_acolyte/
+                          - text: green_acolyte
+                        - generic [ref=e1107]: •
+                        - link "7mo ago" [ref=e1108] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhxtsxr/
+                          - time [ref=e1109]: 7mo ago
+                    - generic [ref=e1110]:
+                      - paragraph [ref=e1117]: The original app was a downgrade from paper tickets so the trend continues
+                      - generic [ref=e1121]:
+                        - img [ref=e1122]
+                        - generic [ref=e1124]: "2"
+                        - img [ref=e1125]
+                  - article "Comment from integrity0727 7 months ago" [ref=e1128]:
+                    - generic "Metadata for integrity0727's comment" [ref=e1129]:
+                      - link "integrity0727's profile --- avatar" [ref=e1134] [cursor=pointer]:
+                        - /url: /user/integrity0727/
+                        - img [ref=e1139]
+                      - generic [ref=e1145]:
+                        - link "integrity0727's profile" [ref=e1148] [cursor=pointer]:
+                          - /url: /user/integrity0727/
+                          - text: integrity0727
+                        - generic [ref=e1149]: •
+                        - link "7mo ago" [ref=e1150] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhz4m1k/
+                          - time [ref=e1151]: 7mo ago
+                    - generic [ref=e1152]:
+                      - paragraph [ref=e1159]: The final contractor that I worked for used ST. I didn't like it at all. The battery in the IPad would be dead long before my shift was over. The only feature I liked was that the customer could see my location in relation to their home once I was on my way.
+                      - generic [ref=e1163]:
+                        - img [ref=e1164]
+                        - generic [ref=e1166]: "2"
+                        - img [ref=e1167]
+                  - article "Comment from 0x582 7 months ago" [ref=e1170]:
+                    - generic "Metadata for 0x582's comment" [ref=e1171]:
+                      - link "0x582's profile --- avatar" [ref=e1176] [cursor=pointer]:
+                        - /url: /user/0x582/
+                        - img "u/0x582 avatar" [ref=e1179]
+                      - generic [ref=e1184]:
+                        - link "0x582's profile" [ref=e1187] [cursor=pointer]:
+                          - /url: /user/0x582/
+                          - text: "0x582"
+                        - generic [ref=e1188]: •
+                        - link "7mo ago" [ref=e1189] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nhzjyx3/
+                          - time [ref=e1190]: 7mo ago
+                    - generic [ref=e1191]:
+                      - paragraph [ref=e1198]: ITS SO FUCKING SHITTY and not just visually like the cracker barrel logo. From a functional standpoint its UNUSABLE!!! Takes 3x as long to put together a damn estimate. Nothing loads everything constantly lagging. Whoever greenlighted this deserves to be tarred and feathered
+                      - generic [ref=e1202]:
+                        - img [ref=e1203]
+                        - generic [ref=e1205]: "2"
+                        - img [ref=e1206]
+                  - article "Comment from Quiet-Variety-3909 7 months ago" [ref=e1209]:
+                    - generic "Metadata for Quiet-Variety-3909's comment" [ref=e1210]:
+                      - link "Quiet-Variety-3909's profile --- avatar" [ref=e1215] [cursor=pointer]:
+                        - /url: /user/Quiet-Variety-3909/
+                        - img "u/Quiet-Variety-3909 avatar" [ref=e1218]
+                      - generic [ref=e1223]:
+                        - link "Quiet-Variety-3909's profile" [ref=e1226] [cursor=pointer]:
+                          - /url: /user/Quiet-Variety-3909/
+                          - text: Quiet-Variety-3909
+                        - generic [ref=e1227]: •
+                        - link "7mo ago" [ref=e1228] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/ni0gwkj/
+                          - time [ref=e1229]: 7mo ago
+                    - generic [ref=e1230]:
+                      - paragraph [ref=e1239]: We use Housecall Pro. Been using it for the last 8 months and there are some issues but for the most part it’s works well
+                      - generic [ref=e1243]:
+                        - img [ref=e1244]
+                        - generic [ref=e1246]: "2"
+                        - img [ref=e1247]
+                      - button "1 more reply" [ref=e1255] [cursor=pointer]:
+                        - generic [ref=e1258]:
+                          - generic [ref=e1260]:
+                            - generic [ref=e1261]: "1"
+                            - text: more reply
+                          - img [ref=e1262]
+                  - article "Comment from Kgbusiness 7 months ago" [ref=e1265]:
+                    - generic "Metadata for Kgbusiness's comment" [ref=e1266]:
+                      - link "Kgbusiness's profile --- avatar" [ref=e1271] [cursor=pointer]:
+                        - /url: /user/Kgbusiness/
+                        - img "u/Kgbusiness avatar" [ref=e1274]
+                      - generic [ref=e1279]:
+                        - link "Kgbusiness's profile" [ref=e1282] [cursor=pointer]:
+                          - /url: /user/Kgbusiness/
+                          - text: Kgbusiness
+                        - generic [ref=e1283]: •
+                        - link "7mo ago" [ref=e1284] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1nyv5j1/comment/nlenud8/
+                          - time [ref=e1285]: 7mo ago
+                    - generic [ref=e1286]:
+                      - paragraph [ref=e1293]: Why don’t you look at servicestorm.io… better app, 98% of the tech, easy to work with, and 1/10 the cost
+                      - generic [ref=e1297]:
+                        - img [ref=e1298]
+                        - generic [ref=e1300]: "2"
+                        - img [ref=e1301]
+            - generic [ref=e1306]:
+              - generic [ref=e1307]:
+                - complementary [ref=e1310]:
+                  - generic [ref=e1311]:
+                    - generic [ref=e1312]: New to Reddit?
+                    - paragraph [ref=e1313]: Create your account and connect with a world of communities.
+                  - generic [ref=e1314]:
+                    - generic [ref=e1322]:
+                      - button "Continue with Google. Opens in new tab" [ref=e1324] [cursor=pointer]:
+                        - generic [ref=e1326]:
+                          - img [ref=e1328]
+                          - generic [ref=e1335]: Continue with Google
+                      - iframe
+                    - link "Continue with Email" [ref=e1337] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e1340]:
+                        - img [ref=e1341]
+                        - generic [ref=e1343]: Continue with Email
+                  - link "Continue with Phone Number" [ref=e1346] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e1349]:
+                      - img [ref=e1350]
+                      - generic [ref=e1353]: Continue with Phone Number
+                  - generic [ref=e1354]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e1355] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e1356] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Answers Section" [ref=e1358]:
+                  - heading "Related Answers Section" [level=1] [ref=e1359]
+                  - generic [ref=e1360]:
+                    - img [ref=e1362]
+                    - generic [ref=e1364]: Related Answers
+                  - generic [ref=e1365]:
+                    - link "ServiceTitan app feedback and alternatives" [ref=e1367] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/4de12638-a22c-4340-a470-481c5fd9d1e1/?q=ServiceTitan+app+feedback+and+alternatives&source=PDP
+                      - generic [ref=e1370]: ServiceTitan app feedback and alternatives
+                      - img [ref=e1373]
+                    - link "ServiceTitan vs other HVAC software" [ref=e1376] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/2fdd744e-7d78-491d-80b2-1c1bc8e9fe6d/?q=ServiceTitan+vs+other+HVAC+software&source=PDP
+                      - generic [ref=e1379]: ServiceTitan vs other HVAC software
+                      - img [ref=e1382]
+                    - link "Best HVAC service software options" [ref=e1385] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/c46370b4-8d49-4f91-bc12-5d8b58fb9b22/?q=Best+HVAC+service+software+options&source=PDP
+                      - generic [ref=e1388]: Best HVAC service software options
+                      - img [ref=e1391]
+                    - link "Most common HVAC troubleshooting tips" [ref=e1394] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/2b407963-2b83-40c4-85b4-184c5187fbac/?q=Most+common+HVAC+troubleshooting+tips&source=PDP
+                      - generic [ref=e1397]: Most common HVAC troubleshooting tips
+                      - img [ref=e1400]
+                    - link "Innovative HVAC technologies to watch" [ref=e1403] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/4fd29538-1fd1-4261-81f3-8ad93b64fe52/?q=Innovative+HVAC+technologies+to+watch&source=PDP
+                      - generic [ref=e1406]: Innovative HVAC technologies to watch
+                      - img [ref=e1409]
+                - complementary "Related Posts Section" [ref=e1411]:
+                  - list [ref=e1417]:
+                    - listitem [ref=e1418]:
+                      - generic [ref=e1419]:
+                        - generic [ref=e1420]:
+                          - link "New business possibly using Service Titan. Thoughts?" [ref=e1421] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/jlq50i/new_business_possibly_using_service_titan_thoughts/
+                            - generic [ref=e1422]:
+                              - generic: New business possibly using Service Titan. Thoughts?
+                          - generic [ref=e1424]:
+                            - generic [ref=e1426]:
+                              - link "r/HVAC" [ref=e1427] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1431]: r/HVAC
+                              - generic [ref=e1432]: •
+                              - time [ref=e1434]: 6y ago
+                            - link "List item post - New business possibly using Service Titan. Thoughts?" [ref=e1436] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/jlq50i/new_business_possibly_using_service_titan_thoughts/
+                              - heading "List item post - New business possibly using Service Titan. Thoughts?" [level=3] [ref=e1439]: New business possibly using Service Titan. Thoughts?
+                          - generic [ref=e1441]:
+                            - generic [ref=e1442]: "3"
+                            - text: upvotes ·
+                            - generic [ref=e1443]: "13"
+                            - text: comments
+                        - separator [ref=e1444]
+                    - listitem [ref=e1445]:
+                      - generic [ref=e1446]:
+                        - generic [ref=e1447]:
+                          - link "Redesigned this MS store section😝" [ref=e1448] [cursor=pointer]:
+                            - /url: /r/webdesign/comments/1nypmdz/redesigned_this_ms_store_section/
+                            - generic [ref=e1449]:
+                              - generic: Redesigned this MS store section😝
+                          - generic [ref=e1450]:
+                            - generic [ref=e1451]:
+                              - generic [ref=e1453]:
+                                - link "r/webdesign" [ref=e1454] [cursor=pointer]:
+                                  - /url: /r/webdesign/
+                                  - img [ref=e1458]
+                                  - generic [ref=e1460]: r/webdesign
+                                - generic [ref=e1461]: •
+                                - time [ref=e1463]: 7mo ago
+                              - link "List item post - Redesigned this MS store section😝" [ref=e1465] [cursor=pointer]:
+                                - /url: /r/webdesign/comments/1nypmdz/redesigned_this_ms_store_section/
+                                - heading "List item post - Redesigned this MS store section😝" [level=3] [ref=e1468]: Redesigned this MS store section😝
+                            - generic [ref=e1470]:
+                              - link "r/webdesign - Redesigned this MS store section😝" [ref=e1471] [cursor=pointer]:
+                                - /url: /r/webdesign/comments/1nypmdz/redesigned_this_ms_store_section/
+                                - img "r/webdesign - Redesigned this MS store section😝" [ref=e1472]
+                              - generic:
+                                - img
+                                - generic: "2"
+                          - generic [ref=e1474]:
+                            - generic [ref=e1475]: "6"
+                            - text: comments
+                        - separator [ref=e1476]
+                    - listitem [ref=e1477]:
+                      - generic [ref=e1478]:
+                        - generic [ref=e1479]:
+                          - link "Anyone use Service Titan?" [ref=e1480] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/fskapp/anyone_use_service_titan/
+                            - generic [ref=e1481]:
+                              - generic: Anyone use Service Titan?
+                          - generic [ref=e1483]:
+                            - generic [ref=e1485]:
+                              - link "r/HVAC" [ref=e1486] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1490]: r/HVAC
+                              - generic [ref=e1491]: •
+                              - time [ref=e1493]: 6y ago
+                            - link "List item post - Anyone use Service Titan?" [ref=e1495] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/fskapp/anyone_use_service_titan/
+                              - heading "List item post - Anyone use Service Titan?" [level=3] [ref=e1498]: Anyone use Service Titan?
+                          - generic [ref=e1500]:
+                            - generic [ref=e1501]: "1"
+                            - text: upvote ·
+                            - generic [ref=e1502]: "19"
+                            - text: comments
+                        - separator [ref=e1503]
+                    - listitem
+                    - listitem [ref=e1504]:
+                      - generic [ref=e1505]:
+                        - generic [ref=e1506]:
+                          - link "Techs/office guys how has service titan worked for you regarding your hours?" [ref=e1507] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/y78vck/techsoffice_guys_how_has_service_titan_worked_for/
+                            - generic [ref=e1508]:
+                              - generic: Techs/office guys how has service titan worked for you regarding your hours?
+                          - generic [ref=e1510]:
+                            - generic [ref=e1512]:
+                              - link "r/HVAC" [ref=e1513] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1517]: r/HVAC
+                              - generic [ref=e1518]: •
+                              - time [ref=e1520]: 4y ago
+                            - link "List item post - Techs/office guys how has service titan worked for you rega..." [ref=e1522] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/y78vck/techsoffice_guys_how_has_service_titan_worked_for/
+                              - heading "List item post - Techs/office guys how has service titan worked for you rega..." [level=3] [ref=e1525]: Techs/office guys how has service titan worked for you regarding your hours?
+                          - generic [ref=e1527]:
+                            - generic [ref=e1528]: "10"
+                            - text: upvotes ·
+                            - generic [ref=e1529]: "28"
+                            - text: comments
+                        - separator [ref=e1530]
+                    - listitem [ref=e1531]:
+                      - generic [ref=e1532]:
+                        - generic [ref=e1533]:
+                          - link "Service titan field pro" [ref=e1534] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1s53gd8/service_titan_field_pro/
+                            - generic [ref=e1535]:
+                              - generic: Service titan field pro
+                          - generic [ref=e1537]:
+                            - generic [ref=e1539]:
+                              - link "r/HVAC" [ref=e1540] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1544]: r/HVAC
+                              - generic [ref=e1545]: •
+                              - time [ref=e1547]: 2mo ago
+                            - link "List item post - Service titan field pro" [ref=e1549] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1s53gd8/service_titan_field_pro/
+                              - heading "List item post - Service titan field pro" [level=3] [ref=e1552]: Service titan field pro
+                          - generic [ref=e1554]:
+                            - generic [ref=e1555]: "17"
+                            - text: upvotes ·
+                            - generic [ref=e1556]: "38"
+                            - text: comments
+                        - separator [ref=e1557]
+                    - listitem [ref=e1558]:
+                      - generic [ref=e1559]:
+                        - generic [ref=e1560]:
+                          - link "Service Titan New Customer" [ref=e1561] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1o3n5uf/service_titan_new_customer/
+                            - generic [ref=e1562]:
+                              - generic: Service Titan New Customer
+                          - generic [ref=e1564]:
+                            - generic [ref=e1566]:
+                              - link "r/HVAC" [ref=e1567] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1571]: r/HVAC
+                              - generic [ref=e1572]: •
+                              - time [ref=e1574]: 7mo ago
+                            - link "List item post - Service Titan New Customer" [ref=e1576] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1o3n5uf/service_titan_new_customer/
+                              - heading "List item post - Service Titan New Customer" [level=3] [ref=e1579]: Service Titan New Customer
+                          - generic [ref=e1581]:
+                            - generic [ref=e1582]: "5"
+                            - text: upvotes ·
+                            - generic [ref=e1583]: "17"
+                            - text: comments
+                        - separator [ref=e1584]
+                    - listitem [ref=e1585]:
+                      - generic [ref=e1586]:
+                        - generic [ref=e1587]:
+                          - link "Simhub is not detecting the new Hue Bridge Pro" [ref=e1588] [cursor=pointer]:
+                            - /url: /r/simracing/comments/1nysth5/simhub_is_not_detecting_the_new_hue_bridge_pro/
+                            - generic [ref=e1589]:
+                              - generic: Simhub is not detecting the new Hue Bridge Pro
+                          - generic [ref=e1591]:
+                            - generic [ref=e1593]:
+                              - link "r/simracing" [ref=e1594] [cursor=pointer]:
+                                - /url: /r/simracing/
+                                - generic [ref=e1598]: r/simracing
+                              - generic [ref=e1599]: •
+                              - time [ref=e1601]: 7mo ago
+                            - link "List item post - Simhub is not detecting the new Hue Bridge Pro" [ref=e1603] [cursor=pointer]:
+                              - /url: /r/simracing/comments/1nysth5/simhub_is_not_detecting_the_new_hue_bridge_pro/
+                              - heading "List item post - Simhub is not detecting the new Hue Bridge Pro" [level=3] [ref=e1606]: Simhub is not detecting the new Hue Bridge Pro
+                          - generic [ref=e1608]:
+                            - generic [ref=e1609]: "1"
+                            - text: upvote ·
+                            - generic [ref=e1610]: "2"
+                            - text: comments
+                        - separator [ref=e1611]
+                    - listitem [ref=e1612]:
+                      - generic [ref=e1613]:
+                        - generic [ref=e1614]:
+                          - link "What's your biggest problem with Service Titan?" [ref=e1615] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1c4g3pi/whats_your_biggest_problem_with_service_titan/
+                            - generic [ref=e1616]:
+                              - generic: What's your biggest problem with Service Titan?
+                          - generic [ref=e1618]:
+                            - generic [ref=e1620]:
+                              - link "r/HVAC" [ref=e1621] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1625]: r/HVAC
+                              - generic [ref=e1626]: •
+                              - time [ref=e1628]: 2y ago
+                            - link "List item post - What's your biggest problem with Service Titan?" [ref=e1630] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1c4g3pi/whats_your_biggest_problem_with_service_titan/
+                              - heading "List item post - What's your biggest problem with Service Titan?" [level=3] [ref=e1633]: What's your biggest problem with Service Titan?
+                          - generic [ref=e1635]:
+                            - generic [ref=e1636]: "10"
+                            - text: upvotes ·
+                            - generic [ref=e1637]: "79"
+                            - text: comments
+                        - separator [ref=e1638]
+                    - listitem
+                    - listitem [ref=e1639]:
+                      - generic [ref=e1640]:
+                        - generic [ref=e1641]:
+                          - link "Inventory Software" [ref=e1642] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/vm9erz/inventory_software/
+                            - generic [ref=e1643]:
+                              - generic: Inventory Software
+                          - generic [ref=e1645]:
+                            - generic [ref=e1647]:
+                              - link "r/HVAC" [ref=e1648] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1652]: r/HVAC
+                              - generic [ref=e1653]: •
+                              - time [ref=e1655]: 4y ago
+                            - link "List item post - Inventory Software" [ref=e1657] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/vm9erz/inventory_software/
+                              - heading "List item post - Inventory Software" [level=3] [ref=e1660]: Inventory Software
+                          - generic [ref=e1662]:
+                            - generic [ref=e1663]: "4"
+                            - text: upvotes ·
+                            - generic [ref=e1664]: "9"
+                            - text: comments
+                        - separator [ref=e1665]
+                    - listitem [ref=e1666]:
+                      - generic [ref=e1667]:
+                        - generic [ref=e1668]:
+                          - link "When I say I work on everything, I meant it." [ref=e1669] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1rj9xmk/when_i_say_i_work_on_everything_i_meant_it/
+                            - generic [ref=e1670]:
+                              - generic: When I say I work on everything, I meant it.
+                          - generic [ref=e1672]:
+                            - generic [ref=e1674]:
+                              - link "r/HVAC" [ref=e1675] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e1679]: r/HVAC
+                              - generic [ref=e1680]: •
+                              - time [ref=e1682]: 2mo ago
+                            - link "List item post - When I say I work on everything, I meant it." [ref=e1684] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1rj9xmk/when_i_say_i_work_on_everything_i_meant_it/
+                              - heading "List item post - When I say I work on everything, I meant it." [level=3] [ref=e1687]: When I say I work on everything, I meant it.
+                          - generic [ref=e1689]:
+                            - generic [ref=e1690]: "75"
+                            - text: upvotes ·
+                            - generic [ref=e1691]: "36"
+                            - text: comments
+                        - separator [ref=e1692]
+                    - listitem [ref=e1693]:
+                      - generic [ref=e1694]:
+                        - generic [ref=e1695]:
+                          - link "How often does this happen" [ref=e1696] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1pr0a7k/how_often_does_this_happen/
+                            - generic [ref=e1697]:
+                              - generic: How often does this happen
+                          - generic [ref=e1698]:
+                            - generic [ref=e1699]:
+                              - generic [ref=e1701]:
+                                - link "r/HVAC" [ref=e1702] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e1706]: r/HVAC
+                                - generic [ref=e1707]: •
+                                - time [ref=e1709]: 5mo ago
+                              - link "List item post - How often does this happen" [ref=e1711] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1pr0a7k/how_often_does_this_happen/
+                                - heading "List item post - How often does this happen" [level=3] [ref=e1714]: How often does this happen
+                            - link "r/HVAC - How often does this happen" [ref=e1717] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1pr0a7k/how_often_does_this_happen/
+                              - img "r/HVAC - How often does this happen" [ref=e1718]
+                          - generic [ref=e1720]:
+                            - generic [ref=e1721]: "195"
+                            - text: upvotes ·
+                            - generic [ref=e1722]: "80"
+                            - text: comments
+                        - separator [ref=e1723]
+                    - listitem [ref=e1724]:
+                      - generic [ref=e1725]:
+                        - generic [ref=e1726]:
+                          - link "Nice clean install" [ref=e1727] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1srub12/nice_clean_install/
+                            - generic [ref=e1728]:
+                              - generic: Nice clean install
+                          - generic [ref=e1729]:
+                            - generic [ref=e1730]:
+                              - generic [ref=e1732]:
+                                - link "r/HVAC" [ref=e1733] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e1737]: r/HVAC
+                                - generic [ref=e1738]: •
+                                - time [ref=e1740]: 23d ago
+                              - link "List item post - Nice clean install" [ref=e1742] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1srub12/nice_clean_install/
+                                - heading "List item post - Nice clean install" [level=3] [ref=e1745]: Nice clean install
+                            - link "r/HVAC - Nice clean install" [ref=e1748] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1srub12/nice_clean_install/
+                              - img "r/HVAC - Nice clean install" [ref=e1749]
+                          - generic [ref=e1751]:
+                            - generic [ref=e1752]: "169"
+                            - text: upvotes ·
+                            - generic [ref=e1753]: "32"
+                            - text: comments
+                        - separator [ref=e1754]
+                    - listitem [ref=e1755]:
+                      - generic [ref=e1756]:
+                        - generic [ref=e1757]:
+                          - link "Build Ops vs Service Trade" [ref=e1758] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1oglkjh/build_ops_vs_service_trade/
+                            - generic [ref=e1759]:
+                              - generic: Build Ops vs Service Trade
+                          - generic [ref=e1760]:
+                            - generic [ref=e1761]:
+                              - generic [ref=e1763]:
+                                - link "r/HVAC" [ref=e1764] [cursor=pointer]:
+                                  - /url: /r/HVAC/
+                                  - generic [ref=e1768]: r/HVAC
+                                - generic [ref=e1769]: •
+                                - time [ref=e1771]: 7mo ago
+                              - link "List item post - Build Ops vs Service Trade" [ref=e1773] [cursor=pointer]:
+                                - /url: /r/HVAC/comments/1oglkjh/build_ops_vs_service_trade/
+                                - heading "List item post - Build Ops vs Service Trade" [level=3] [ref=e1776]: Build Ops vs Service Trade
+                            - link "r/HVAC - Build Ops vs Service Trade" [ref=e1779] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1oglkjh/build_ops_vs_service_trade/
+                              - img "r/HVAC - Build Ops vs Service Trade" [ref=e1780]
+                          - generic [ref=e1782]:
+                            - generic [ref=e1783]: "2"
+                            - text: upvotes ·
+                            - generic [ref=e1784]: "24"
+                            - text: comments
+                        - separator [ref=e1785]
+                    - listitem [ref=e1786]:
+                      - generic [ref=e1787]:
+                        - generic [ref=e1788]:
+                          - link "Servicetitan alternative for small residential operation?" [ref=e1789] [cursor=pointer]:
+                            - /url: /r/Construction/comments/1snsm08/servicetitan_alternative_for_small_residential/
+                            - generic [ref=e1790]:
+                              - generic: Servicetitan alternative for small residential operation?
+                          - generic [ref=e1792]:
+                            - generic [ref=e1794]:
+                              - link "r/Construction" [ref=e1795] [cursor=pointer]:
+                                - /url: /r/Construction/
+                                - generic [ref=e1799]: r/Construction
+                              - generic [ref=e1800]: •
+                              - time [ref=e1802]: 28d ago
+                            - link "List item post - Servicetitan alternative for small residential operation?" [ref=e1804] [cursor=pointer]:
+                              - /url: /r/Construction/comments/1snsm08/servicetitan_alternative_for_small_residential/
+                              - heading "List item post - Servicetitan alternative for small residential operation?" [level=3] [ref=e1807]: Servicetitan alternative for small residential operation?
+                          - generic [ref=e1809]:
+                            - generic [ref=e1810]: "25"
+                            - text: comments
+                        - separator [ref=e1811]
+                    - listitem [ref=e1812]:
+                      - generic [ref=e1813]:
+                        - generic [ref=e1814]:
+                          - link "Open Moshpit = miracle for BO7 ?" [ref=e1815] [cursor=pointer]:
+                            - /url: /r/blackops7/comments/1nyqt6q/open_moshpit_miracle_for_bo7/
+                            - generic [ref=e1816]:
+                              - generic: Open Moshpit = miracle for BO7 ?
+                          - generic [ref=e1817]:
+                            - generic [ref=e1818]:
+                              - generic [ref=e1820]:
+                                - link "r/blackops7" [ref=e1821] [cursor=pointer]:
+                                  - /url: /r/blackops7/
+                                  - generic [ref=e1825]: r/blackops7
+                                - generic [ref=e1826]: •
+                                - time [ref=e1828]: 7mo ago
+                              - link "List item post - Open Moshpit = miracle for BO7 ?" [ref=e1830] [cursor=pointer]:
+                                - /url: /r/blackops7/comments/1nyqt6q/open_moshpit_miracle_for_bo7/
+                                - heading "List item post - Open Moshpit = miracle for BO7 ?" [level=3] [ref=e1833]: Open Moshpit = miracle for BO7 ?
+                            - link "r/blackops7 - Open Moshpit = miracle for BO7 ?" [ref=e1836] [cursor=pointer]:
+                              - /url: /r/blackops7/comments/1nyqt6q/open_moshpit_miracle_for_bo7/
+                              - img "r/blackops7 - Open Moshpit = miracle for BO7 ?" [ref=e1837]
+                          - generic [ref=e1839]:
+                            - generic [ref=e1840]: "97"
+                            - text: upvotes ·
+                            - generic [ref=e1841]: "43"
+                            - text: comments
+                        - separator [ref=e1842]
+                    - listitem [ref=e1843]:
+                      - generic [ref=e1844]:
+                        - generic [ref=e1845]:
+                          - link "Has anyone successfully built a ServiceTitan style CRM in house? Looking for real world experiences." [ref=e1846] [cursor=pointer]:
+                            - /url: /r/SaaS/comments/1rjyzj0/has_anyone_successfully_built_a_servicetitan/
+                            - generic [ref=e1847]:
+                              - generic: Has anyone successfully built a ServiceTitan style CRM in house? Looking for real world experiences.
+                          - generic [ref=e1849]:
+                            - generic [ref=e1851]:
+                              - link "r/SaaS" [ref=e1852] [cursor=pointer]:
+                                - /url: /r/SaaS/
+                                - generic [ref=e1856]: r/SaaS
+                              - generic [ref=e1857]: •
+                              - time [ref=e1859]: 2mo ago
+                            - link "List item post - Has anyone successfully built a ServiceTitan style CRM in h..." [ref=e1861] [cursor=pointer]:
+                              - /url: /r/SaaS/comments/1rjyzj0/has_anyone_successfully_built_a_servicetitan/
+                              - heading "List item post - Has anyone successfully built a ServiceTitan style CRM in h..." [level=3] [ref=e1864]: Has anyone successfully built a ServiceTitan style CRM in house? Looking for real world experiences.
+                          - generic [ref=e1866]:
+                            - generic [ref=e1867]: "3"
+                            - text: upvotes ·
+                            - generic [ref=e1868]: "7"
+                            - text: comments
+                        - separator [ref=e1869]
+                    - listitem [ref=e1870]:
+                      - generic [ref=e1871]:
+                        - generic [ref=e1872]:
+                          - link "Service Titan Nightmare" [ref=e1873] [cursor=pointer]:
+                            - /url: /r/smallbusiness/comments/1sxc3xb/service_titan_nightmare/
+                            - generic [ref=e1874]:
+                              - generic: Service Titan Nightmare
+                          - generic [ref=e1876]:
+                            - generic [ref=e1878]:
+                              - link "r/smallbusiness" [ref=e1879] [cursor=pointer]:
+                                - /url: /r/smallbusiness/
+                                - img [ref=e1883]
+                                - generic [ref=e1885]: r/smallbusiness
+                              - generic [ref=e1886]: •
+                              - time [ref=e1888]: 17d ago
+                            - link "List item post - Service Titan Nightmare" [ref=e1890] [cursor=pointer]:
+                              - /url: /r/smallbusiness/comments/1sxc3xb/service_titan_nightmare/
+                              - heading "List item post - Service Titan Nightmare" [level=3] [ref=e1893]: Service Titan Nightmare
+                          - generic [ref=e1895]:
+                            - generic [ref=e1896]: "1"
+                            - text: upvote ·
+                            - generic [ref=e1897]: "11"
+                            - text: comments
+                        - separator [ref=e1898]
+                    - listitem [ref=e1899]:
+                      - generic [ref=e1900]:
+                        - generic [ref=e1901]:
+                          - link "Can you save scum to reroll visitors?" [ref=e1902] [cursor=pointer]:
+                            - /url: /r/HelloKittyIsland/comments/1lfx2b3/can_you_save_scum_to_reroll_visitors/
+                            - generic [ref=e1903]:
+                              - generic: Can you save scum to reroll visitors?
+                          - generic [ref=e1905]:
+                            - generic [ref=e1907]:
+                              - link "r/HelloKittyIsland" [ref=e1908] [cursor=pointer]:
+                                - /url: /r/HelloKittyIsland/
+                                - generic [ref=e1912]: r/HelloKittyIsland
+                              - generic [ref=e1913]: •
+                              - time [ref=e1915]: 1y ago
+                            - link "List item post - Can you save scum to reroll visitors?" [ref=e1917] [cursor=pointer]:
+                              - /url: /r/HelloKittyIsland/comments/1lfx2b3/can_you_save_scum_to_reroll_visitors/
+                              - heading "List item post - Can you save scum to reroll visitors?" [level=3] [ref=e1920]: Can you save scum to reroll visitors?
+                          - generic [ref=e1922]:
+                            - generic [ref=e1923]: "34"
+                            - text: upvotes ·
+                            - generic [ref=e1924]: "16"
+                            - text: comments
+                        - separator [ref=e1925]
+                    - listitem [ref=e1926]:
+                      - generic [ref=e1927]:
+                        - generic [ref=e1928]:
+                          - link "Seltos base to top - New Space Rama Road SCAM" [ref=e1929] [cursor=pointer]:
+                            - /url: /r/CarsIndia/comments/1nyrz3t/seltos_base_to_top_new_space_rama_road_scam/
+                            - generic [ref=e1930]:
+                              - generic: Seltos base to top - New Space Rama Road SCAM
+                          - generic [ref=e1932]:
+                            - generic [ref=e1934]:
+                              - link "r/CarsIndia" [ref=e1935] [cursor=pointer]:
+                                - /url: /r/CarsIndia/
+                                - generic [ref=e1939]: r/CarsIndia
+                              - generic [ref=e1940]: •
+                              - time [ref=e1942]: 7mo ago
+                            - link "List item post - Seltos base to top - New Space Rama Road SCAM" [ref=e1944] [cursor=pointer]:
+                              - /url: /r/CarsIndia/comments/1nyrz3t/seltos_base_to_top_new_space_rama_road_scam/
+                              - heading "List item post - Seltos base to top - New Space Rama Road SCAM" [level=3] [ref=e1947]: Seltos base to top - New Space Rama Road SCAM
+                          - generic [ref=e1949]:
+                            - generic [ref=e1950]: "1"
+                            - text: upvote ·
+                            - generic [ref=e1951]: "8"
+                            - text: comments
+                        - separator [ref=e1952]
+                    - listitem [ref=e1953]:
+                      - generic [ref=e1954]:
+                        - generic [ref=e1955]:
+                          - link "Trying to choose a CRM + field service setup but overwhelmed by options" [ref=e1956] [cursor=pointer]:
+                            - /url: /r/CRM/comments/1jze6x9/trying_to_choose_a_crm_field_service_setup_but/
+                            - generic [ref=e1957]:
+                              - generic: Trying to choose a CRM + field service setup but overwhelmed by options
+                          - generic [ref=e1959]:
+                            - generic [ref=e1961]:
+                              - link "r/CRM" [ref=e1962] [cursor=pointer]:
+                                - /url: /r/CRM/
+                                - img [ref=e1966]
+                                - generic [ref=e1968]: r/CRM
+                              - generic [ref=e1969]: •
+                              - time [ref=e1971]: 1y ago
+                            - link "List item post - Trying to choose a CRM + field service setup but overwhelme..." [ref=e1973] [cursor=pointer]:
+                              - /url: /r/CRM/comments/1jze6x9/trying_to_choose_a_crm_field_service_setup_but/
+                              - heading "List item post - Trying to choose a CRM + field service setup but overwhelme..." [level=3] [ref=e1976]: Trying to choose a CRM + field service setup but overwhelmed by options
+                          - generic [ref=e1978]:
+                            - generic [ref=e1979]: "17"
+                            - text: upvotes ·
+                            - generic [ref=e1980]: "57"
+                            - text: comments
+                        - separator [ref=e1981]
+                    - listitem [ref=e1982]:
+                      - generic [ref=e1983]:
+                        - generic [ref=e1984]:
+                          - link "Vevor 20inch chainsaw - New | issues and no support" [ref=e1985] [cursor=pointer]:
+                            - /url: /r/Tools/comments/1nysd1v/vevor_20inch_chainsaw_new_issues_and_no_support/
+                            - generic [ref=e1986]:
+                              - generic: Vevor 20inch chainsaw - New | issues and no support
+                          - generic [ref=e1988]:
+                            - generic [ref=e1990]:
+                              - link "r/Tools" [ref=e1991] [cursor=pointer]:
+                                - /url: /r/Tools/
+                                - generic [ref=e1995]: r/Tools
+                              - generic [ref=e1996]: •
+                              - time [ref=e1998]: 7mo ago
+                            - link "List item post - Vevor 20inch chainsaw - New | issues and no support" [ref=e2000] [cursor=pointer]:
+                              - /url: /r/Tools/comments/1nysd1v/vevor_20inch_chainsaw_new_issues_and_no_support/
+                              - heading "List item post - Vevor 20inch chainsaw - New | issues and no support" [level=3] [ref=e2003]: Vevor 20inch chainsaw - New | issues and no support
+                          - generic [ref=e2005]:
+                            - generic [ref=e2006]: "4"
+                            - text: upvotes ·
+                            - generic [ref=e2007]: "7"
+                            - text: comments
+                        - separator [ref=e2008]
+                    - listitem [ref=e2009]:
+                      - generic [ref=e2010]:
+                        - generic [ref=e2011]:
+                          - link "ServiceTitan CRM Cost Transparency" [ref=e2012] [cursor=pointer]:
+                            - /url: /r/CRM/comments/1rt0lxp/servicetitan_crm_cost_transparency/
+                            - generic [ref=e2013]:
+                              - generic: ServiceTitan CRM Cost Transparency
+                          - generic [ref=e2015]:
+                            - generic [ref=e2017]:
+                              - link "r/CRM" [ref=e2018] [cursor=pointer]:
+                                - /url: /r/CRM/
+                                - img [ref=e2022]
+                                - generic [ref=e2024]: r/CRM
+                              - generic [ref=e2025]: •
+                              - time [ref=e2027]: 2mo ago
+                            - link "List item post - ServiceTitan CRM Cost Transparency" [ref=e2029] [cursor=pointer]:
+                              - /url: /r/CRM/comments/1rt0lxp/servicetitan_crm_cost_transparency/
+                              - heading "List item post - ServiceTitan CRM Cost Transparency" [level=3] [ref=e2032]: ServiceTitan CRM Cost Transparency
+                          - generic [ref=e2034]:
+                            - generic [ref=e2035]: "9"
+                            - text: upvotes ·
+                            - generic [ref=e2036]: "15"
+                            - text: comments
+                        - separator [ref=e2037]
+                    - listitem [ref=e2038]:
+                      - generic [ref=e2039]:
+                        - generic [ref=e2040]:
+                          - link "We were paying $480/month for software that I rebuilt in a weekend for $40. Here's the breakdown." [ref=e2041] [cursor=pointer]:
+                            - /url: /r/SaaS/comments/1r9uxhf/we_were_paying_480month_for_software_that_i/
+                            - generic [ref=e2042]:
+                              - generic: We were paying $480/month for software that I rebuilt in a weekend for $40. Here's the breakdown.
+                          - generic [ref=e2044]:
+                            - generic [ref=e2046]:
+                              - link "r/SaaS" [ref=e2047] [cursor=pointer]:
+                                - /url: /r/SaaS/
+                                - generic [ref=e2051]: r/SaaS
+                              - generic [ref=e2052]: •
+                              - time [ref=e2054]: 3mo ago
+                            - link "List item post - We were paying $480/month for software that I rebuilt in a ..." [ref=e2056] [cursor=pointer]:
+                              - /url: /r/SaaS/comments/1r9uxhf/we_were_paying_480month_for_software_that_i/
+                              - heading "List item post - We were paying $480/month for software that I rebuilt in a ..." [level=3] [ref=e2059]: We were paying $480/month for software that I rebuilt in a weekend for $40. Here's the breakdown.
+                          - generic [ref=e2061]:
+                            - generic [ref=e2062]: "4"
+                            - text: upvotes ·
+                            - generic [ref=e2063]: "45"
+                            - text: comments
+                        - separator [ref=e2064]
+                    - listitem [ref=e2065]:
+                      - generic [ref=e2066]:
+                        - generic [ref=e2067]:
+                          - link "Man, some days this job destroys my confidence that I am a competent technician." [ref=e2068] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1okdes2/man_some_days_this_job_destroys_my_confidence/
+                            - generic [ref=e2069]:
+                              - generic: Man, some days this job destroys my confidence that I am a competent technician.
+                          - generic [ref=e2071]:
+                            - generic [ref=e2073]:
+                              - link "r/HVAC" [ref=e2074] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2078]: r/HVAC
+                              - generic [ref=e2079]: •
+                              - time [ref=e2081]: 7mo ago
+                            - link "List item post - Man, some days this job destroys my confidence that I am a ..." [ref=e2083] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1okdes2/man_some_days_this_job_destroys_my_confidence/
+                              - heading "List item post - Man, some days this job destroys my confidence that I am a ..." [level=3] [ref=e2086]: Man, some days this job destroys my confidence that I am a competent technician.
+                          - generic [ref=e2088]:
+                            - generic [ref=e2089]: "224"
+                            - text: upvotes ·
+                            - generic [ref=e2090]: "118"
+                            - text: comments
+                        - separator [ref=e2091]
+                    - listitem [ref=e2092]:
+                      - generic [ref=e2094]:
+                        - link "I've never seen this before, can this possibly be efficient?" [ref=e2095] [cursor=pointer]:
+                          - /url: /r/HVAC/comments/1svt4ly/ive_never_seen_this_before_can_this_possibly_be/
+                          - generic [ref=e2096]:
+                            - generic: I've never seen this before, can this possibly be efficient?
+                        - generic [ref=e2097]:
+                          - generic [ref=e2098]:
+                            - generic [ref=e2100]:
+                              - link "r/HVAC" [ref=e2101] [cursor=pointer]:
+                                - /url: /r/HVAC/
+                                - generic [ref=e2105]: r/HVAC
+                              - generic [ref=e2106]: •
+                              - time [ref=e2108]: 19d ago
+                            - link "List item post - I've never seen this before, can this possibly be efficient?" [ref=e2110] [cursor=pointer]:
+                              - /url: /r/HVAC/comments/1svt4ly/ive_never_seen_this_before_can_this_possibly_be/
+                              - heading "List item post - I've never seen this before, can this possibly be efficient?" [level=3] [ref=e2113]: I've never seen this before, can this possibly be efficient?
+                          - link "r/HVAC - I've never seen this before, can this possibly be efficient?" [ref=e2116] [cursor=pointer]:
+                            - /url: /r/HVAC/comments/1svt4ly/ive_never_seen_this_before_can_this_possibly_be/
+                            - img "r/HVAC - I've never seen this before, can this possibly be efficient?" [ref=e2117]
+                        - generic [ref=e2119]:
+                          - generic [ref=e2120]: "26"
+                          - text: upvotes ·
+                          - generic [ref=e2121]: "35"
+                          - text: comments
+                - generic [ref=e2122]:
+                  - heading "View Post in" [level=2] [ref=e2124]:
+                    - generic [ref=e2125]: View Post in
+                  - generic [ref=e2126]:
+                    - link "हिन्दी" [ref=e2128] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/?tl=hi
+                    - link "日本語" [ref=e2130] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/?tl=ja
+                    - link "Português (Brasil)" [ref=e2132] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/?tl=pt-br
+                    - link "Русский" [ref=e2134] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/?tl=ru
+                    - link "简体中文" [ref=e2136] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/?tl=zh-hans
+                    - link "Français" [ref=e2138] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/?tl=fr
+                    - group [ref=e2139]:
+                      - generic "See more" [ref=e2140] [cursor=pointer]:
+                        - generic [ref=e2141]: See more
+                        - img [ref=e2143]
+                - complementary "Community information" [ref=e2145]:
+                  - generic [ref=e2147]:
+                    - heading "Community Info Section" [level=1] [ref=e2148]
+                    - generic [ref=e2149]:
+                      - link "r/HVAC" [ref=e2151] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e2152]: r/HVAC
+                      - button "Join" [ref=e2156] [cursor=pointer]
+                    - generic [ref=e2157]:
+                      - generic [ref=e2158]: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+                      - generic [ref=e2159]: A subreddit for Heating, Ventilation, & Air Conditioning Technicians. If you are not a member of the trade, please post in r/hvacadvice.
+                      - button "Show more" [ref=e2160] [cursor=pointer]:
+                        - generic [ref=e2162]: Show more
+                      - generic [ref=e2165]:
+                        - img [ref=e2166]
+                        - text: Public
+                - generic [ref=e2168]:
+                  - heading "Top Posts" [level=2] [ref=e2169]
+                  - list [ref=e2170]:
+                    - listitem [ref=e2171]:
+                      - 'link "Reddit reReddit: Top posts of October 5, 2025" [ref=e2172] [cursor=pointer]':
+                        - /url: https://www.reddit.com/posts/2025/october-5-1/global/
+                        - generic [ref=e2173]:
+                          - img [ref=e2174]
+                          - generic [ref=e2187]: Reddit
+                        - generic [ref=e2188]: "reReddit: Top posts of October 5, 2025"
+                        - separator [ref=e2189]
+                    - listitem [ref=e2190]:
+                      - 'link "Reddit reReddit: Top posts of October 2025" [ref=e2191] [cursor=pointer]':
+                        - /url: https://www.reddit.com/posts/2025/october/global/
+                        - generic [ref=e2192]:
+                          - img [ref=e2193]
+                          - generic [ref=e2206]: Reddit
+                        - generic [ref=e2207]: "reReddit: Top posts of October 2025"
+                        - separator [ref=e2208]
+                    - listitem [ref=e2209]:
+                      - 'link "Reddit reReddit: Top posts of 2025" [ref=e2210] [cursor=pointer]':
+                        - /url: https://www.reddit.com/posts/2025/global/
+                        - generic [ref=e2211]:
+                          - img [ref=e2212]
+                          - generic [ref=e2225]: Reddit
+                        - generic [ref=e2226]: "reReddit: Top posts of 2025"
+                        - separator [ref=e2227]
+              - generic [ref=e2229]:
+                - link "Reddit Rules" [ref=e2232] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e2235] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e2238] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e2241] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e2244] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2246] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e2248]:
+          - button "Collapse Navigation" [ref=e2251] [cursor=pointer]:
+            - img [ref=e2254]
+            - generic [ref=e2256]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e2261]:
+            - generic [ref=e2263]:
+              - link "Home" [ref=e2265] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e2266]:
+                  - img [ref=e2268]
+                  - generic [ref=e2271]: Home
+              - link "Popular" [ref=e2273] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e2274]:
+                  - img [ref=e2276]
+                  - generic [ref=e2279]: Popular
+              - link "News" [ref=e2280] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e2281]:
+                  - img [ref=e2283]
+                  - generic [ref=e2287]: News
+              - link "Explore" [ref=e2289] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e2290]:
+                  - img [ref=e2292]
+                  - generic [ref=e2295]: Explore
+            - separator [ref=e2296]
+            - group [ref=e2299]:
+              - generic "RECENT" [ref=e2300] [cursor=pointer]:
+                - generic [ref=e2301]:
+                  - generic [ref=e2304]: RECENT
+                  - img [ref=e2307]
+              - link "r/HVAC" [ref=e2311] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e2312]:
+                  - img [ref=e2317]
+                  - generic [ref=e2320]: r/HVAC
+            - navigation "Reddit resources" [ref=e2321]:
+              - group [ref=e2323]:
+                - generic "RESOURCES" [ref=e2324] [cursor=pointer]:
+                  - generic [ref=e2326]:
+                    - generic [ref=e2329]: RESOURCES
+                    - img [ref=e2332]
+                - generic [ref=e2335]:
+                  - link "About Reddit" [ref=e2337] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e2338]:
+                      - img [ref=e2340]
+                      - generic [ref=e2344]: About Reddit
+                  - link "Advertise" [ref=e2346] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e2347]:
+                      - img [ref=e2349]
+                      - generic [ref=e2353]: Advertise
+                  - link "Developer Platform" [ref=e2355] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2356]:
+                      - img [ref=e2358]
+                      - generic [ref=e2362]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e2364] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2365]:
+                      - img [ref=e2367]
+                      - generic [ref=e2371]:
+                        - generic [ref=e2372]: Reddit Pro
+                        - generic [ref=e2373]: BETA
+                  - link "Help" [ref=e2375] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e2376]:
+                      - img [ref=e2378]
+                      - generic [ref=e2382]: Help
+                  - link "Blog" [ref=e2384] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e2385]:
+                      - img [ref=e2387]
+                      - generic [ref=e2391]: Blog
+                  - link "Careers" [ref=e2393] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e2394]:
+                      - img [ref=e2396]
+                      - generic [ref=e2400]: Careers
+                  - link "Press" [ref=e2402] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e2403]:
+                      - img [ref=e2405]
+                      - generic [ref=e2409]: Press
+                  - separator [ref=e2410]
+                  - link "Best of Reddit" [ref=e2412] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e2413]:
+                      - img [ref=e2415]
+                      - generic [ref=e2420]: Best of Reddit
+                  - separator [ref=e2421]
+                  - link "Reddit Rules" [ref=e2423] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e2424]:
+                      - img [ref=e2426]
+                      - generic [ref=e2430]: Reddit Rules
+                  - link "Privacy Policy" [ref=e2432] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e2433]:
+                      - img [ref=e2435]
+                      - generic [ref=e2439]: Privacy Policy
+                  - link "User Agreement" [ref=e2441] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e2442]:
+                      - img [ref=e2444]
+                      - generic [ref=e2448]: User Agreement
+                  - link "Your Privacy Choices" [ref=e2450] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e2451]:
+                      - img [ref=e2453]
+                      - generic [ref=e2457]: Your Privacy Choices
+                  - link "Accessibility" [ref=e2459] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e2460]:
+                      - img [ref=e2462]
+                      - generic [ref=e2467]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2469] [cursor=pointer]:
+              - /url: https://redditinc.com

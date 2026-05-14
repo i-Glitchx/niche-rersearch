@@ -1,0 +1,595 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: ServiceTitan OR Jobber OR "Housecall Pro" - Reddit Search!
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/HVAC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/HVAC
+                  - img [ref=e49]
+              - textbox "Remove r/HVAC filter and expand search to all of Reddit Clear search" [ref=e52]:
+                - /placeholder: Search in ⁨r/HVAC⁩
+                - text: ServiceTitan OR Jobber OR "Housecall Pro"
+              - button "Clear search" [ref=e54] [cursor=pointer]:
+                - img [ref=e57]
+                - generic [ref=e59]:
+                  - generic: Clear search
+          - generic [ref=e60]:
+            - link "Sign Up" [ref=e66] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e68]: Sign Up
+            - link "Log In" [ref=e72] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e74]: Log In
+            - button "Expand user menu" [ref=e79] [cursor=pointer]:
+              - img [ref=e82]
+              - generic [ref=e84]:
+                - generic: Expand user menu
+      - generic "ServiceTitan OR Jobber OR \"Housecall Pro\" - Reddit Search!"
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e91]:
+            - generic [ref=e94]:
+              - tablist [ref=e95]:
+                - tab "Posts" [selected] [ref=e96]:
+                  - button "Posts" [ref=e97] [cursor=pointer]:
+                    - generic [ref=e101]: Posts
+                - tab "Comments" [ref=e102]:
+                  - link "Comments" [ref=e103] [cursor=pointer]:
+                    - /url: /r/HVAC/search/?q=ServiceTitan+OR+Jobber+OR+%22Housecall+Pro%22&type=comments&iId=480178dd-4732-41ff-97bd-059384941e1e
+                    - generic [ref=e108]: Comments
+                - tab "Media" [ref=e109]:
+                  - link "Media" [ref=e110] [cursor=pointer]:
+                    - /url: /r/HVAC/search/?q=ServiceTitan+OR+Jobber+OR+%22Housecall+Pro%22&type=media&iId=480178dd-4732-41ff-97bd-059384941e1e
+                    - generic [ref=e115]: Media
+              - button "forward" [ref=e117] [cursor=pointer]:
+                - img [ref=e120]
+                - generic [ref=e122]:
+                  - generic: forward
+              - button "back" [ref=e124] [cursor=pointer]:
+                - img [ref=e127]
+                - generic [ref=e129]:
+                  - generic: back
+            - generic:
+              - generic:
+                - tabpanel
+            - generic [ref=e130]:
+              - button "Relevance" [ref=e134] [cursor=pointer]:
+                - generic [ref=e137]: Relevance
+              - button "Past year" [ref=e143] [cursor=pointer]:
+                - generic [ref=e146]: Past year
+          - generic [ref=e150]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e151] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e152] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e153]:
+            - main [ref=e154]:
+              - generic [ref=e155]:
+                - paragraph [ref=e158]:
+                  - text: Show results from
+                  - link "all of Reddit" [ref=e160] [cursor=pointer]:
+                    - /url: /search/?q=ServiceTitan+OR+Jobber+OR+%22Housecall+Pro%22
+                  - img [ref=e162]
+                - generic [ref=e165]:
+                  - generic:
+                    - heading "Service titan field pro" [level=2]:
+                      - link "Service titan field pro" [ref=e166] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1s53gd8/service_titan_field_pro/
+                        - generic [ref=e167]:
+                          - generic: Service titan field pro
+                  - generic [ref=e168]:
+                    - generic [ref=e171]:
+                      - link "r/HVAC" [ref=e173] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e177]: r/HVAC
+                      - generic [ref=e178]: ·
+                      - time [ref=e180]: 2mo ago
+                    - link "Service titan field pro" [ref=e181] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1s53gd8/service_titan_field_pro/
+                    - generic [ref=e182]:
+                      - generic [ref=e183]:
+                        - generic [ref=e184]: "17"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e185]:
+                        - generic [ref=e186]: "38"
+                        - text: comments
+                - separator [ref=e187]
+                - generic [ref=e189]:
+                  - generic:
+                    - heading "New ServiceTitan app is a downgrade…" [level=2]:
+                      - link "New ServiceTitan app is a downgrade…" [ref=e190] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/
+                        - generic [ref=e191]:
+                          - generic: New ServiceTitan app is a downgrade…
+                  - generic [ref=e192]:
+                    - generic [ref=e195]:
+                      - link "r/HVAC" [ref=e197] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e201]: r/HVAC
+                      - generic [ref=e202]: ·
+                      - time [ref=e204]: 7mo ago
+                    - link "New ServiceTitan app is a downgrade…" [ref=e205] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/
+                    - generic [ref=e206]:
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: "143"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e209]:
+                        - generic [ref=e210]: "49"
+                        - text: comments
+                  - link "New ServiceTitan app is a downgrade… thumbnail image" [ref=e212] [cursor=pointer]:
+                    - /url: /r/HVAC/comments/1nyv5j1/new_servicetitan_app_is_a_downgrade/
+                    - img "New ServiceTitan app is a downgrade…" [ref=e217]
+                - separator [ref=e218]
+                - generic [ref=e220]:
+                  - generic:
+                    - heading "Service Titan New Customer" [level=2]:
+                      - link "Service Titan New Customer" [ref=e221] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1o3n5uf/service_titan_new_customer/
+                        - generic [ref=e222]:
+                          - generic: Service Titan New Customer
+                  - generic [ref=e223]:
+                    - generic [ref=e226]:
+                      - link "r/HVAC" [ref=e228] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e232]: r/HVAC
+                      - generic [ref=e233]: ·
+                      - time [ref=e235]: 7mo ago
+                    - link "Service Titan New Customer" [ref=e236] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1o3n5uf/service_titan_new_customer/
+                    - generic [ref=e237]:
+                      - generic [ref=e238]:
+                        - generic [ref=e239]: "5"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e240]:
+                        - generic [ref=e241]: "17"
+                        - text: comments
+                - separator [ref=e242]
+                - generic [ref=e244]:
+                  - generic:
+                    - heading "Anyone else who uses Service Titan find that the prices just all disappear out of the system sometimes?" [level=2]:
+                      - link "Anyone else who uses Service Titan find that the prices just all disappear out of the system sometimes?" [ref=e245] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1o33j9o/anyone_else_who_uses_service_titan_find_that_the/
+                        - generic [ref=e246]:
+                          - generic: Anyone else who uses Service Titan find that the prices just all disappear out of the system sometimes?
+                  - generic [ref=e247]:
+                    - generic [ref=e250]:
+                      - link "r/HVAC" [ref=e252] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e256]: r/HVAC
+                      - generic [ref=e257]: ·
+                      - time [ref=e259]: 7mo ago
+                    - link "Anyone else who uses Service Titan find that the prices just all disappear out of the system sometimes?" [ref=e260] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1o33j9o/anyone_else_who_uses_service_titan_find_that_the/
+                    - generic [ref=e261]:
+                      - generic [ref=e262]:
+                        - generic [ref=e263]: "2"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e264]:
+                        - generic [ref=e265]: "13"
+                        - text: comments
+                - separator [ref=e266]
+                - generic [ref=e268]:
+                  - generic:
+                    - heading "HVAC software for Resi" [level=2]:
+                      - link "HVAC software for Resi" [ref=e269] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1o8bniu/hvac_software_for_resi/
+                        - generic [ref=e270]:
+                          - generic: HVAC software for Resi
+                  - generic [ref=e271]:
+                    - generic [ref=e274]:
+                      - link "r/HVAC" [ref=e276] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e280]: r/HVAC
+                      - generic [ref=e281]: ·
+                      - time [ref=e283]: 7mo ago
+                    - link "HVAC software for Resi" [ref=e284] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1o8bniu/hvac_software_for_resi/
+                    - generic [ref=e285]:
+                      - generic [ref=e286]:
+                        - generic [ref=e287]: "0"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e288]:
+                        - generic [ref=e289]: "7"
+                        - text: comments
+                - separator [ref=e290]
+                - generic [ref=e292]:
+                  - generic:
+                    - heading "Arrived to a house that stole another tech’s tools" [level=2]:
+                      - link "Arrived to a house that stole another tech’s tools" [ref=e293] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1ppeqd1/arrived_to_a_house_that_stole_another_techs_tools/
+                        - generic [ref=e294]:
+                          - generic: Arrived to a house that stole another tech’s tools
+                  - generic [ref=e295]:
+                    - generic [ref=e298]:
+                      - link "r/HVAC" [ref=e300] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e304]: r/HVAC
+                      - generic [ref=e305]: ·
+                      - time [ref=e307]: 5mo ago
+                    - link "Arrived to a house that stole another tech’s tools" [ref=e308] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1ppeqd1/arrived_to_a_house_that_stole_another_techs_tools/
+                    - generic [ref=e309]:
+                      - generic [ref=e310]:
+                        - generic [ref=e311]: "73"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e312]:
+                        - generic [ref=e313]: "32"
+                        - text: comments
+                - separator [ref=e314]
+                - generic [ref=e316]:
+                  - generic:
+                    - heading "Time at work" [level=2]:
+                      - link "Time at work" [ref=e317] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1kqfanh/time_at_work/
+                        - generic [ref=e318]:
+                          - generic: Time at work
+                  - generic [ref=e319]:
+                    - generic [ref=e322]:
+                      - link "r/HVAC" [ref=e324] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e328]: r/HVAC
+                      - generic [ref=e329]: ·
+                      - time [ref=e331]: 1y ago
+                    - link "Time at work" [ref=e332] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1kqfanh/time_at_work/
+                    - generic [ref=e333]:
+                      - generic [ref=e334]:
+                        - generic [ref=e335]: "5"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e336]:
+                        - generic [ref=e337]: "21"
+                        - text: comments
+                - separator [ref=e338]
+                - generic [ref=e340]:
+                  - generic:
+                    - heading "HVAC Estimating Software (Material & Labor calculated)" [level=2]:
+                      - link "HVAC Estimating Software (Material & Labor calculated)" [ref=e341] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1ohigmf/hvac_estimating_software_material_labor_calculated/
+                        - generic [ref=e342]:
+                          - generic: HVAC Estimating Software (Material & Labor calculated)
+                  - generic [ref=e343]:
+                    - generic [ref=e346]:
+                      - link "r/HVAC" [ref=e348] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e352]: r/HVAC
+                      - generic [ref=e353]: ·
+                      - time [ref=e355]: 7mo ago
+                    - link "HVAC Estimating Software (Material & Labor calculated)" [ref=e356] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1ohigmf/hvac_estimating_software_material_labor_calculated/
+                    - generic [ref=e357]:
+                      - generic [ref=e358]:
+                        - generic [ref=e359]: "1"
+                        - text: vote
+                      - text: ·
+                      - generic [ref=e360]:
+                        - generic [ref=e361]: "4"
+                        - text: comments
+                - separator [ref=e362]
+                - generic [ref=e364]:
+                  - generic:
+                    - heading "Travel time pay" [level=2]:
+                      - link "Travel time pay" [ref=e365] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1ml70xk/travel_time_pay/
+                        - generic [ref=e366]:
+                          - generic: Travel time pay
+                  - generic [ref=e367]:
+                    - generic [ref=e370]:
+                      - link "r/HVAC" [ref=e372] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e376]: r/HVAC
+                      - generic [ref=e377]: ·
+                      - time [ref=e379]: 9mo ago
+                    - link "Travel time pay" [ref=e380] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1ml70xk/travel_time_pay/
+                    - generic [ref=e381]:
+                      - generic [ref=e382]:
+                        - generic [ref=e383]: "8"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e384]:
+                        - generic [ref=e385]: "33"
+                        - text: comments
+                - separator [ref=e386]
+                - generic [ref=e388]:
+                  - generic:
+                    - heading "Where do you actually find good techs in this trade?" [level=2]:
+                      - link "Where do you actually find good techs in this trade?" [ref=e389] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1skvtuc/where_do_you_actually_find_good_techs_in_this/
+                        - generic [ref=e390]:
+                          - generic: Where do you actually find good techs in this trade?
+                  - generic [ref=e391]:
+                    - generic [ref=e394]:
+                      - link "r/HVAC" [ref=e396] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e400]: r/HVAC
+                      - generic [ref=e401]: ·
+                      - time [ref=e403]: 1mo ago
+                    - link "Where do you actually find good techs in this trade?" [ref=e404] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1skvtuc/where_do_you_actually_find_good_techs_in_this/
+                    - generic [ref=e405]:
+                      - generic [ref=e406]:
+                        - generic [ref=e407]: "40"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e408]:
+                        - generic [ref=e409]: "75"
+                        - text: comments
+                - separator [ref=e410]
+                - generic [ref=e412]:
+                  - generic:
+                    - heading "Where’d y’all make inspection lists/invoices?" [level=2]:
+                      - link "Where’d y’all make inspection lists/invoices?" [ref=e413] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1ldc78c/whered_yall_make_inspection_listsinvoices/
+                        - generic [ref=e414]:
+                          - generic: Where’d y’all make inspection lists/invoices?
+                  - generic [ref=e415]:
+                    - generic [ref=e418]:
+                      - link "r/HVAC" [ref=e420] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e424]: r/HVAC
+                      - generic [ref=e425]: ·
+                      - time [ref=e427]: 1y ago
+                    - link "Where’d y’all make inspection lists/invoices?" [ref=e428] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1ldc78c/whered_yall_make_inspection_listsinvoices/
+                    - generic [ref=e429]:
+                      - generic [ref=e430]:
+                        - generic [ref=e431]: "1"
+                        - text: vote
+                      - text: ·
+                      - generic [ref=e432]:
+                        - generic [ref=e433]: "3"
+                        - text: comments
+                - separator [ref=e434]
+                - generic [ref=e436]:
+                  - generic:
+                    - heading "Starting a company" [level=2]:
+                      - link "Starting a company" [ref=e437] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1taenx3/starting_a_company/
+                        - generic [ref=e438]:
+                          - generic: Starting a company
+                  - generic [ref=e439]:
+                    - generic [ref=e442]:
+                      - link "r/HVAC" [ref=e444] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e448]: r/HVAC
+                      - generic [ref=e449]: ·
+                      - time [ref=e451]: 3d ago
+                    - link "Starting a company" [ref=e452] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1taenx3/starting_a_company/
+                    - generic [ref=e453]:
+                      - generic [ref=e454]:
+                        - generic [ref=e455]: "21"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e456]:
+                        - generic [ref=e457]: "52"
+                        - text: comments
+                - separator [ref=e458]
+                - generic [ref=e460]:
+                  - generic:
+                    - heading "Service Tech Wages in Charlotte NC" [level=2]:
+                      - link "Service Tech Wages in Charlotte NC" [ref=e461] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1mnkh2r/service_tech_wages_in_charlotte_nc/
+                        - generic [ref=e462]:
+                          - generic: Service Tech Wages in Charlotte NC
+                  - generic [ref=e463]:
+                    - generic [ref=e466]:
+                      - link "r/HVAC" [ref=e468] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e472]: r/HVAC
+                      - generic [ref=e473]: ·
+                      - time [ref=e475]: 9mo ago
+                    - link "Service Tech Wages in Charlotte NC" [ref=e476] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1mnkh2r/service_tech_wages_in_charlotte_nc/
+                    - generic [ref=e477]:
+                      - generic [ref=e478]:
+                        - generic [ref=e479]: "0"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e480]:
+                        - generic [ref=e481]: "0"
+                        - text: comments
+                - separator [ref=e482]
+                - generic [ref=e484]:
+                  - generic:
+                    - heading "Maintenance calls?" [level=2]:
+                      - link "Maintenance calls?" [ref=e485] [cursor=pointer]:
+                        - /url: /r/HVAC/comments/1kukhbo/maintenance_calls/
+                        - generic [ref=e486]:
+                          - generic: Maintenance calls?
+                  - generic [ref=e487]:
+                    - generic [ref=e490]:
+                      - link "r/HVAC" [ref=e492] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e496]: r/HVAC
+                      - generic [ref=e497]: ·
+                      - time [ref=e499]: 1y ago
+                    - link "Maintenance calls?" [ref=e500] [cursor=pointer]:
+                      - /url: /r/HVAC/comments/1kukhbo/maintenance_calls/
+                    - generic [ref=e501]:
+                      - generic [ref=e502]:
+                        - generic [ref=e503]: "3"
+                        - text: votes
+                      - text: ·
+                      - generic [ref=e504]:
+                        - generic [ref=e505]: "9"
+                        - text: comments
+                - separator [ref=e506]
+            - generic [ref=e510]:
+              - generic [ref=e515]:
+                - heading "Community Info Section" [level=1] [ref=e516]
+                - generic [ref=e517]:
+                  - generic [ref=e518]: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+                  - generic [ref=e519]: A subreddit for Heating, Ventilation, & Air Conditioning Technicians. If you are not a member of the trade, please post in r/hvacadvice.
+                  - generic [ref=e520]:
+                    - generic [ref=e522]:
+                      - img [ref=e523]
+                      - text: Created Dec 22, 2010
+                    - generic [ref=e526]:
+                      - img [ref=e527]
+                      - text: Public
+                - generic [ref=e529]:
+                  - generic [ref=e530]:
+                    - strong [ref=e532]:
+                      - generic: 179K
+                    - generic [ref=e533]: Weekly visitors
+                  - generic [ref=e534]:
+                    - strong [ref=e536]:
+                      - generic: 3.4K
+                    - generic [ref=e537]: Weekly contributions
+              - generic [ref=e539]:
+                - link "Reddit Rules" [ref=e542] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e545] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e548] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e551] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e554] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e556] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e558]:
+          - button "Collapse Navigation" [ref=e561] [cursor=pointer]:
+            - img [ref=e564]
+            - generic [ref=e566]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e571]:
+            - generic [ref=e573]:
+              - link "Home" [ref=e575] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e576]:
+                  - img [ref=e578]
+                  - generic [ref=e581]: Home
+              - link "Popular" [ref=e583] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e584]:
+                  - img [ref=e586]
+                  - generic [ref=e589]: Popular
+              - link "News" [ref=e590] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e591]:
+                  - img [ref=e593]
+                  - generic [ref=e597]: News
+              - link "Explore" [ref=e599] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e600]:
+                  - img [ref=e602]
+                  - generic [ref=e605]: Explore
+            - separator [ref=e606]
+            - group [ref=e609]:
+              - generic "RECENT" [ref=e610] [cursor=pointer]:
+                - generic [ref=e611]:
+                  - generic [ref=e614]: RECENT
+                  - img [ref=e617]
+              - link "r/HVAC" [ref=e621] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e622]:
+                  - img [ref=e627]
+                  - generic [ref=e630]: r/HVAC
+            - navigation "Reddit resources" [ref=e631]:
+              - group [ref=e633]:
+                - generic "RESOURCES" [ref=e634] [cursor=pointer]:
+                  - generic [ref=e636]:
+                    - generic [ref=e639]: RESOURCES
+                    - img [ref=e642]
+                - generic [ref=e645]:
+                  - link "About Reddit" [ref=e647] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e648]:
+                      - img [ref=e650]
+                      - generic [ref=e654]: About Reddit
+                  - link "Advertise" [ref=e656] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e657]:
+                      - img [ref=e659]
+                      - generic [ref=e663]: Advertise
+                  - link "Developer Platform" [ref=e665] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e666]:
+                      - img [ref=e668]
+                      - generic [ref=e672]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e674] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e675]:
+                      - img [ref=e677]
+                      - generic [ref=e681]:
+                        - generic [ref=e682]: Reddit Pro
+                        - generic [ref=e683]: BETA
+                  - link "Help" [ref=e685] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e686]:
+                      - img [ref=e688]
+                      - generic [ref=e692]: Help
+                  - link "Blog" [ref=e694] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e695]:
+                      - img [ref=e697]
+                      - generic [ref=e701]: Blog
+                  - link "Careers" [ref=e703] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e704]:
+                      - img [ref=e706]
+                      - generic [ref=e710]: Careers
+                  - link "Press" [ref=e712] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e713]:
+                      - img [ref=e715]
+                      - generic [ref=e719]: Press
+                  - separator [ref=e720]
+                  - link "Best of Reddit" [ref=e722] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e723]:
+                      - img [ref=e725]
+                      - generic [ref=e730]: Best of Reddit
+                  - separator [ref=e731]
+                  - link "Reddit Rules" [ref=e733] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e734]:
+                      - img [ref=e736]
+                      - generic [ref=e740]: Reddit Rules
+                  - link "Privacy Policy" [ref=e742] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e743]:
+                      - img [ref=e745]
+                      - generic [ref=e749]: Privacy Policy
+                  - link "User Agreement" [ref=e751] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e752]:
+                      - img [ref=e754]
+                      - generic [ref=e758]: User Agreement
+                  - link "Your Privacy Choices" [ref=e760] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e761]:
+                      - img [ref=e763]
+                      - generic [ref=e767]: Your Privacy Choices
+                  - link "Accessibility" [ref=e769] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e770]:
+                      - img [ref=e772]
+                      - generic [ref=e777]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e779] [cursor=pointer]:
+              - /url: https://redditinc.com

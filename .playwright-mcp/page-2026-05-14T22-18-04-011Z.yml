@@ -1,0 +1,455 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Starting a company : r/HVAC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/HVAC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/HVAC
+                  - img [ref=e49]
+              - textbox "Remove r/HVAC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/HVAC⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e81] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e82] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e83]:
+            - main [ref=e84]:
+              - 'generic "Starting a company : r/HVAC"'
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - button "Back" [ref=e89] [cursor=pointer]:
+                      - img [ref=e92]
+                      - generic [ref=e94]:
+                        - generic: Back
+                    - link "Go to HVAC" [ref=e97] [cursor=pointer]:
+                      - /url: /r/HVAC/
+                      - generic [ref=e101]:
+                        - generic: Go to HVAC
+                    - group [ref=e102]:
+                      - generic [ref=e103]:
+                        - link "r/HVAC" [ref=e106] [cursor=pointer]:
+                          - /url: /r/HVAC/
+                        - generic [ref=e107]: •
+                        - time [ref=e108]: 3d ago
+                      - 'link "Author: whitdan" [ref=e113] [cursor=pointer]':
+                        - /url: /user/whitdan/
+                        - generic [ref=e114]: whitdan
+                  - button "Open user actions" [ref=e118] [cursor=pointer]:
+                    - img [ref=e121]
+                - 'heading "Post Title: Starting a company" [level=1] [ref=e125]': Starting a company
+                - generic [ref=e128]:
+                  - generic [ref=e129]:
+                    - paragraph [ref=e130]: Started my own HVAC company at 25 after seeing what private equity is doing to the trades.
+                    - paragraph [ref=e131]: I started in HVAC at 18 doing residential installs/service, then moved into commercial service a few years later. Recently moved back to my hometown and joined a local company, only to realize it had been bought out by private equity.
+                    - paragraph [ref=e132]:
+                      - text: Every meeting felt more focused on sales numbers and replacement quotas than actually helping people.
+                      - text: I got tired of feeling like I was supposed to “find” problems instead of fixing them, so I decided to bet on myself and start my own company.
+                    - paragraph [ref=e133]:
+                      - text: "So far I’ve built:"
+                      - text: Website
+                      - text: Branding/shirts/hats/cards
+                      - text: Custom field service app I built myself (basically my own lightweight ServiceTitan)
+                      - text: Scheduling/invoicing setup
+                      - text: Maintenance plan structure
+                      - text: Basic social media pages
+                    - paragraph [ref=e134]: "Now comes the hard part: actually getting customers."
+                    - paragraph [ref=e135]: "For the guys who started from scratch:"
+                    - paragraph [ref=e136]:
+                      - text: What actually worked for you early on?
+                      - text: What was a waste of time?
+                      - text: Did Facebook/community groups help?
+                      - text: Google ads or SEO worth it at the beginning?
+                      - text: Best way to build relationships with property managers/realtors?
+                      - text: How long before work became consistent?
+                    - paragraph [ref=e137]:
+                      - text: "Right now I’ve mostly been:"
+                      - text: Passing out cards
+                      - text: Visiting local businesses/property managers
+                      - text: Posting on Facebook
+                      - text: Trying to make educational content instead of sales content
+                    - paragraph [ref=e138]:
+                      - text: I’m confident in the work itself. The business/marketing side is the part I’m learning now.
+                      - text: Would appreciate any advice from people who’ve done it.
+                    - paragraph [ref=e139]: Sorry for the use of AI just helps me get my thoughts on paper. Thanks!
+                  - button "Read more" [ref=e140] [cursor=pointer]:
+                    - text: Read more
+                    - img [ref=e142]
+                - generic [ref=e144]:
+                  - img [ref=e145]
+                  - generic [ref=e147]: "21"
+                  - img [ref=e148]
+                  - generic [ref=e150]: ·
+                  - img [ref=e151]
+                  - generic [ref=e153]: "52"
+              - img [ref=e158]
+            - generic [ref=e171]:
+              - generic [ref=e172]:
+                - complementary [ref=e175]:
+                  - generic [ref=e176]:
+                    - generic [ref=e177]: New to Reddit?
+                    - paragraph [ref=e178]: Create your account and connect with a world of communities.
+                  - generic [ref=e179]:
+                    - generic [ref=e187]:
+                      - button "Continue with Google. Opens in new tab" [ref=e189] [cursor=pointer]:
+                        - generic [ref=e191]:
+                          - img [ref=e193]
+                          - generic [ref=e200]: Continue with Google
+                      - iframe
+                    - link "Continue with Email" [ref=e202] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e205]:
+                        - img [ref=e206]
+                        - generic [ref=e208]: Continue with Email
+                  - link "Continue with Phone Number" [ref=e211] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e214]:
+                      - img [ref=e215]
+                      - generic [ref=e218]: Continue with Phone Number
+                  - generic [ref=e219]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e220] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e221] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Answers Section" [ref=e223]:
+                  - heading "Related Answers Section" [level=1] [ref=e224]
+                  - generic [ref=e225]:
+                    - img [ref=e227]
+                    - generic [ref=e229]: Related Answers
+                  - generic [ref=e230]:
+                    - generic [ref=e232]:
+                      - generic [ref=e233]:
+                        - generic [ref=e234]: Most common HVAC mistakes to avoid
+                        - generic [ref=e235]:
+                          - paragraph [ref=e236]: Most common HVAC mistakes to avoid are listed below with real Redditor quotes showing each issue and tip.
+                          - heading "Installation mistakes" [level=3] [ref=e237]
+                          - list [ref=e238]:
+                            - listitem [ref=e239]:
+                              - paragraph [ref=e240]:
+                                - strong [ref=e241]: Incorrect refrigerant handling and charging.
+                                - link "\"Kept adding gas until numbers finally looked normal. Next time the system started it blew a hole in that condenser coil.\"" [ref=e242] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1okei89/comment/nmnlmgi/
+                                  - text: "\"Kept adding gas until numbers finally looked normal. Next time the system started it blew a hole in that condenser coil.\""
+                                  - img [ref=e244]
+                            - listitem [ref=e246]:
+                              - paragraph [ref=e247]:
+                                - strong [ref=e248]: Wrong piping/drain connections or traps.
+                                - link "\"The white pvc drain pipe needs to be connected to the spot where either the gray or red plug is at. It also needs a trap if the coil is on the return air side of the blower.\"" [ref=e249] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/132cwjs/comment/ji4mnzg/
+                                  - text: "\"The white pvc drain pipe needs to be connected to the spot where either the gray or red plug is at. It also needs a trap if the coil is on the return air side of the blower.\""
+                                  - img [ref=e251]
+                            - listitem [ref=e253]:
+                              - paragraph [ref=e254]:
+                                - strong [ref=e255]: Using wrong tools or skipping torque/assembly steps.
+                                - link "\"I used a regular crescent wrench, thinking I could move a little faster. Immediately fucked up.\"" [ref=e256] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1okei89/comment/nmkyu4u/
+                                  - text: "\"I used a regular crescent wrench, thinking I could move a little faster. Immediately fucked up.\""
+                                  - img [ref=e258]
+                          - heading "Control and safety oversights" [level=3] [ref=e260]
+                          - list [ref=e261]:
+                            - listitem [ref=e262]:
+                              - paragraph [ref=e263]:
+                                - strong [ref=e264]: Missing freeze protection or safeties on economizers/BAS.
+                                - link "\"The automation should've had a freezestat on it to shutdown the unit if it was discharging air that cold.\"" [ref=e265] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1i7tg3j/comment/m8ntflq/
+                                  - text: "\"The automation should've had a freezestat on it to shutdown the unit if it was discharging air that cold.\""
+                                  - img [ref=e267]
+                            - listitem [ref=e269]:
+                              - paragraph [ref=e270]:
+                                - strong [ref=e271]: Bypassed or neglected safety circuits and sensors.
+                                - link "\"The freeze stat had been bypassed, coil froze, didnt get noticed until water made its way to the 9th floor.....\"" [ref=e272] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1i7tg3j/comment/m8nx4v8/
+                                  - text: "\"The freeze stat had been bypassed, coil froze, didnt get noticed until water made its way to the 9th floor.....\""
+                                  - img [ref=e274]
+                            - listitem [ref=e276]:
+                              - paragraph [ref=e277]:
+                                - strong [ref=e278]: Not confirming valve/solenoid positions before pressurizing.
+                                - text: "\"There were two solenoid valves leading up to the condenser ... so pretty much the entire charge had made its way into the condenser, I didn’t know this was a thing.\""
+                          - heading "Wiring and electrical errors" [level=3] [ref=e279]
+                          - list [ref=e280]:
+                            - listitem [ref=e281]:
+                              - paragraph [ref=e282]:
+                                - strong [ref=e283]: Applying wrong voltage or miswiring coils.
+                                - link "\"I fried about a thousand dollars worth of equipment by accidentally putting 480v to a 24v coil. Caught the board on fire.\"" [ref=e284] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/pv5vwh/comment/he7wid4/
+                                  - text: "\"I fried about a thousand dollars worth of equipment by accidentally putting 480v to a 24v coil. Caught the board on fire.\""
+                                  - img [ref=e286]
+                            - listitem [ref=e288]:
+                              - paragraph [ref=e289]:
+                                - strong [ref=e290]: Pinched or damaged wiring when reassembling panels.
+                                - link "\"When I put the door back on I somehow pinched a wire. Other techs shorted out blower motors from not reconnecting the capacitor.\"" [ref=e291] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/pv5vwh/comment/he7qn5m/
+                                  - text: "\"When I put the door back on I somehow pinched a wire. Other techs shorted out blower motors from not reconnecting the capacitor.\""
+                                  - img [ref=e293]
+                            - listitem [ref=e295]:
+                              - paragraph [ref=e296]:
+                                - strong [ref=e297]: Not double-checking wiring before power-up.
+                                - link "\"Always double check and confirm wiring before applying power. Never assume that because it was wired 1 way when you got there that it was correct.\"" [ref=e298] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/pv5vwh/comment/he7rcat/
+                                  - text: "\"Always double check and confirm wiring before applying power. Never assume that because it was wired 1 way when you got there that it was correct.\""
+                                  - img [ref=e300]
+                          - heading "Refrigerant and service procedure errors" [level=3] [ref=e302]
+                          - list [ref=e303]:
+                            - listitem [ref=e304]:
+                              - paragraph [ref=e305]:
+                                - strong [ref=e306]: Recovering or reclaiming the wrong circuit.
+                                - link "\"I reclaimed the wrong circuit on a unit to fix the condenser coil. Woops.\"" [ref=e307] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1cy1ljf/comment/l57hd75/
+                                  - text: "\"I reclaimed the wrong circuit on a unit to fix the condenser coil. Woops.\""
+                                  - img [ref=e309]
+                            - listitem [ref=e311]:
+                              - paragraph [ref=e312]:
+                                - strong [ref=e313]: Not checking for closed EEVs or trapped charge before cutting.
+                                - text: "\"The eev had a blockage in this heat pump, trapping the refrigerant in. We’ll have to be more careful...\""
+                            - listitem [ref=e314]:
+                              - paragraph [ref=e315]:
+                                - strong [ref=e316]: Rapid or careless nitrogen use causing frosting/oil issues.
+                                - text: "\"When I put on my permanent coils I could barely notice a difference ... then my manifold began freezing, and oil came out of my hose.\""
+                          - heading "Human factors and training gaps" [level=3] [ref=e317]
+                          - list [ref=e318]:
+                            - listitem [ref=e319]:
+                              - paragraph [ref=e320]:
+                                - strong [ref=e321]: Rushing, panicking, or lack of experience leading to mistakes.
+                                - text: "\"When I go on service calls I panic ... The anxiety of not knowing what I'm going to run into drives me up a wall though.\""
+                            - listitem [ref=e322]:
+                              - paragraph [ref=e323]:
+                                - strong [ref=e324]: Not owning mistakes or failing to learn from them.
+                                - link "\"The key to this job is fixing your mistakes (ideally before anyone notices) and then LEARNING from those mistakes.\"" [ref=e325] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1jf5ijg/comment/mip5een/?tl=en
+                                  - text: "\"The key to this job is fixing your mistakes (ideally before anyone notices) and then LEARNING from those mistakes.\""
+                                  - img [ref=e327]
+                                  - img [ref=e330]
+                            - listitem [ref=e332]:
+                              - paragraph [ref=e333]:
+                                - strong [ref=e334]: Assuming others handled prep or safeties.
+                                - link "\"I manually opened the damper ... Over the weekend, the temperatures fell below freezing and Monday there was 2 hydronic reheat coils that burst.\"" [ref=e335] [cursor=pointer]:
+                                  - /url: https://www.reddit.com/r/HVAC/comments/1i7tg3j/i_made_a_300000_mistake/
+                                  - text: "\"I manually opened the damper ... Over the weekend, the temperatures fell below freezing and Monday there was 2 hydronic reheat coils that burst.\""
+                                  - img [ref=e337]
+                          - paragraph [ref=e339]: Avoiding these common mistakes comes down to slow, methodical work, confirming safeties and valves, double-checking wiring and pressures, and treating every error as a learning step so they aren’t repeated.
+                          - heading "Related Media" [level=3] [ref=e340]
+                          - generic [ref=e342]:
+                            - list [ref=e345]:
+                              - generic:
+                                - listitem [ref=e346] [cursor=pointer]:
+                                  - link "response_carousel_media_0" [ref=e347]:
+                                    - /url: /r/HVAC/comments/1cy1ljf/hmmm/
+                                    - img "response_carousel_media_0" [ref=e349]
+                                - listitem [ref=e351] [cursor=pointer]:
+                                  - link "response_carousel_media_1" [ref=e352]:
+                                    - /url: /r/Plumbing/comments/18bgazn/hvac_guy_here_saw_this_during_a_call/
+                                    - img "response_carousel_media_1" [ref=e354]
+                            - generic [ref=e356]: Related images from across Reddit
+                          - separator [ref=e357]
+                          - heading "Communities for Further Discussion" [level=3] [ref=e358]
+                          - link "Plumbing 1.1M weekly visitors Join A place for plumbing advice and help. Do not advertise or try to compare pricing." [ref=e363] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Plumbing/
+                            - generic [ref=e364]:
+                              - generic [ref=e365]:
+                                - generic [ref=e368]:
+                                  - generic [ref=e369]: Plumbing
+                                  - generic [ref=e370]:
+                                    - generic [ref=e371]: 1.1M
+                                    - text: weekly visitors
+                                - button "Join" [ref=e373]
+                              - generic [ref=e374]: A place for plumbing advice and help. Do not advertise or try to compare pricing.
+                      - link "See Answer" [ref=e379] [cursor=pointer]:
+                        - /url: https://www.reddit.com/answers/ef0094d4-18e4-4acb-a488-acfc757aa48a/?q=Most+common+HVAC+mistakes+to+avoid&source=PDP
+                        - generic [ref=e381]: See Answer
+                    - link "Best practices for HVAC system maintenance" [ref=e383] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/72febd3c-e604-44b3-b232-f598a149c749/?q=Best+practices+for+HVAC+system+maintenance&source=PDP
+                      - generic [ref=e386]: Best practices for HVAC system maintenance
+                      - img [ref=e389]
+                    - link "Unique HVAC solutions for small spaces" [ref=e392] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/51e8d6f6-5d6f-4cc7-96c3-22890813bffe/?q=Unique+HVAC+solutions+for+small+spaces&source=PDP
+                      - generic [ref=e395]: Unique HVAC solutions for small spaces
+                      - img [ref=e398]
+                    - link "Tips for improving indoor air quality" [ref=e401] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/5f0a786c-fe9d-4251-ac2d-3d157189b714/?q=Tips+for+improving+indoor+air+quality&source=PDP
+                      - generic [ref=e404]: Tips for improving indoor air quality
+                      - img [ref=e407]
+                    - link "Challenges faced by HVAC technicians today" [ref=e410] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/0ac1cb42-0fb6-490b-8251-6cf802f6eaee/?q=Challenges+faced+by+HVAC+technicians+today&source=PDP
+                      - generic [ref=e413]: Challenges faced by HVAC technicians today
+                      - img [ref=e416]
+                - complementary "Community information" [ref=e1021]:
+                  - generic [ref=e1023]:
+                    - heading "Community Info Section" [level=1] [ref=e1024]
+                    - generic [ref=e1025]:
+                      - link "r/HVAC" [ref=e1027] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e1028]: r/HVAC
+                      - button "Join" [ref=e1032] [cursor=pointer]
+                    - generic [ref=e1033]:
+                      - generic [ref=e1034]: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+                      - generic [ref=e1035]: A subreddit for Heating, Ventilation, & Air Conditioning Technicians. If you are not a member of the trade, please post in r/hvacadvice.
+                      - button "Show more" [ref=e1036] [cursor=pointer]:
+                        - generic [ref=e1038]: Show more
+                      - generic [ref=e1041]:
+                        - img [ref=e1042]
+                        - text: Public
+              - generic [ref=e1045]:
+                - link "Reddit Rules" [ref=e1048] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e1051] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e1054] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e1057] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e1060] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1062] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e1064]:
+          - button "Collapse Navigation" [ref=e1067] [cursor=pointer]:
+            - img [ref=e1070]
+            - generic [ref=e1072]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e1077]:
+            - generic [ref=e1079]:
+              - link "Home" [ref=e1081] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e1082]:
+                  - img [ref=e1084]
+                  - generic [ref=e1087]: Home
+              - link "Popular" [ref=e1089] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e1090]:
+                  - img [ref=e1092]
+                  - generic [ref=e1095]: Popular
+              - link "News" [ref=e1096] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e1097]:
+                  - img [ref=e1099]
+                  - generic [ref=e1103]: News
+              - link "Explore" [ref=e1105] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e1106]:
+                  - img [ref=e1108]
+                  - generic [ref=e1111]: Explore
+            - separator [ref=e1112]
+            - group [ref=e1115]:
+              - generic "RECENT" [ref=e1116] [cursor=pointer]:
+                - generic [ref=e1117]:
+                  - generic [ref=e1120]: RECENT
+                  - img [ref=e1123]
+              - link "r/HVAC" [ref=e1127] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e1128]:
+                  - img [ref=e1133]
+                  - generic [ref=e1136]: r/HVAC
+            - navigation "Reddit resources" [ref=e1137]:
+              - group [ref=e1139]:
+                - generic "RESOURCES" [ref=e1140] [cursor=pointer]:
+                  - generic [ref=e1142]:
+                    - generic [ref=e1145]: RESOURCES
+                    - img [ref=e1148]
+                - generic [ref=e1151]:
+                  - link "About Reddit" [ref=e1153] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1154]:
+                      - img [ref=e1156]
+                      - generic [ref=e1160]: About Reddit
+                  - link "Advertise" [ref=e1162] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1163]:
+                      - img [ref=e1165]
+                      - generic [ref=e1169]: Advertise
+                  - link "Developer Platform" [ref=e1171] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1172]:
+                      - img [ref=e1174]
+                      - generic [ref=e1178]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1180] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1181]:
+                      - img [ref=e1183]
+                      - generic [ref=e1187]:
+                        - generic [ref=e1188]: Reddit Pro
+                        - generic [ref=e1189]: BETA
+                  - link "Help" [ref=e1191] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1192]:
+                      - img [ref=e1194]
+                      - generic [ref=e1198]: Help
+                  - link "Blog" [ref=e1200] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1201]:
+                      - img [ref=e1203]
+                      - generic [ref=e1207]: Blog
+                  - link "Careers" [ref=e1209] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1210]:
+                      - img [ref=e1212]
+                      - generic [ref=e1216]: Careers
+                  - link "Press" [ref=e1218] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1219]:
+                      - img [ref=e1221]
+                      - generic [ref=e1225]: Press
+                  - separator [ref=e1226]
+                  - link "Best of Reddit" [ref=e1228] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1229]:
+                      - img [ref=e1231]
+                      - generic [ref=e1236]: Best of Reddit
+                  - separator [ref=e1237]
+                  - link "Reddit Rules" [ref=e1239] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1240]:
+                      - img [ref=e1242]
+                      - generic [ref=e1246]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1248] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1249]:
+                      - img [ref=e1251]
+                      - generic [ref=e1255]: Privacy Policy
+                  - link "User Agreement" [ref=e1257] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1258]:
+                      - img [ref=e1260]
+                      - generic [ref=e1264]: User Agreement
+                  - link "Your Privacy Choices" [ref=e1266] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e1267]:
+                      - img [ref=e1269]
+                      - generic [ref=e1273]: Your Privacy Choices
+                  - link "Accessibility" [ref=e1275] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1276]:
+                      - img [ref=e1278]
+                      - generic [ref=e1283]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1285] [cursor=pointer]:
+              - /url: https://redditinc.com

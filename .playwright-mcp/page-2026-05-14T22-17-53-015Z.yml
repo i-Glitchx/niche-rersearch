@@ -1,0 +1,287 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Where do you actually find good techs in this trade? : r/HVAC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/HVAC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/HVAC
+                  - img [ref=e49]
+              - textbox "Remove r/HVAC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/HVAC⁩
+          - generic [ref=e53]:
+            - link "Sign Up" [ref=e59] [cursor=pointer]:
+              - /url: https://www.reddit.com/register/
+              - generic [ref=e61]: Sign Up
+            - link "Log In" [ref=e65] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e67]: Log In
+            - button "Expand user menu" [ref=e72] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]:
+                - generic: Expand user menu
+      - generic [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e81] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e82] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e83]:
+            - main [ref=e84]:
+              - 'generic "Where do you actually find good techs in this trade? : r/HVAC"'
+              - generic [ref=e85]:
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - button "Back" [ref=e89] [cursor=pointer]:
+                      - img [ref=e92]
+                      - generic [ref=e94]:
+                        - generic: Back
+                    - link "Go to HVAC" [ref=e97] [cursor=pointer]:
+                      - /url: /r/HVAC/
+                      - generic [ref=e101]:
+                        - generic: Go to HVAC
+                    - group [ref=e102]:
+                      - generic [ref=e103]:
+                        - link "r/HVAC" [ref=e106] [cursor=pointer]:
+                          - /url: /r/HVAC/
+                        - generic [ref=e107]: •
+                        - time [ref=e108]: 1mo ago
+                      - 'link "Author: Drewski_120" [ref=e113] [cursor=pointer]':
+                        - /url: /user/Drewski_120/
+                        - generic [ref=e114]: Drewski_120
+                  - button "Open user actions" [ref=e118] [cursor=pointer]:
+                    - img [ref=e121]
+                - 'heading "Post Title: Where do you actually find good techs in this trade?" [level=1] [ref=e125]': Where do you actually find good techs in this trade?
+                - generic [ref=e129]:
+                  - paragraph [ref=e130]: Just signed a deal to take over a decades old commercial refrigeration company in the Philadelphia area. Coming from the engineering and construction side 11 years designing and building commercial/industrial mechanical systems including the last 4 at a $40mm /yr mechanical contractor. Licensed PE. Not a service tech.
+                  - paragraph [ref=e131]: The company has hundreds of long term accounts that haven't had anyone touch their HVAC equipment in decades. I intend to fix that. Where do you actually find good people in this trade? Besides actually standing outside United Refrigeration with coffee and cigarettes but I'm open to better ideas.
+                  - paragraph [ref=e132]: Also open to hearing from anyone who might be interested. Philadelphia area. Deal closes mid June. No private equity BS. No ServiceTitan. No flat rate book. No upsell quotas. Just good work and good pay.
+                - generic [ref=e133]:
+                  - img [ref=e134]
+                  - generic [ref=e136]: "40"
+                  - img [ref=e137]
+                  - generic [ref=e139]: ·
+                  - img [ref=e140]
+                  - generic [ref=e142]: "75"
+              - img [ref=e147]
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - complementary [ref=e164]:
+                  - generic [ref=e165]:
+                    - generic [ref=e166]: New to Reddit?
+                    - paragraph [ref=e167]: Create your account and connect with a world of communities.
+                  - generic [ref=e168]:
+                    - generic [ref=e176]:
+                      - button "Continue with Google. Opens in new tab" [ref=e178] [cursor=pointer]:
+                        - generic [ref=e180]:
+                          - img [ref=e182]
+                          - generic [ref=e189]: Continue with Google
+                      - iframe
+                    - link "Continue with Email" [ref=e191] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e194]:
+                        - img [ref=e195]
+                        - generic [ref=e197]: Continue with Email
+                  - link "Continue with Phone Number" [ref=e200] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e203]:
+                      - img [ref=e204]
+                      - generic [ref=e207]: Continue with Phone Number
+                  - generic [ref=e208]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e209] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e210] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Answers Section" [ref=e212]:
+                  - heading "Related Answers Section" [level=1] [ref=e213]
+                  - generic [ref=e214]:
+                    - img [ref=e216]
+                    - generic [ref=e218]: Related Answers
+                  - generic [ref=e219]:
+                    - link "Best ways to recruit HVAC technicians" [ref=e221] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/ab34140c-efce-4e9a-bc66-349d89998262/?q=Best+ways+to+recruit+HVAC+technicians&source=PDP
+                      - generic [ref=e224]: Best ways to recruit HVAC technicians
+                      - img [ref=e227]
+                    - link "Furnace versus air conditioner comparison" [ref=e230] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/89459a23-8fd3-43de-8c4f-89ff286ed874/?q=Furnace+versus+air+conditioner+comparison&source=PDP
+                      - generic [ref=e233]: Furnace versus air conditioner comparison
+                      - img [ref=e236]
+                    - link "Learning HVAC duration and tips" [ref=e239] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/6d21141f-b16e-45b3-ad77-90eda7e24e51/?q=Learning+HVAC+duration+and+tips&source=PDP
+                      - generic [ref=e242]: Learning HVAC duration and tips
+                      - img [ref=e245]
+                    - link "Profitability of HVAC businesses" [ref=e248] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/40089c0f-cc5f-452d-8a6e-4a9a676cacde/?q=Profitability+of+HVAC+businesses&source=PDP
+                      - generic [ref=e251]: Profitability of HVAC businesses
+                      - img [ref=e254]
+                    - link "Commercial HVAC work insights" [ref=e257] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/a9799dcb-f9af-482b-b37c-66acbb10c3d9/?q=Commercial+HVAC+work+insights&source=PDP
+                      - generic [ref=e260]: Commercial HVAC work insights
+                      - img [ref=e263]
+                - complementary "Community information" [ref=e868]:
+                  - generic [ref=e870]:
+                    - heading "Community Info Section" [level=1] [ref=e871]
+                    - generic [ref=e872]:
+                      - link "r/HVAC" [ref=e874] [cursor=pointer]:
+                        - /url: /r/HVAC/
+                        - generic [ref=e875]: r/HVAC
+                      - button "Join" [ref=e879] [cursor=pointer]
+                    - generic [ref=e880]:
+                      - generic [ref=e881]: A subreddit for HVAC professionals - try r/hvacadvice for out-of-the-field questions or comments.
+                      - generic [ref=e882]: A subreddit for Heating, Ventilation, & Air Conditioning Technicians. If you are not a member of the trade, please post in r/hvacadvice.
+                      - button "Show more" [ref=e883] [cursor=pointer]:
+                        - generic [ref=e885]: Show more
+                      - generic [ref=e888]:
+                        - img [ref=e889]
+                        - text: Public
+              - generic [ref=e892]:
+                - link "Reddit Rules" [ref=e895] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e898] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e901] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e904] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e907] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e909] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e911]:
+          - button "Collapse Navigation" [ref=e914] [cursor=pointer]:
+            - img [ref=e917]
+            - generic [ref=e919]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e924]:
+            - generic [ref=e926]:
+              - link "Home" [ref=e928] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e929]:
+                  - img [ref=e931]
+                  - generic [ref=e934]: Home
+              - link "Popular" [ref=e936] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e937]:
+                  - img [ref=e939]
+                  - generic [ref=e942]: Popular
+              - link "News" [ref=e943] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e944]:
+                  - img [ref=e946]
+                  - generic [ref=e950]: News
+              - link "Explore" [ref=e952] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e953]:
+                  - img [ref=e955]
+                  - generic [ref=e958]: Explore
+            - separator [ref=e959]
+            - group [ref=e962]:
+              - generic "RECENT" [ref=e963] [cursor=pointer]:
+                - generic [ref=e964]:
+                  - generic [ref=e967]: RECENT
+                  - img [ref=e970]
+              - link "r/HVAC" [ref=e974] [cursor=pointer]:
+                - /url: /r/HVAC/
+                - generic [ref=e975]:
+                  - img [ref=e980]
+                  - generic [ref=e983]: r/HVAC
+            - navigation "Reddit resources" [ref=e984]:
+              - group [ref=e986]:
+                - generic "RESOURCES" [ref=e987] [cursor=pointer]:
+                  - generic [ref=e989]:
+                    - generic [ref=e992]: RESOURCES
+                    - img [ref=e995]
+                - generic [ref=e998]:
+                  - link "About Reddit" [ref=e1000] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1001]:
+                      - img [ref=e1003]
+                      - generic [ref=e1007]: About Reddit
+                  - link "Advertise" [ref=e1009] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1010]:
+                      - img [ref=e1012]
+                      - generic [ref=e1016]: Advertise
+                  - link "Developer Platform" [ref=e1018] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1019]:
+                      - img [ref=e1021]
+                      - generic [ref=e1025]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1027] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1028]:
+                      - img [ref=e1030]
+                      - generic [ref=e1034]:
+                        - generic [ref=e1035]: Reddit Pro
+                        - generic [ref=e1036]: BETA
+                  - link "Help" [ref=e1038] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1039]:
+                      - img [ref=e1041]
+                      - generic [ref=e1045]: Help
+                  - link "Blog" [ref=e1047] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1048]:
+                      - img [ref=e1050]
+                      - generic [ref=e1054]: Blog
+                  - link "Careers" [ref=e1056] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1057]:
+                      - img [ref=e1059]
+                      - generic [ref=e1063]: Careers
+                  - link "Press" [ref=e1065] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1066]:
+                      - img [ref=e1068]
+                      - generic [ref=e1072]: Press
+                  - separator [ref=e1073]
+                  - link "Best of Reddit" [ref=e1075] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1076]:
+                      - img [ref=e1078]
+                      - generic [ref=e1083]: Best of Reddit
+                  - separator [ref=e1084]
+                  - link "Reddit Rules" [ref=e1086] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1087]:
+                      - img [ref=e1089]
+                      - generic [ref=e1093]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1095] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1096]:
+                      - img [ref=e1098]
+                      - generic [ref=e1102]: Privacy Policy
+                  - link "User Agreement" [ref=e1104] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1105]:
+                      - img [ref=e1107]
+                      - generic [ref=e1111]: User Agreement
+                  - link "Your Privacy Choices" [ref=e1113] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e1114]:
+                      - img [ref=e1116]
+                      - generic [ref=e1120]: Your Privacy Choices
+                  - link "Accessibility" [ref=e1122] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1123]:
+                      - img [ref=e1125]
+                      - generic [ref=e1130]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1132] [cursor=pointer]:
+              - /url: https://redditinc.com
