@@ -1,0 +1,27 @@
+# Playwright MCP session artifacts
+.playwright-mcp/
+
+# Repomix output (regenerated; not source of truth)
+repomix-output.md
+repomix-output.xml
+repomix-output.txt
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local Claude Code state that shouldn't be shared
+.claude/settings.local.json
+
+# Logs / scratch
+*.log
+.scratch/
+tmp/
