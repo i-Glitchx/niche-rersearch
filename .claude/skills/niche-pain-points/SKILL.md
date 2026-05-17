@@ -101,8 +101,9 @@ on whatever the user has pre-collected.
    step (see "Reddit collection via Playwright") to populate the
    directory before clustering. A niche whose directory is still empty
    after collection is **skipped**, not snippet-derived.
-4. The most recent prior report in `outputs/`, for the `NEW THIS WEEK`
-   flag.
+4. `outputs/themes-ledger.md`, for theme-ID assignment and the
+   `NEW THIS WEEK` flag. If the file is missing, this is the first
+   run and the ledger starts empty.
 
 `config/sources.md` is **not** read by the skill in this design — it is
 the user's checklist while they gather raw inputs in their browser.
@@ -200,13 +201,65 @@ If a niche has raw inputs but no cluster reaches the 2-quote bar,
 produce zero themes for that niche and say so under its section. Don't
 stretch single quotes into themes.
 
-## NEW THIS WEEK flag
+## Themes ledger (source of truth for theme identity across runs)
 
-Find the most recent prior report in `outputs/` (ignoring the current
-run's file if it exists). For each theme in the current report, mark
-it `NEW THIS WEEK` if no theme in the prior report for the same niche
-covers the same underlying pain. Be conservative — a rephrasing isn't
-new. If no prior report exists, omit the flag entirely on every theme.
+`outputs/themes-ledger.md` is an append-only log of every theme ever
+surfaced across all runs. It is the **authoritative source for theme
+identity over time** — it's how this run knows whether a pain it just
+surfaced is a returning theme or a genuinely new one.
+
+Read it before clustering, write to it after. See the file's own
+header for schema and ID-assignment rules; the workflow below is what
+the skill does at runtime.
+
+### Read phase (before clustering)
+
+1. Open `outputs/themes-ledger.md`. If the file doesn't exist, treat
+   the ledger as empty — this is the first run.
+2. Build an in-memory map: for each niche in scope this run, list
+   every prior `(theme_id, theme_title, last seen run_date)` for that
+   niche. This is your "prior themes" reference for ID assignment and
+   the NEW THIS WEEK flag.
+
+### Write phase (after clustering, before writing the report)
+
+For each theme the skill produced this run:
+
+1. **Assign `theme_id`.**
+   - Check the prior-themes map for the same niche. If the current
+     theme covers the same underlying pain as a prior theme_id, reuse
+     that ID. "Same underlying pain" means same root cause, not same
+     wording — be conservative; a rephrasing is a match, a different
+     root cause is not.
+   - If no match, mint the next free ID for the niche:
+     `<niche-slug>-NN` where NN is one greater than the highest
+     existing number for that niche (zero-padded to 2 digits, or more
+     once the niche crosses 99).
+2. **Set `is_new`.** True if `theme_id` was minted fresh in step 1,
+   false if it was reused.
+3. **Append one row** to `outputs/themes-ledger.md` with the schema
+   columns (run_date, niche_slug, theme_id, theme_title, intensity,
+   frequency, quote_count, is_new, report_file). Newest rows at the
+   bottom. Never edit or delete prior rows.
+
+## NEW THIS WEEK flag in the report
+
+A theme is flagged `[NEW THIS WEEK]` in the report if and only if its
+ledger row for this run has `is_new = true`. The flag is the
+report-facing surface of the ledger's `is_new` decision — they must
+agree. If no prior ledger entries exist for the niche, omit the flag
+on every theme (don't write `[NEW THIS WEEK]` against everything on
+the first run for a niche).
+
+### Why this design
+
+The ledger replaces the previous "diff against the most recent prior
+report" approach. Comparing reports by reading their markdown is
+fuzzy and depends on title wording; the ledger gives every theme a
+stable ID, so "is this theme new?" becomes a lookup, not an
+interpretation. It also enables cross-run analysis (recurring,
+accelerating, fading themes) that report-by-report comparison can't
+support.
 
 ## Report template
 
