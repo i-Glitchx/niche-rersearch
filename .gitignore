@@ -25,3 +25,8 @@ desktop.ini
 *.log
 .scratch/
 tmp/
+
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
