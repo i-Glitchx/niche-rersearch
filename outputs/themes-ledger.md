@@ -52,4 +52,8 @@ Use this file to spot:
 <!-- Format: pipe-delimited table rows matching the schema above. -->
 
 | run_date | niche_slug | theme_id | theme_title | intensity | frequency | quote_count | is_new | report_file |
-|---|---|---|---|---|---|---|---|---|
+| 2026-05-14 | trades-hvac-plumbing-electrical | trades-hvac-plumbing-electrical-01 | Private-equity rollups push replacement quotas and "find problems" culture | 5 | high | 4 | true | outputs/pain-points-trades-hvac-plumbing-electrical-2026-05-14.md |
+| 2026-05-14 | trades-hvac-plumbing-electrical | trades-hvac-plumbing-electrical-02 | ServiceTitan "Field Pro" surveillance and AI sales coaching of techs | 5 | med | 3 | true | outputs/pain-points-trades-hvac-plumbing-electrical-2026-05-14.md |
+| 2026-05-14 | trades-hvac-plumbing-electrical | trades-hvac-plumbing-electrical-03 | Office overrides field schedule; tech absorbs the customer anger | 3 | high | 4 | true | outputs/pain-points-trades-hvac-plumbing-electrical-2026-05-14.md |
+| 2026-05-14 | trades-hvac-plumbing-electrical | trades-hvac-plumbing-electrical-04 | Hidden job-cost leakage between quote and final invoice | 4 | med | 4 | true | outputs/pain-points-trades-hvac-plumbing-electrical-2026-05-14.md |
+| 2026-05-14 | trades-hvac-plumbing-electrical | trades-hvac-plumbing-electrical-05 | B2B commercial sales gatekeeping — front desk wall, wrong decision-maker | 3 | med | 4 | true | outputs/pain-points-trades-hvac-plumbing-electrical-2026-05-14.md |
