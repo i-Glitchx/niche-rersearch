@@ -25,8 +25,12 @@ Each source line:
 - `[reddit-api]` — Reddit source eligible for the authenticated Reddit
   API path once that's set up (currently all Reddit sources will move
   here)
+- `[forum-pw]` — non-Reddit forum (e.g. vBulletin, XenForo) reachable
+  via Playwright MCP; behaves like a Reddit-pw source but on a different
+  platform. Use this when the forum loads and content is extractable
+  without login.
 - `[manual]` — copy-paste from browser; the page works fine, you just
-  have to do it by hand (e.g. some forums, niche Q&A)
+  have to do it by hand (e.g. login-walled forums, niche Q&A)
 - `[blocked]` — anti-bot wall, login required, or otherwise not
   fetchable; collect manually or skip. Note the reason after the URL.
 - `[aggregator]` — secondhand source (review-aggregator blog,
@@ -109,12 +113,12 @@ HIPAA-specific workflows — those belong to other niches per `niches.md`.
   last_collected: 2026-05-14
 
 ### Forums
-- [blocked] https://hvac-talk.com/vbb/forumdisplay.php?7-Business-Marketing-and-Sales — Business/Marketing/Sales section (tollbit anti-bot per 2026-05-14 run)
-  last_collected: never
-- [manual] https://www.plumbingzone.com/ — PlumbingZone business forum # verify section URL
-  last_collected: never
-- [manual] https://www.electriciantalk.com/ — Electrician Talk business sections # verify section URL
-  last_collected: never
+- [forum-pw] https://www.hvac-talk.com/forums/general-discussion.3/ — primary in-window content section (legacy /vbb/ URL 301-redirects to a near-empty section after the platform's migration to XenForo). Anti-bot wall from 2026-05-14 is no longer active. Practitioner content lives in *replies*, not OPs; ~3–5 citable units per month. Note: forum has a formal vendor-payment rule — software vendors posting promotional OPs get flagged and threads get admin-closed.
+  last_collected: 2026-05-24
+- [forum-pw] https://www.hvac-talk.com/forums/tech-to-tech-chat-residential.1122/ — secondary in-window content section; same access pattern as above
+  last_collected: 2026-05-24
+- [forum-pw] https://www.electriciantalk.com/forums/business-marketing-and-sales.15/ — Business/Marketing/Sales sub-forum; small but active, 3+ in-window threads on bidding, GC pricing, solo first-year operator pricing. No vendor-payment rule, no anti-bot. Recommend monthly recollection.
+  last_collected: 2026-05-24
 
 ### Review sites
 - [blocked] https://www.g2.com/products/housecall-pro/reviews — Housecall Pro low-star (G2 403)
@@ -133,6 +137,10 @@ HIPAA-specific workflows — those belong to other niches per `niches.md`.
   last_collected: never
 - [aggregator] https://fieldcamp.ai/blog/best-hvac-apps/ — links to other commentary on small-HVAC software
   last_collected: never
+
+### Stale (not worth recollecting unless something changes)
+- [stale] https://www.plumbingzone.com/forums/business-marketing-and-sales.4/ — reachable, no anti-bot, but the Business/Marketing/Sales sub-forum is effectively abandoned (newest thread 2026-02-12, 102 days stale as of 2026-05-24 run). The plumbing-side conversation lives on r/Plumbing instead. Re-evaluate in 6 months.
+  last_collected: 2026-05-24 (confirmed dead)
 
 ---
 
