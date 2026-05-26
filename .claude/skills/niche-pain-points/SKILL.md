@@ -242,6 +242,69 @@ For each theme the skill produced this run:
    frequency, quote_count, is_new, report_file). Newest rows at the
    bottom. Never edit or delete prior rows.
 
+## Contacts tracking (validation outreach log)
+
+`validation/contacts.md` is an append-only log of every cited user
+across all runs, linked to the `theme_id` they support. The purpose
+is product-validation outreach: when a theme looks promising, the user
+pulls the rows for that `theme_id` and reaches out to the people who
+already articulated the pain in public. See that file's header for
+schema, provenance rules, and outreach rules (no cold DMs).
+
+### When the skill writes to it
+
+After clustering produces themes, append rows to
+`validation/contacts.md` for **each citable unit supporting each theme
+in this run**. One row per `(theme_id, permalink)` pair. Duplicates
+across runs (the same comment cited again in a later run for the same
+theme) are fine and expected — the file is append-only, so just
+append the new row.
+
+### Where it sits in the run order
+
+1. Cluster themes.
+2. Write phase for the themes ledger (assign `theme_id`, append rows
+   to `outputs/themes-ledger.md`).
+3. **Write phase for `validation/contacts.md`** — append a row per
+   `(theme_id, permalink)` for every cited unit in this run. This
+   step happens **after** the themes ledger write (because it needs
+   the assigned `theme_id`s) and **before** the report file write.
+4. Write the dated report to `outputs/`.
+
+### Row fields the skill fills
+
+For each cited unit:
+- `theme_id` — from the just-written ledger row.
+- `platform` — `reddit` for any reddit.com permalink. Extend to other
+  platform slugs (e.g. `hvac-talk`, `plumbingzone`) as off-Reddit
+  sources come online.
+- `username` — extracted from the permalink path **only**. Reddit
+  comment permalinks
+  (`reddit.com/r/SUBREDDIT/comments/THREADID/title/COMMENTID/`)
+  do not contain the author handle, so write `unknown` unless the
+  username is visible verbatim in the raw-input file. Never invent.
+- `permalink` — the exact URL cited in the report.
+- `post_date` — the date from the citable unit.
+- `quote_preview` — first ~80 characters of the quote, verbatim,
+  with `...` appended if truncated.
+- `contacted` — always `no` when the skill writes the row.
+- `response_notes` — leave blank, or use it only to flag
+  "username needs manual lookup before outreach" when `username` is
+  `unknown`.
+
+### Fields the skill never touches
+
+The skill is forbidden from writing to:
+- `contacted` (other than the default `no` on initial append)
+- `contacted_via`
+- `contacted_date`
+- any `response_notes` content beyond a username-lookup flag
+
+Those fields are **human-only**. The skill does not infer, summarise,
+or backfill them. If the user has previously contacted a person and
+that data lives in earlier rows, the skill leaves those rows alone —
+new rows for new runs are independent appends.
+
 ## NEW THIS WEEK flag in the report
 
 A theme is flagged `[NEW THIS WEEK]` in the report if and only if its
